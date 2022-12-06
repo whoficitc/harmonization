@@ -5,9 +5,9 @@
 #   and ICD-11 Anatomic Detail (from the Extension codes)
 #   made within the harmonization effort of the WHO Family of International Classifications
 # mapping_set_version: '2022-12-01'
-# author_id: "orcid:0000-0002-0319-3579|orcid:0000-0002-0075-5652|orcid:0000-0001-7320-2947|orcid:0000-0002-0295-7821|orcid:0000-0002-0144-3802"
+# author_id: 'orcid:0000-0002-0319-3579|orcid:0000-0002-0075-5652|orcid:0000-0001-7320-2947|orcid:0000-0002-0295-7821|orcid:0000-0002-0144-3802'
 # subject_source: https://apps.who.int/classifications/icfbrowser/
-# subject_source_version: "ICF 2017"
+# subject_source_version: 'ICF 2017'
 # object_source: https://id.who.int/icd/entity/
 # object_source_version: https://id.who.int/icd/entity?releaseId=2022-02
 # comment: Experimental mappings generated for the harmonization between ICF Body Structures and ICD-11 Anatomic Detail. 
