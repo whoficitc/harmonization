@@ -9,6 +9,8 @@ Here we collect maps (and eventually other material) that has been developed to 
 ## Anatomy
 One important set of shared concepts is the representation of human anatomy entities, which are not always modeled in the same way and with the same level of detail. The first task tackled by the Working Group on Harmonization focused on the anatomy representations in ICF and ICD-11 by mapping anatomical entities in the two classifications. 
 
+The first artifact produced is a set of maps from ICF Body Structures to ICD-11 Anatomic detail (from Extension codes): https://github.com/whoficitc/harmonization/blob/main/ICF-ICD-anatomy-v1.tsv
+
 ## TO DO
 - replication of the mapping work to ICHI anatomical targets;
 - mapping of related impairments of ICF to symptoms in ICD-11;
