@@ -6,6 +6,9 @@ The Family of International Classifications of the World Health Organization cur
 
 Here we collect maps (and eventually other material) that has been developed to reach this aim.
 
+## Sources
+Most of the work involves the WHO-FIC Foundation, accessible at https://icd.who.int/dev11/f/en .
+
 ## Anatomy
 One important set of shared concepts is the representation of human anatomy entities, which are not always modeled in the same way and with the same level of detail. The first task tackled by the Working Group on Harmonization focused on the anatomy representations in ICF and ICD-11 by mapping anatomical entities in the two classifications. 
 
