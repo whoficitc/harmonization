@@ -1,6 +1,6 @@
-# mapping_set_id: https://w3id.org/sssom/tutorial/example1.sssom.tsv
+# mapping_set_id: https://github.com/whoficitc/harmonization/blob/main/ICF-ICD-anatomy-v1.tsv
 # license: https://creativecommons.org/licenses/by/4.0/
-# mapping_date: '2022-12-02'
+# mapping_date: '2022-12-01'
 # mapping_set_description: Manually curated mapping  of ICF Body Structures
 #   and ICD-11 Anatomic Detail (from the Extension codes)
 #   made within the harmonization effort of the WHO Family of International Classifications
