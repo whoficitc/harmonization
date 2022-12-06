@@ -17,3 +17,421 @@
 #   ICD: https://id.who.int/icd/entity/
 #   skos: http://www.w3.org/2004/02/skos/core#
 #   sssom: https://w3id.org/sssom/
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
+ICF:1419635799	Structures of the nervous system	skos:ExactMatch	ICD:340179422	Nervous system	semapv:ManualMappingCuration
+ICF:634949825	Structure of brain	skos:ExactMatch	ICD:1048482858	Brain	semapv:ManualMappingCuration
+ICF:920457524	Structure of cortical lobes	skos:ExactMatch	ICD:289527694	Cerebral lobe	semapv:ManualMappingCuration
+ICF:920457524	Structure of cortical lobes	skos:NarrowMatch	ICD:1805742970	Cerebral cortex	semapv:ManualMappingCuration
+ICF:885972928	Frontal lobe	skos:ExactMatch	ICD:55403270	Frontal Lobe	semapv:ManualMappingCuration
+ICF:602323840	Temporal lobe	skos:ExactMatch	ICD:1220842694	Temporal lobe	semapv:ManualMappingCuration
+ICF:446568000	Parietal lobe	skos:ExactMatch	ICD:342165446	Parietal Lobe	semapv:ManualMappingCuration
+ICF:230060800	Occipital lobe	skos:ExactMatch	ICD:1609363462	Occipital lobe	semapv:ManualMappingCuration
+ICF:569734644	Structure of midbrain	skos:ExactMatch	ICD:698519726	Midbrain	semapv:ManualMappingCuration
+ICF:411949236	Structure of diencephalon	skos:NarrowMatch	ICD:1191455647	Supratentorial region of brain	semapv:ManualMappingCuration
+ICF:411949236	Structure of diencephalon	skos:BroadMatch	ICD:634038213	Thalamus	semapv:ManualMappingCuration
+ICF:262519924	Basal ganglia and related structures	skos:BroadMatch	ICD:1532217902	Basal ganglia	semapv:ManualMappingCuration
+ICF:1786544692	Structure of cerebellum	skos:ExactMatch	ICD:976604742	Cerebellum	semapv:ManualMappingCuration
+ICF:2102716148	Structure of brain stem	skos:ExactMatch	ICD:282738158	Brainstem	semapv:ManualMappingCuration
+ICF:588438328	Medulla oblongata	skos:ExactMatch	ICD:1283174126	Medulla	semapv:ManualMappingCuration
+ICF:876265464	Pons	skos:ExactMatch	ICD:1049293934	Pons	semapv:ManualMappingCuration
+ICF:1143753652	Structure of cranial nerves	skos:ExactMatch	ICD:2108063439	Cranial Nerve	semapv:ManualMappingCuration
+ICF:2110142953	Spinal cord and related structures	skos:BroadMatch	ICD:1150229943	Spinal cord	semapv:ManualMappingCuration
+ICF:997524276	Structure of spinal cord	skos:ExactMatch	ICD:1150229943	Spinal cord	semapv:ManualMappingCuration
+ICF:907073689	Cervical spinal cord	skos:ExactMatch	ICD:559293431	Cervical spinal cord	semapv:ManualMappingCuration
+ICF:557366361	Thoracic spinal cord	skos:ExactMatch	ICD:914245431	Thoracic spinal cord	semapv:ManualMappingCuration
+ICF:406851865	Lumbosacral spinal cord	skos:BroadMatch	ICD:1403484535	Lumbar spinal cord	semapv:ManualMappingCuration
+ICF:406851865	Lumbosacral spinal cord	skos:BroadMatch	ICD:1495611560	Sacral spinal cord	semapv:ManualMappingCuration
+ICF:258504153	Cauda equina	skos:ExactMatch	ICD:677972541	Cauda equina	semapv:ManualMappingCuration
+ICF:744318964	Spinal nerves	skos:ExactMatch	ICD:376233663	Spinal nerve	semapv:ManualMappingCuration
+ICF:52208434	Structure of meninges	skos:ExactMatch	ICD:1537714794	Meninges	semapv:ManualMappingCuration
+ICF:839160903	Structure of sympathetic nervous system	skos:ExactMatch	ICD:225409574	Sympathetic nervous system	semapv:ManualMappingCuration
+ICF:1289621150	Structure of parasympathetic nervous system	skos:ExactMatch	ICD:440868582	Parasympathetic nervous system	semapv:ManualMappingCuration
+ICF:1843740951	The eye, ear and related structures	skos:BroadMatch	ICD:2055915829	Eye	semapv:ManualMappingCuration
+ICF:1843740951	The eye, ear and related structures	skos:BroadMatch	ICD:1144556225	Ear	semapv:ManualMappingCuration
+ICF:678462151	Structure of eye socket	skos:ExactMatch	ICD:822296309	Orbit	semapv:ManualMappingCuration
+ICF:1886268399	Structure of eyeball	skos:ExactMatch	ICD:662741980	Eyeball	semapv:ManualMappingCuration
+ICF:967509011	Conjunctiva, sclera, choroid	skos:BroadMatch	ICD:470130163	Conjunctiva	semapv:ManualMappingCuration
+ICF:967509011	Conjunctiva, sclera, choroid	skos:BroadMatch	ICD:2103679387	Choroid	semapv:ManualMappingCuration
+ICF:967509011	Conjunctiva, sclera, choroid	skos:BroadMatch	ICD:1211167874	Sclera	semapv:ManualMappingCuration
+ICF:780361939	Cornea	skos:ExactMatch	ICD:985771522	Cornea	semapv:ManualMappingCuration
+ICF:402378131	Iris	skos:ExactMatch	ICD:566364827	Iris	semapv:ManualMappingCuration
+ICF:13871443	Retina	skos:ExactMatch	ICD:1900566978	Retina	semapv:ManualMappingCuration
+ICF:1695192851	Lens of eyeball	skos:ExactMatch	ICD:142316469	Crystalline lens	semapv:ManualMappingCuration
+ICF:1914893267	Vitreous body	skos:ExactMatch	ICD:2088597502	Vitreous humor	semapv:ManualMappingCuration
+ICF:246722870	Structures around eye	skos:BroadMatch	ICD:1912153731	Eyelid and ocular surface	semapv:ManualMappingCuration
+ICF:246722870	Structures around eye	skos:BroadMatch	ICD:629756149	Lacrimal gland	semapv:ManualMappingCuration
+ICF:246722870	Structures around eye	skos:NarrowMatch	ICD:968129184	Face	semapv:ManualMappingCuration
+ICF:558456188	Lachrymal gland and related structures	skos:ExactMatch	ICD:28784496	Lacrimal apparatus	semapv:ManualMappingCuration
+ICF:558456188	Lachrymal gland and related structures	skos:BroadMatch	ICD:629756149	Lacrimal gland	semapv:ManualMappingCuration
+ICF:912341436	Eyelid	skos:ExactMatch	ICD:1142633691	Eyelids	semapv:ManualMappingCuration
+ICF:405925948	External ocular muscles	skos:ExactMatch	ICD:1639496499	Extraocular muscle	semapv:ManualMappingCuration
+ICF:1068271169	Structure of external ear	skos:ExactMatch	ICD:768242906	External Ear	semapv:ManualMappingCuration
+ICF:1098259610	Structure of middle ear	skos:ExactMatch	ICD:1902897114	Middle Ear	semapv:ManualMappingCuration
+ICF:513245387	Tympanic membrane	skos:ExactMatch	ICD:347265434	Tympanic membrane	semapv:ManualMappingCuration
+ICF:163570699	Eustachian canal	skos:ExactMatch	ICD:987893786	Eustachian tube	semapv:ManualMappingCuration
+ICF:818366795	Ossicles	skos:ExactMatch	ICD:1851292761	Bones of middle ear	semapv:ManualMappingCuration
+ICF:426292658	Structure of inner ear	skos:ExactMatch	ICD:1393618433	Inner Ear	semapv:ManualMappingCuration
+ICF:322933453	Cochlea	skos:ExactMatch	ICD:1597714010	Cochlea	semapv:ManualMappingCuration
+ICF:68679181	Vestibular labyrinth	skos:ExactMatch	ICD:2086586854	Labyrinth	semapv:ManualMappingCuration
+ICF:1030708045	Semicircular canals	skos:ExactMatch	ICD:1802939686	Semicircular canals	semapv:ManualMappingCuration
+ICF:709312397	Internal auditory meatus	skos:ExactMatch	ICD:1715700506	Internal Acoustic Meatus	semapv:ManualMappingCuration
+ICF:2060264919	Structures involved in voice and speech	skos:BroadMatch	ICD:1082634473	Nose	semapv:ManualMappingCuration
+ICF:2060264919	Structures involved in voice and speech	skos:BroadMatch	ICD:1337584902	Mouth	semapv:ManualMappingCuration
+ICF:2060264919	Structures involved in voice and speech	skos:BroadMatch	ICD:899820155	Pharynx	semapv:ManualMappingCuration
+ICF:2060264919	Structures involved in voice and speech	skos:BroadMatch	ICD:1422142995	Larynx	semapv:ManualMappingCuration
+ICF:814930862	Structure of nose	skos:ExactMatch	ICD:1082634473	Nose	semapv:ManualMappingCuration
+ICF:901180170	External nose	skos:ExactMatch	ICD:1972509547	External nose	semapv:ManualMappingCuration
+ICF:580816842	Nasal septum	skos:ExactMatch	ICD:185288147	Nasal septum	semapv:ManualMappingCuration
+ICF:468066954	Nasal fossae	skos:ExactMatch	ICD:208474189	Nasal cavity	semapv:ManualMappingCuration
+ICF:1754034822	Structure of mouth	skos:ExactMatch	ICD:1337584902	Mouth	semapv:ManualMappingCuration
+ICF:941553934	Teeth	skos:ExactMatch	ICD:1492238572	Teeth	semapv:ManualMappingCuration
+ICF:1322327689	Primary dentition	skos:ExactMatch	ICD:1374104635	Deciduous dentition	semapv:ManualMappingCuration
+ICF:1509521993	Permanent dentition	skos:ExactMatch	ICD:1852657443	Permanent dentition	semapv:ManualMappingCuration
+ICF:792108494	Gums	skos:ExactMatch	ICD:1682501833	Gingivae	semapv:ManualMappingCuration
+ICF:374222990	Structure of palate	skos:ExactMatch	ICD:70261446	Palate	semapv:ManualMappingCuration
+ICF:1746218360	Hard palate	skos:ExactMatch	ICD:523484767	Hard palate	semapv:ManualMappingCuration
+ICF:2134723000	Soft palate	skos:ExactMatch	ICD:1012292065	Soft palate	semapv:ManualMappingCuration
+ICF:23483470	Tongue	skos:ExactMatch	ICD:1769856759	Tongue	semapv:ManualMappingCuration
+ICF:1690266126	Structure of lips	skos:ExactMatch	ICD:396837934	Lip	semapv:ManualMappingCuration
+ICF:668434648	Upper lip	skos:ExactMatch	ICD:1364749024	Upper lip	semapv:ManualMappingCuration
+ICF:822076440	Lower lip	skos:ExactMatch	ICD:1700142766	Lower lip	semapv:ManualMappingCuration
+ICF:1939279566	Philtrum	skos:ExactMatch	ICD:781983328	Philtrum	semapv:ManualMappingCuration
+ICF:374794335	Structure of pharynx	skos:ExactMatch	ICD:899820155	Pharynx	semapv:ManualMappingCuration
+ICF:553427047	Nasal pharynx	skos:ExactMatch	ICD:1761851771	Nasopharynx	semapv:ManualMappingCuration
+ICF:936690855	Oral pharynx	skos:ExactMatch	ICD:2116804027	Oropharynx	semapv:ManualMappingCuration
+ICF:659480362	Structure of larynx	skos:ExactMatch	ICD:1422142995	Larynx	semapv:ManualMappingCuration
+ICF:130032831	Vocal folds	skos:ExactMatch	ICD:641037459	Vocal cord	semapv:ManualMappingCuration
+ICF:521411479	Structures of cardiovascular, immunological and respiratory systems	skos:BroadMatch	ICD:1788617479	Cardiovascular system	semapv:ManualMappingCuration
+ICF:521411479	Structures of cardiovascular, immunological and respiratory systems	skos:BroadMatch	ICD:910012423	Immune system	semapv:ManualMappingCuration
+ICF:521411479	Structures of cardiovascular, immunological and respiratory systems	skos:BroadMatch	ICD:57597214	Respiratory system	semapv:ManualMappingCuration
+ICF:397303672	Structure of cardiovascular system	skos:ExactMatch	ICD:1788617479	Cardiovascular system	semapv:ManualMappingCuration
+ICF:834607195	Heart	skos:ExactMatch	ICD:1196650747	Heart	semapv:ManualMappingCuration
+ICF:114446184	Atria	skos:ExactMatch	ICD:1170554644	Cardiac atrium	semapv:ManualMappingCuration
+ICF:301607848	Ventricles	skos:ExactMatch	ICD:2092798548	Cardiac ventricle	semapv:ManualMappingCuration
+ICF:647462043	Arteries	skos:ExactMatch	ICD:1933239759	Arteries	semapv:ManualMappingCuration
+ICF:535810523	Veins	skos:ExactMatch	ICD:832846369	Veins	semapv:ManualMappingCuration
+ICF:147305755	Capillaries	skos:ExactMatch	ICD:1129668769	Capillary	semapv:ManualMappingCuration
+ICF:1336997472	Structure of immune system	skos:ExactMatch	ICD:910012423	Immune system	semapv:ManualMappingCuration
+ICF:1008142941	Lymphatic vessels	skos:BroadMatch	ICD:2138601960	Deep lymphatic vessel	semapv:ManualMappingCuration
+ICF:1008142941	Lymphatic vessels	skos:BroadMatch	ICD:1750080808	Superficial lymphatic vessel	semapv:ManualMappingCuration
+ICF:1008142941	Lymphatic vessels	skos:NarrowMatch	ICD:194670149	Lymphatic system	semapv:ManualMappingCuration
+ICF:725577373	Lymphatic nodes	skos:ExactMatch	ICD:1525493612	Lymph nodes	semapv:ManualMappingCuration
+ICF:306693085	Thymus	skos:ExactMatch	ICD:198809973	Thymus	semapv:ManualMappingCuration
+ICF:91203357	Spleen	skos:ExactMatch	ICD:143777109	Spleen	semapv:ManualMappingCuration
+ICF:1622579549	Bone marrow	skos:ExactMatch	ICD:1086407971	Bone marrow	semapv:ManualMappingCuration
+ICF:829058183	Structure of respiratory system	skos:ExactMatch	ICD:57597214	Respiratory system	semapv:ManualMappingCuration
+ICF:620057398	Trachea	skos:ExactMatch	ICD:1841070931	Trachea	semapv:ManualMappingCuration
+ICF:870135798	Lungs	skos:ExactMatch	ICD:1338477196	Lung	semapv:ManualMappingCuration
+ICF:2070097803	Bronchial tree	skos:BroadMatch	ICD:1492119116	Bronchus	semapv:ManualMappingCuration
+ICF:2070097803	Bronchial tree	skos:BroadMatch	ICD:1857689745	Main bronchus	semapv:ManualMappingCuration
+ICF:2070097803	Bronchial tree	skos:NarrowMatch	ICD:2108331469	Bronchus and lung	semapv:ManualMappingCuration
+ICF:1816873803	Alveoli	skos:ExactMatch	ICD:1637303052	Alveoli	semapv:ManualMappingCuration
+ICF:178625206	Thoracic cage	skos:ExactMatch	ICD:1656376572	Chest wall	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:955996865	Muscle of the abdomen	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:1359586520	Muscle of the thorax	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:152505840	Diaphragm	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:712174160	External intercostal muscle	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:886086296	Internal intercostal muscle	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:1029344912	Innermost intercostal muscle	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:1415319761	Sternocleidomastoid muscle	semapv:ManualMappingCuration
+ICF:495844982	Muscles of respiration	skos:BroadMatch	ICD:731407471	Scalenus anterior muscle	semapv:ManualMappingCuration
+ICF:1571232890	Intercostal muscles	skos:BroadMatch	ICD:712174160	External intercostal muscle	semapv:ManualMappingCuration
+ICF:1571232890	Intercostal muscles	skos:BroadMatch	ICD:886086296	Internal intercostal muscle	semapv:ManualMappingCuration
+ICF:1571232890	Intercostal muscles	skos:BroadMatch	ICD:1029344912	Innermost intercostal muscle	semapv:ManualMappingCuration
+ICF:1250916538	Diaphragm	skos:ExactMatch	ICD:152505840	Diaphragm	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:2108966855	Digestive system	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:409827719	Endocrine system	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:1515005003	Salivary gland apparatus	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:72252748	Oesophagus	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:1493524587	Stomach	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:1651798887	Gastrointestinal tract	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:532265365	Pancreas	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:328366540	Liver	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:1351578749	Gallbladder	semapv:ManualMappingCuration
+ICF:138182487	Structures related to the digestive, metabolic and endocrine systems	skos:BroadMatch	ICD:910012423	Immune system	semapv:ManualMappingCuration
+ICF:256640543	Structure of salivary glands	skos:ExactMatch	ICD:1515005003	Salivary gland apparatus	semapv:ManualMappingCuration
+ICF:1465036599	Structure of oesophagus	skos:ExactMatch	ICD:72252748	Oesophagus	semapv:ManualMappingCuration
+ICF:696792560	Structure of stomach	skos:ExactMatch	ICD:1493524587	Stomach	semapv:ManualMappingCuration
+ICF:412091033	Structure of intestine	skos:ExactMatch	ICD:1651798887	Gastrointestinal tract	semapv:ManualMappingCuration
+ICF:412091033	Structure of intestine	skos:NarrowMatch	ICD:1651798887	Gastrointestinal tract	semapv:ManualMappingCuration
+ICF:412091033	Structure of intestine	skos:BroadMatch	ICD:1928625572	Small intestine	semapv:ManualMappingCuration
+ICF:412091033	Structure of intestine	skos:BroadMatch	ICD:1741413713	Large intestine	semapv:ManualMappingCuration
+ICF:41691889	Small intestine	skos:ExactMatch	ICD:1928625572	Small intestine	semapv:ManualMappingCuration
+ICF:357846577	Large intestine	skos:ExactMatch	ICD:1741413713	Large intestine	semapv:ManualMappingCuration
+ICF:1716164672	Structure of pancreas	skos:ExactMatch	ICD:532265365	Pancreas	semapv:ManualMappingCuration
+ICF:1045705064	Structure of liver	skos:ExactMatch	ICD:328366540	Liver	semapv:ManualMappingCuration
+ICF:1083091889	Structure of gall bladder and ducts	skos:BroadMatch	ICD:1351578749	Gallbladder	semapv:ManualMappingCuration
+ICF:1083091889	Structure of gall bladder and ducts	skos:BroadMatch	ICD:1202131133	Biliary tract	semapv:ManualMappingCuration
+ICF:1550081926	Structure of endocrine glands	skos:NarrowMatch	ICD:409827719	Endocrine system	semapv:ManualMappingCuration
+ICF:1550081926	Structure of endocrine glands	skos:BroadMatch	ICD:294069435	Pituitary gland	semapv:ManualMappingCuration
+ICF:1550081926	Structure of endocrine glands	skos:BroadMatch	ICD:485621173	Thyroid gland	semapv:ManualMappingCuration
+ICF:1550081926	Structure of endocrine glands	skos:BroadMatch	ICD:1963131822	Parathyroid gland	semapv:ManualMappingCuration
+ICF:1550081926	Structure of endocrine glands	skos:BroadMatch	ICD:72373228	Adrenal gland	semapv:ManualMappingCuration
+ICF:2109837715	Pituitary gland	skos:ExactMatch	ICD:294069435	Pituitary gland	semapv:ManualMappingCuration
+ICF:1793717587	Thyroid gland	skos:ExactMatch	ICD:485621173	Thyroid gland	semapv:ManualMappingCuration
+ICF:1402034195	Parathyroid gland	skos:ExactMatch	ICD:1963131822	Parathyroid gland	semapv:ManualMappingCuration
+ICF:1152990419	Adrenal gland	skos:ExactMatch	ICD:72373228	Adrenal gland	semapv:ManualMappingCuration
+ICF:826593815	Structures related to the genitourinary and reproductive systems	skos:BroadMatch	ICD:1803734370	Genitourinary system	semapv:ManualMappingCuration
+ICF:826593815	Structures related to the genitourinary and reproductive systems	skos:BroadMatch	ICD:2091559330	Reproductive system	semapv:ManualMappingCuration
+ICF:48501785	Structure of urinary system	skos:ExactMatch	ICD:1223109342	Urinary system	semapv:ManualMappingCuration
+ICF:852812385	Kidney	skos:ExactMatch	ICD:720032908	Kidney	semapv:ManualMappingCuration
+ICF:637306529	Ureters	skos:ExactMatch	ICD:1267519716	Ureter	semapv:ManualMappingCuration
+ICF:478424033	Urinary bladder	skos:ExactMatch	ICD:157646292	Urinary bladder	semapv:ManualMappingCuration
+ICF:195841825	Urethra	skos:ExactMatch	ICD:921977085	Urethra	semapv:ManualMappingCuration
+ICF:1526381873	Structure of pelvic floor	skos:ExactMatch	ICD:1520433389	Pelvic floor	semapv:ManualMappingCuration
+ICF:606087144	Structure of reproductive system	skos:ExactMatch	ICD:2091559330	Reproductive system	semapv:ManualMappingCuration
+ICF:664709392	Ovaries	skos:ExactMatch	ICD:61287910	Ovary	semapv:ManualMappingCuration
+ICF:817286608	Structure of uterus	skos:ExactMatch	ICD:648738923	Uterus	semapv:ManualMappingCuration
+ICF:61008283	Body of uterus	skos:ExactMatch	ICD:1779836109	Corpus uteri	semapv:ManualMappingCuration
+ICF:344624475	Cervix	skos:ExactMatch	ICD:1399753101	Cervix uteri	semapv:ManualMappingCuration
+ICF:770842651	Fallopian tubes	skos:ExactMatch	ICD:987725990	Fallopian Tube	semapv:ManualMappingCuration
+ICF:164520080	Breast and nipple	skos:BroadMatch	ICD:2048843865	Nipple	semapv:ManualMappingCuration
+ICF:164520080	Breast and nipple	skos:BroadMatch	ICD:831985561	Breast	semapv:ManualMappingCuration
+ICF:518390864	Structure of vagina and external genitalia	skos:BroadMatch	ICD:1145498957	Vagina	semapv:ManualMappingCuration
+ICF:518390864	Structure of vagina and external genitalia	skos:BroadMatch	ICD:479736426	Female external genitalia	semapv:ManualMappingCuration
+ICF:518390864	Structure of vagina and external genitalia	skos:BroadMatch	ICD:370513158	Male external genitalia	semapv:ManualMappingCuration
+ICF:627497578	Clitoris	skos:ExactMatch	ICD:1730349811	Clitoris	semapv:ManualMappingCuration
+ICF:844021418	Labia majora	skos:ExactMatch	ICD:622913829	Labium majus	semapv:ManualMappingCuration
+ICF:188093418	Labia minora	skos:ExactMatch	ICD:1090115429	Labium minus	semapv:ManualMappingCuration
+ICF:471758634	Vaginal canal	skos:BroadMatch	ICD:839421413	Vaginal introitus	semapv:ManualMappingCuration
+ICF:471758634	Vaginal canal	skos:BroadMatch	ICD:605908172	Vaginal vault	semapv:ManualMappingCuration
+ICF:471758634	Vaginal canal	skos:NarrowMatch	ICD:1145498957	Vagina	semapv:ManualMappingCuration
+ICF:2067741200	Testes and scrotum	skos:BroadMatch	ICD:1002532547	Testis	semapv:ManualMappingCuration
+ICF:2067741200	Testes and scrotum	skos:BroadMatch	ICD:344934694	Scrotum	semapv:ManualMappingCuration
+ICF:1813470928	Structure of the penis	skos:ExactMatch	ICD:435785772	Penis	semapv:ManualMappingCuration
+ICF:1789163462	Glans penis	skos:ExactMatch	ICD:1897234516	Glans penis	semapv:ManualMappingCuration
+ICF:2106331910	Shaft of penis	skos:ExactMatch	ICD:1159459866	Body of penis	semapv:ManualMappingCuration
+ICF:1433400208	Prostate	skos:ExactMatch	ICD:1784009725	Prostate gland	semapv:ManualMappingCuration
+ICF:644658903	Structures related to movement	skos:BroadMatch	ICD:40907641	Musculoskeletal system	semapv:ManualMappingCuration
+ICF:436620656	Structure of head and neck region	skos:BroadMatch	ICD:864772028	Joints and ligaments of the head and neck	semapv:ManualMappingCuration
+ICF:436620656	Structure of head and neck region	skos:BroadMatch	ICD:1922573088	Muscles of the head and neck	semapv:ManualMappingCuration
+ICF:436620656	Structure of head and neck region	skos:BroadMatch	ICD:1126217939	Tendons of the head and neck	semapv:ManualMappingCuration
+ICF:436620656	Structure of head and neck region	skos:NarrowMatch	ICD:40907641	Musculoskeletal system	semapv:ManualMappingCuration
+ICF:436620656	Structure of head and neck region	skos:ExactMatch	ICD:223243926	Head and neck	semapv:ManualMappingCuration
+ICF:862003070	Bones of cranium	skos:ExactMatch	ICD:703099594	Cranial Bones	semapv:ManualMappingCuration
+ICF:608795582	Bones of face	skos:ExactMatch	ICD:1757281176	Facial bones	semapv:ManualMappingCuration
+ICF:489805566	Bones of neck region	skos:ExactMatch	ICD:53291568	Cervical vertebra	semapv:ManualMappingCuration
+ICF:489805566	Bones of neck region	skos:NarrowMatch	ICD:956558826	Neck	semapv:ManualMappingCuration
+ICF:169456190	Joints of head and neck region	skos:NarrowMatch	ICD:864772028	Joints and ligaments of the head and neck	semapv:ManualMappingCuration
+ICF:169456190	Joints of head and neck region	skos:BroadMatch	ICD:1363003152	Joints of the head	semapv:ManualMappingCuration
+ICF:169456190	Joints of head and neck region	skos:BroadMatch	ICD:183759612	Atlantooccipital joint	semapv:ManualMappingCuration
+ICF:169456190	Joints of head and neck region	skos:BroadMatch	ICD:1948870691	Atlantoaxial joint	semapv:ManualMappingCuration
+ICF:1874889854	Muscles of head and neck region	skos:ExactMatch	ICD:1922573088	Muscles of the head and neck	semapv:ManualMappingCuration
+ICF:2028529854	Ligaments and fasciae of head and neck region	skos:BroadMatch	ICD:439298507	Ligaments of the head and neck	semapv:ManualMappingCuration
+ICF:2028529854	Ligaments and fasciae of head and neck region	skos:BroadMatch	ICD:1126217939	Tendons of the head and neck	semapv:ManualMappingCuration
+ICF:1108927576	Structure of shoulder region	skos:BroadMatch	ICD:719727487	Shoulder joint	semapv:ManualMappingCuration
+ICF:1108927576	Structure of shoulder region	skos:BroadMatch	ICD:1020159779	Ligament of the shoulder	semapv:ManualMappingCuration
+ICF:1108927576	Structure of shoulder region	skos:BroadMatch	ICD:1091984320	Bones of the shoulder girdle	semapv:ManualMappingCuration
+ICF:1108927576	Structure of shoulder region	skos:NarrowMatch	ICD:40907641	Musculoskeletal system	semapv:ManualMappingCuration
+ICF:1108927576	Structure of shoulder region	skos:BroadMatch	ICD:782535704	Rotator cuff muscle	semapv:ManualMappingCuration
+ICF:1108927576	Structure of shoulder region	skos:ExactMatch	ICD:2127070735	Shoulder	semapv:ManualMappingCuration
+ICF:1053363578	Bones of shoulder region	skos:ExactMatch	ICD:1091984320	Bones of the shoulder girdle	semapv:ManualMappingCuration
+ICF:702638522	Joints of shoulder region	skos:ExactMatch	ICD:719727487	Shoulder joint	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:965535960	Deltoid muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:900147329	Infraspinatus muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:579816513	Supraspinatus muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:1752238488	Serratus anterior muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:444617496	Pectoralis major muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:229128152	Pectoralis minor muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:659014768	Trapezius muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:2009962281	Rhomboid major muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:1420325015	Rhomboid minor muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:381865791	Teres minor muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:2078693232	Teres major muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:32156671	Subscapularis muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:ExactMatch	ICD:782535704	Rotator cuff muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:1503485609	Latissimus dorsi muscle	semapv:ManualMappingCuration
+ICF:278512890	Muscles of shoulder region	skos:BroadMatch	ICD:1625682921	Levator scapulae muscle	semapv:ManualMappingCuration
+ICF:129081402	Ligaments and fasciae of shoulder region	skos:BroadMatch	ICD:1020159779	Ligament of the shoulder	semapv:ManualMappingCuration
+ICF:1019379329	Structure of upper extremity	skos:ExactMatch	ICD:986233688	Upper Extremity	semapv:ManualMappingCuration
+ICF:640373779	Structure of upper arm	skos:ExactMatch	ICD:312192089	Upper arm	semapv:ManualMappingCuration
+ICF:1092128842	Bones of upper arm	skos:NarrowMatch	ICD:672187873	Bones of the upper extremity	semapv:ManualMappingCuration
+ICF:1092128842	Bones of upper arm	skos:ExactMatch	ICD:759525864	Humerus	semapv:ManualMappingCuration
+ICF:1446048906	Elbow joint	skos:ExactMatch	ICD:1364152594	Elbow joint	semapv:ManualMappingCuration
+ICF:1867012554	Muscles of upper arm	skos:NarrowMatch	ICD:720361080	Muscles of the upper extremity	semapv:ManualMappingCuration
+ICF:1867012554	Muscles of upper arm	skos:BroadMatch	ICD:1762048897	Brachialis muscle	semapv:ManualMappingCuration
+ICF:1867012554	Muscles of upper arm	skos:BroadMatch	ICD:469229825	Coracobrachialis muscle	semapv:ManualMappingCuration
+ICF:1867012554	Muscles of upper arm	skos:BroadMatch	ICD:2117001025	Biceps brachii muscle	semapv:ManualMappingCuration
+ICF:1867012554	Muscles of upper arm	skos:BroadMatch	ICD:1036497592	Triceps brachii muscle	semapv:ManualMappingCuration
+ICF:2019573002	Ligaments and fasciae of upper arm	skos:BroadMatch	ICD:131834102	Ligaments of the upper extremity	semapv:ManualMappingCuration
+ICF:2019573002	Ligaments and fasciae of upper arm	skos:BroadMatch	ICD:443625892	Ligament of the elbow	semapv:ManualMappingCuration
+ICF:822292691	Structure of forearm	skos:ExactMatch	ICD:1477228030	Forearm	semapv:ManualMappingCuration
+ICF:1069681299	Bones of forearm	skos:BroadMatch	ICD:1895435407	Ulna	semapv:ManualMappingCuration
+ICF:1069681299	Bones of forearm	skos:BroadMatch	ICD:255752241	Radius	semapv:ManualMappingCuration
+ICF:1069681299	Bones of forearm	skos:BroadMatch	ICD:2038724831	Carpal bones	semapv:ManualMappingCuration
+ICF:1069681299	Bones of forearm	skos:NarrowMatch	ICD:672187873	Bones of the upper extremity	semapv:ManualMappingCuration
+ICF:686452307	Wrist joint	skos:ExactMatch	ICD:1768750843	Wrist joint	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:NarrowMatch	ICD:720361080	Muscles of the upper extremity	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:1328998456	Pronator teres muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:532462447	Flexor carpi radialis muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:143974319	Flexor carpi ulnaris muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:837579503	Flexor digitorum profundus muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:1125984367	Flexor pollicis longus muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:1984841080	Pronator quadratus muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:215975361	Brachioradialis muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:16008600	Extensor carpi radialis brevis	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:400302424	Extensor carpi radialis longus muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:1746425320	Extensor pollicis brevis muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:2133864744	Extensor pollicis longus muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:BroadMatch	ICD:1266528856	Extensor indicis muscle	semapv:ManualMappingCuration
+ICF:294830867	Muscles of forearm	skos:NarrowMatch	ICD:1634083256	Palmaris longus muscle	semapv:ManualMappingCuration
+ICF:112895955	Ligaments and fasciae of forearm	skos:BroadMatch	ICD:443625892	Ligament of the elbow	semapv:ManualMappingCuration
+ICF:112895955	Ligaments and fasciae of forearm	skos:BroadMatch	ICD:712501428	Interosseous ligament	semapv:ManualMappingCuration
+ICF:142318995	Structure of hand	skos:ExactMatch	ICD:430791912	Hand	semapv:ManualMappingCuration
+ICF:1742513083	Bones of hand	skos:BroadMatch	ICD:2038724831	Carpal bones	semapv:ManualMappingCuration
+ICF:1742513083	Bones of hand	skos:BroadMatch	ICD:1060675873	Metacarpal bone	semapv:ManualMappingCuration
+ICF:1742513083	Bones of hand	skos:BroadMatch	ICD:623242207	Phalanx of the hand	semapv:ManualMappingCuration
+ICF:1742513083	Bones of hand	skos:NarrowMatch	ICD:672187873	Bones of the upper extremity	semapv:ManualMappingCuration
+ICF:1895090043	Joints of hand and fingers	skos:ExactMatch	ICD:1676501535	Joints of the hand	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:2053473583	Interossei of the hand muscle	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:1493197457	Lumbricals of hand muscle	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:140558313	Abductor digiti minimi muscle (hand)	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:640710249	Opponens digiti minimi muscle (hand)	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:823661225	Abductor pollicis brevis muscle	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:1139361833	Opponens pollicis muscle	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:1549129368	Extensor digitorum muscle (hand)	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:1697479640	Extensor digiti minimi muscle (hand)	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:BroadMatch	ICD:524868393	Flexor digiti minimi brevis muscle (hand)	semapv:ManualMappingCuration
+ICF:1233939003	Muscles of hand	skos:NarrowMatch	ICD:720361080	Muscles of the upper extremity	semapv:ManualMappingCuration
+ICF:232409592	Structure of pelvic region	skos:ExactMatch	ICD:1399556983	Pelvis	semapv:ManualMappingCuration
+ICF:18337995	Bones of pelvic region	skos:ExactMatch	ICD:1145302967	Bones of the pelvis	semapv:ManualMappingCuration
+ICF:373273611	Joints of pelvic region	skos:ExactMatch	ICD:192726145	Joints of the pelvis	semapv:ManualMappingCuration
+ICF:793188683	Muscles of pelvic region	skos:ExactMatch	ICD:107652911	Muscles of the pelvis and perineum	semapv:ManualMappingCuration
+ICF:793188683	Muscles of pelvic region	skos:NarrowMatch	ICD:107652911	Muscles of the pelvis and perineum	semapv:ManualMappingCuration
+ICF:793188683	Muscles of pelvic region	skos:BroadMatch	ICD:493421494	Pubococcygeus muscle	semapv:ManualMappingCuration
+ICF:793188683	Muscles of pelvic region	skos:BroadMatch	ICD:605138678	Puborectalis muscle	semapv:ManualMappingCuration
+ICF:946830731	Ligaments and fasciae of pelvic region	skos:ExactMatch	ICD:32596973	Ligaments of the pelvis and perineum	semapv:ManualMappingCuration
+ICF:946830731	Ligaments and fasciae of pelvic region	skos:BroadMatch	ICD:32596973	Ligaments of the pelvis and perineum	semapv:ManualMappingCuration
+ICF:1929433903	Structure of lower extremity	skos:ExactMatch	ICD:2093217246	Lower Extremity	semapv:ManualMappingCuration
+ICF:435521956	Structure of thigh	skos:ExactMatch	ICD:238202718	Thigh	semapv:ManualMappingCuration
+ICF:1151639044	Bones of thigh	skos:ExactMatch	ICD:983135600	Femur	semapv:ManualMappingCuration
+ICF:1401748164	Hip joint	skos:ExactMatch	ICD:1188078244	Hip joint	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:NarrowMatch	ICD:864968000	Muscles of the lower extremity	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1099655048	Gluteus medius muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1453523784	Gluteus minimus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:552428528	Piriformis muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:863649032	Gemellus superior muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1580726583	Tensor fasciae lata muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1801753648	Obturator internus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1377581424	Obturator externus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:167940168	Gemellus inferior muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1885810871	Semitendinosus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1733252215	Semimembranosus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1676701279	Biceps femoris muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:2029243080	Iliacus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1242169409	Psoas major muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1562535041	Psoas minor muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:2085417200	Pectineus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1876667912	Gracilis muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1672714607	Adductor brevis muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1306743023	Adductor longus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1854322513	Adductor magnus muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:43412023	Sartorius muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:364777207	Rectus femoris muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:614873472	Vastus medialis muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:501126336	Vastus lateralis muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1005504375	Quadriceps femoris muscle	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:NarrowMatch	ICD:238202718	Thigh	semapv:ManualMappingCuration
+ICF:1794398084	Muscles of thigh	skos:BroadMatch	ICD:1624793941	Tensor fasciae lata tendon	semapv:ManualMappingCuration
+ICF:249425252	Structure of lower leg	skos:ExactMatch	ICD:106050921	Lower leg	semapv:ManualMappingCuration
+ICF:981337309	Bones of lower leg	skos:BroadMatch	ICD:520825881	Tibia	semapv:ManualMappingCuration
+ICF:981337309	Bones of lower leg	skos:BroadMatch	ICD:85354215	Fibula	semapv:ManualMappingCuration
+ICF:981337309	Bones of lower leg	skos:ExactMatch	ICD:805764304	Bones of the lower extremity	semapv:ManualMappingCuration
+ICF:981337309	Bones of lower leg	skos:BroadMatch	ICD:435983056	Patella	semapv:ManualMappingCuration
+ICF:760635421	Knee joint	skos:ExactMatch	ICD:1574110781	Knee joint	semapv:ManualMappingCuration
+ICF:338611549	Muscles of lower leg	skos:ExactMatch	ICD:864968000	Muscles of the lower extremity	semapv:ManualMappingCuration
+ICF:50768285	Ligaments and fasciae of lower leg	skos:BroadMatch	ICD:1281516466	Ligaments of the lower extremity	semapv:ManualMappingCuration
+ICF:933576740	Structure of ankle and foot	skos:BroadMatch	ICD:1106248434	Ankle	semapv:ManualMappingCuration
+ICF:933576740	Structure of ankle and foot	skos:BroadMatch	ICD:1896004518	Foot	semapv:ManualMappingCuration
+ICF:1650503157	Bones of ankle and foot	skos:BroadMatch	ICD:2137029069	Bone of ankle	semapv:ManualMappingCuration
+ICF:1650503157	Bones of ankle and foot	skos:BroadMatch	ICD:1491791024	Tarsal bone	semapv:ManualMappingCuration
+ICF:1650503157	Bones of ankle and foot	skos:BroadMatch	ICD:325262192	Metatarsal bone	semapv:ManualMappingCuration
+ICF:1650503157	Bones of ankle and foot	skos:BroadMatch	ICD:72056752	Phalanx of the foot	semapv:ManualMappingCuration
+ICF:1650503157	Bones of ankle and foot	skos:BroadMatch	ICD:710426882	Calcaneus	semapv:ManualMappingCuration
+ICF:1650503157	Bones of ankle and foot	skos:BroadMatch	ICD:1333886786	Navicular bone	semapv:ManualMappingCuration
+ICF:1650503157	Bones of ankle and foot	skos:BroadMatch	ICD:1991910704	Cuboid bone	semapv:ManualMappingCuration
+ICF:1967704373	Ankle joint and joints of foot and toes	skos:BroadMatch	ICD:2000483733	Ankle joint	semapv:ManualMappingCuration
+ICF:1967704373	Ankle joint and joints of foot and toes	skos:BroadMatch	ICD:355147270	Joint of the foot	semapv:ManualMappingCuration
+ICF:1967704373	Ankle joint and joints of foot and toes	skos:BroadMatch	ICD:1313102037	Interphalangeal joint of the foot	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1161059760	Lumbricals of foot muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1287539128	Interossei - plantar of foot muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:289588207	Abductor digiti minimi muscle (foot)	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1960315551	Extensor digitorum brevis muscle (foot)	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1302374367	Extensor digitorum longus muscle (foot)	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:103370783	Flexor digitorum longus muscle (foot)	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:679057823	Flexor digiti minimi brevis muscle (foot)	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:59278416	Plantaris muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:625784737	Flexor hallucis brevis muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:845468513	Flexor hallucis longus muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1956380079	Abductor hallucis muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1518912287	Extensor hallucis brevis muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:285291743	Flexor digitorum brevis muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:751215543	Quadratus plantae muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1536568696	Interossei - dorsal of foot muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:BroadMatch	ICD:1523266607	Adductor hallucis muscle	semapv:ManualMappingCuration
+ICF:1278239861	Muscles of ankle and foot	skos:NarrowMatch	ICD:1448567552	Muscles	semapv:ManualMappingCuration
+ICF:1528299701	Ligaments and fasciae of ankle and foot	skos:BroadMatch	ICD:1705475090	Ligament of the ankle or foot	semapv:ManualMappingCuration
+ICF:723417607	Structure of trunk	skos:ExactMatch	ICD:947150833	Trunk	semapv:ManualMappingCuration
+ICF:341679012	Structure of vertebral column	skos:ExactMatch	ICD:405704375	Vertebral column	semapv:ManualMappingCuration
+ICF:1182439715	Cervical vertebral column	skos:NarrowMatch	ICD:405704375	Vertebral column	semapv:ManualMappingCuration
+ICF:1364393443	Thoracic vertebral column	skos:ExactMatch	ICD:335892208	Thoracic vertebra	semapv:ManualMappingCuration
+ICF:1747603619	Lumbar vertebral column	skos:ExactMatch	ICD:929081680	Lumbar vertebra	semapv:ManualMappingCuration
+ICF:2130850915	Sacral vertebral column	skos:ExactMatch	ICD:563794423	Sacrum	semapv:ManualMappingCuration
+ICF:450562595	Coccyx	skos:ExactMatch	ICD:541642128	Coccyx	semapv:ManualMappingCuration
+ICF:58064740	Muscles of trunk	skos:BroadMatch	ICD:1359586520	Muscle of the thorax	semapv:ManualMappingCuration
+ICF:58064740	Muscles of trunk	skos:BroadMatch	ICD:955996865	Muscle of the abdomen	semapv:ManualMappingCuration
+ICF:58064740	Muscles of trunk	skos:BroadMatch	ICD:507472176	Muscle of the back	semapv:ManualMappingCuration
+ICF:973951524	Ligaments and fasciae of trunk	skos:BroadMatch	ICD:1050605669	Ligaments of the thorax	semapv:ManualMappingCuration
+ICF:1438965984	Additional musculoskeletal structures related to movement	skos:BroadMatch	ICD:657365008	Bones	semapv:ManualMappingCuration
+ICF:1438965984	Additional musculoskeletal structures related to movement	skos:BroadMatch	ICD:461235915	Joints and ligaments	semapv:ManualMappingCuration
+ICF:1438965984	Additional musculoskeletal structures related to movement	skos:BroadMatch	ICD:1448567552	Muscles	semapv:ManualMappingCuration
+ICF:1438965984	Additional musculoskeletal structures related to movement	skos:NarrowMatch	ICD:40907641	Musculoskeletal system	semapv:ManualMappingCuration
+ICF:213893837	Bones	skos:ExactMatch	ICD:657365008	Bones	semapv:ManualMappingCuration
+ICF:462923277	Joints	skos:NarrowMatch	ICD:461235915	Joints and ligaments	semapv:ManualMappingCuration
+ICF:586091341	Muscles	skos:ExactMatch	ICD:1448567552	Muscles	semapv:ManualMappingCuration
+ICF:84496745	Skin and related structures	skos:BroadMatch	ICD:123461884	Skin	semapv:ManualMappingCuration
+ICF:84496745	Skin and related structures	skos:BroadMatch	ICD:1724482772	Nail	semapv:ManualMappingCuration
+ICF:84496745	Skin and related structures	skos:BroadMatch	ICD:1456430532	Hair	semapv:ManualMappingCuration
+ICF:84496745	Skin and related structures	skos:NarrowMatch	ICD:555078855	Integumentary system	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:1970791419	Skin of head	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:463851894	Skin of neck	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:338111831	Skin of thorax	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:22505857	Skin of abdomen	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:622038403	Skin of back	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:508523179	Skin of perineum	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:771082508	Skin of upper arm	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:1020079694	Skin of hip	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:1187127983	Skin of thigh	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:1721557219	Skin of knee	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:BroadMatch	ICD:678861754	Skin of lower leg	semapv:ManualMappingCuration
+ICF:1746134038	Structure of areas of skin	skos:NarrowMatch	ICD:123461884	Skin	semapv:ManualMappingCuration
+ICF:986121415	Skin of head and neck region	skos:BroadMatch	ICD:1970791419	Skin of head	semapv:ManualMappingCuration
+ICF:986121415	Skin of head and neck region	skos:BroadMatch	ICD:463851894	Skin of neck	semapv:ManualMappingCuration
+ICF:770662407	Skin of shoulder region	skos:ExactMatch	ICD:573000598	Skin of shoulder	semapv:ManualMappingCuration
+ICF:345492807	Skin of upper extremity	skos:ExactMatch	ICD:1149143049	Skin of upper limb and shoulder	semapv:ManualMappingCuration
+ICF:345492807	Skin of upper extremity	skos:ExactMatch	ICD:2046770427	Skin of upper limb	semapv:ManualMappingCuration
+ICF:62892423	Skin of pelvic region	skos:BroadMatch	ICD:1617156054	Skin of groin	semapv:ManualMappingCuration
+ICF:62892423	Skin of pelvic region	skos:BroadMatch	ICD:508523179	Skin of perineum	semapv:ManualMappingCuration
+ICF:62892423	Skin of pelvic region	skos:BroadMatch	ICD:1162572422	Skin of gluteal region	semapv:ManualMappingCuration
+ICF:1717999559	Skin of lower extremity	skos:ExactMatch	ICD:975825478	Skin of lower limb and hip	semapv:ManualMappingCuration
+ICF:1900999431	Skin of trunk and back	skos:BroadMatch	ICD:265477888	Skin of trunk	semapv:ManualMappingCuration
+ICF:1900999431	Skin of trunk and back	skos:BroadMatch	ICD:622038403	Skin of back	semapv:ManualMappingCuration
+ICF:1900999431	Skin of trunk and back	skos:BroadMatch	ICD:338111831	Skin of thorax	semapv:ManualMappingCuration
+ICF:1900999431	Skin of trunk and back	skos:BroadMatch	ICD:22505857	Skin of abdomen	semapv:ManualMappingCuration
+ICF:806178110	Structure of skin glands	skos:BroadMatch	ICD:1357909066	Sebaceous gland	semapv:ManualMappingCuration
+ICF:806178110	Structure of skin glands	skos:BroadMatch	ICD:892051967	Apocrine sweat gland	semapv:ManualMappingCuration
+ICF:806178110	Structure of skin glands	skos:BroadMatch	ICD:672515867	Eccrine gland	semapv:ManualMappingCuration
+ICF:806178110	Structure of skin glands	skos:NarrowMatch	ICD:123461884	Skin	semapv:ManualMappingCuration
+ICF:930027201	Sweat glands	skos:ExactMatch	ICD:892051967	Apocrine sweat gland	semapv:ManualMappingCuration
+ICF:930027201	Sweat glands	skos:ExactMatch	ICD:672515867	Eccrine gland	semapv:ManualMappingCuration
+ICF:541553153	Sebaceous glands	skos:ExactMatch	ICD:1357909066	Sebaceous gland	semapv:ManualMappingCuration
+ICF:1322768357	Structure of nails	skos:ExactMatch	ICD:1724482772	Nail	semapv:ManualMappingCuration
+ICF:797790122	Finger nails	skos:ExactMatch	ICD:2110398539	Fingernails	semapv:ManualMappingCuration
+ICF:950348650	Toe nails	skos:ExactMatch	ICD:1605446036	Toenail	semapv:ManualMappingCuration
+ICF:2144329874	Structure of hair	skos:ExactMatch	ICD:1456430532	Hair	semapv:ManualMappingCuration
+ICF:145869680	Head hair	skos:BroadMatch	ICD:276005948	Scalp hair	semapv:ManualMappingCuration
+ICF:530165680	Facial hair	skos:BroadMatch	ICD:1543140348	Beard hair	semapv:ManualMappingCuration
+ICF:530165680	Facial hair	skos:BroadMatch	ICD:688597372	Eyebrow hairs	semapv:ManualMappingCuration
+ICF:652280560	Axillary hair	skos:NarrowMatch	ICD:1974123132	Body hair	semapv:ManualMappingCuration
+ICF:835282480	Pubic hair	skos:ExactMatch	ICD:1288836924	Pubic hair	semapv:ManualMappingCuration
+ICF:1410357360	Body hair	skos:ExactMatch	ICD:1974123132	Body hair	semapv:ManualMappingCuration
