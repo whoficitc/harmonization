@@ -1,0 +1,19 @@
+# mapping_set_id: https://w3id.org/sssom/tutorial/example1.sssom.tsv
+# license: https://creativecommons.org/licenses/by/4.0/
+# mapping_date: '2022-12-02'
+# mapping_set_description: Manually curated mapping  of ICF Body Structures
+#   and ICD-11 Anatomic Detail (from the Extension codes)
+#   made within the harmonization effort of the WHO Family of International Classifications
+# mapping_set_version: '2022-12-01'
+# author_id: "orcid:0000-0002-0319-3579|orcid:0000-0002-0075-5652|orcid:0000-0001-7320-2947|orcid:0000-0002-0295-7821|orcid:0000-0002-0144-3802"
+# subject_source: https://apps.who.int/classifications/icfbrowser/
+# subject_source_version: "ICF 2017"
+# object_source: https://id.who.int/icd/entity/
+# object_source_version: https://id.who.int/icd/entity?releaseId=2022-02
+# comment: Experimental mappings generated for the harmonization between ICF Body Structures and ICD-11 Anatomic Detail. 
+# Not for use in real coding applications.
+# curie_map:
+#   ICF: http://id.who.int/icd/release/11/beta/icf/
+#   ICD: https://id.who.int/icd/entity/
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   sssom: https://w3id.org/sssom/
