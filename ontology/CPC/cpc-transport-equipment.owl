@@ -1,0 +1,829 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#prefLabel -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49">
+        <rdfs:label>49. Transport equipment</rdfs:label>
+        <skos:prefLabel>Transport equipment</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code491 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code491">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code49"/>
+        <rdfs:label>491. Motor vehicles, trailers and semi-trailers; parts and accessories thereof</rdfs:label>
+        <skos:prefLabel>Motor vehicles, trailers and semi-trailers; parts and accessories thereof</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4911 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code491"/>
+        <rdfs:label>4911. Motor vehicles</rdfs:label>
+        <skos:prefLabel>Motor vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49111 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49111">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911"/>
+        <rdfs:label>49111. Road tractors for semi-trailers</rdfs:label>
+        <skos:prefLabel>Road tractors for semi-trailers</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49112 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49112">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911"/>
+        <rdfs:label>49112. Public-transport type passenger motor vehicles</rdfs:label>
+        <skos:prefLabel>Public-transport type passenger motor vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49113 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49113">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911"/>
+        <rdfs:label>49113. Motor cars and other motor vehicles principally designed for the transport of persons (except public-transport type vehicles, vehicles specially designed for travelling on snow, and golf cars and similar vehicles)</rdfs:label>
+        <skos:prefLabel>Motor cars and other motor vehicles principally designed for the transport of persons (except public-transport type vehicles, vehicles specially designed for travelling on snow, and golf cars and similar vehicles)</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49114 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49114">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911"/>
+        <rdfs:label>49114. Motor vehicles n.e.c. for the transport of goods</rdfs:label>
+        <skos:prefLabel>Motor vehicles n.e.c. for the transport of goods</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49115 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49115">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911"/>
+        <rdfs:label>49115. Crane lorries</rdfs:label>
+        <skos:prefLabel>Crane lorries</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49116 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49116">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911"/>
+        <rdfs:label>49116. Motor vehicles, for the transport of persons, specially designed for travelling on snow; golf cars and similar vehicles</rdfs:label>
+        <skos:prefLabel>Motor vehicles, for the transport of persons, specially designed for travelling on snow; golf cars and similar vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49119 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49119">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4911"/>
+        <rdfs:label>49119. Special-purpose motor vehicles n.e.c.</rdfs:label>
+        <skos:prefLabel>Special-purpose motor vehicles n.e.c.</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4912 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4912">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code491"/>
+        <rdfs:label>4912. Parts and accessories n.e.c. of motor vehicles</rdfs:label>
+        <skos:prefLabel>Parts and accessories n.e.c. of motor vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49121 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49121">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4912"/>
+        <rdfs:label>49121. Chassis fitted with engines, for motor vehicles</rdfs:label>
+        <skos:prefLabel>Chassis fitted with engines, for motor vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49129 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49129">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4912"/>
+        <rdfs:label>49129. Other parts and accessories n.e.c. of motor vehicles (including brakes, gear boxes, axles, road wheels, suspension shock absorbers, radiators, silencers, exhaust pipes, clutches, steering wheels, steering columns, steering boxes, and parts thereof)</rdfs:label>
+        <skos:prefLabel>Other parts and accessories n.e.c. of motor vehicles (including brakes, gear boxes, axles, road wheels, suspension shock absorbers, radiators, silencers, exhaust pipes, clutches, steering wheels, steering columns, steering boxes, and parts thereof)</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code492 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code492">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code49"/>
+        <rdfs:label>492. Bodies (coachwork) for motor vehicles; trailers and semi-trailers; parts and accessories thereof</rdfs:label>
+        <skos:prefLabel>Bodies (coachwork) for motor vehicles; trailers and semi-trailers; parts and accessories thereof</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4921 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4921">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code492"/>
+        <rdfs:label>4921. Bodies for motor vehicles</rdfs:label>
+        <skos:prefLabel>Bodies for motor vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49210 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49210">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4921"/>
+        <rdfs:label>49210. Bodies for motor vehicles</rdfs:label>
+        <skos:prefLabel>Bodies for motor vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4922 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4922">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code492"/>
+        <rdfs:label>4922. Trailers and semi-trailers; containers</rdfs:label>
+        <skos:prefLabel>Trailers and semi-trailers; containers</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49221 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49221">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4922"/>
+        <rdfs:label>49221. Containers specially designed and equipped for carriage by one or more modes of transport</rdfs:label>
+        <skos:prefLabel>Containers specially designed and equipped for carriage by one or more modes of transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49222 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49222">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4922"/>
+        <rdfs:label>49222. Trailers and semi-trailers of the caravan type, for housing or camping</rdfs:label>
+        <skos:prefLabel>Trailers and semi-trailers of the caravan type, for housing or camping</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49229 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49229">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4922"/>
+        <rdfs:label>49229. Other trailers and semi-trailers (including trailers and semi-trailers for the transport of goods), except self-loading or self-unloading trailers or semi-trailers for agricultural purposes</rdfs:label>
+        <skos:prefLabel>Other trailers and semi-trailers (including trailers and semi-trailers for the transport of goods), except self-loading or self-unloading trailers or semi-trailers for agricultural purposes</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4923 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4923">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code492"/>
+        <rdfs:label>4923. Parts for the goods of classes 4921 and 4922</rdfs:label>
+        <skos:prefLabel>Parts for the goods of classes 4921 and 4922</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49231 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49231">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4923"/>
+        <rdfs:label>49231. Parts and accessories for the goods of subclass 49210</rdfs:label>
+        <skos:prefLabel>Parts and accessories for the goods of subclass 49210</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49232 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49232">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4923"/>
+        <rdfs:label>49232. Parts of trailers and semi-trailers; parts of other vehicles, not mechanically propelled</rdfs:label>
+        <skos:prefLabel>Parts of trailers and semi-trailers; parts of other vehicles, not mechanically propelled</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code493 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code493">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code49"/>
+        <rdfs:label>493. Ships</rdfs:label>
+        <skos:prefLabel>Ships</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4931 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code493"/>
+        <rdfs:label>4931. Commercial ships and warships</rdfs:label>
+        <skos:prefLabel>Commercial ships and warships</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49311 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49311">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931"/>
+        <rdfs:label>49311. Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons; ferry boats of all kinds</rdfs:label>
+        <skos:prefLabel>Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons; ferry boats of all kinds</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49312 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49312">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931"/>
+        <rdfs:label>49312. Tankers (ships)</rdfs:label>
+        <skos:prefLabel>Tankers (ships)</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49313 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49313">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931"/>
+        <rdfs:label>49313. Refrigerator vessels (ships), except tankers</rdfs:label>
+        <skos:prefLabel>Refrigerator vessels (ships), except tankers</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49314 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49314">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931"/>
+        <rdfs:label>49314. Other vessels for the transport of goods and other vessels for the transport of both persons and goods</rdfs:label>
+        <skos:prefLabel>Other vessels for the transport of goods and other vessels for the transport of both persons and goods</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49315 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49315">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931"/>
+        <rdfs:label>49315. Fishing vessels; factory ships and other vessels for processing or preserving fishery products</rdfs:label>
+        <skos:prefLabel>Fishing vessels; factory ships and other vessels for processing or preserving fishery products</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49316 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49316">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931"/>
+        <rdfs:label>49316. Tugs and pusher craft</rdfs:label>
+        <skos:prefLabel>Tugs and pusher craft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49319 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49319">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4931"/>
+        <rdfs:label>49319. Other vessels (including light-vessels, fire-floats, dredgers, floating cranes, floating docks, warships and lifeboats other than rowing boats), except floating or submersible drilling or production platforms</rdfs:label>
+        <skos:prefLabel>Other vessels (including light-vessels, fire-floats, dredgers, floating cranes, floating docks, warships and lifeboats other than rowing boats), except floating or submersible drilling or production platforms</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4932 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4932">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code493"/>
+        <rdfs:label>4932. Floating or submersible drilling or production platforms</rdfs:label>
+        <skos:prefLabel>Floating or submersible drilling or production platforms</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49320 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49320">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4932"/>
+        <rdfs:label>49320. Floating or submersible drilling or production platforms</rdfs:label>
+        <skos:prefLabel>Floating or submersible drilling or production platforms</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4939 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4939">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code493"/>
+        <rdfs:label>4939. Other floating structures</rdfs:label>
+        <skos:prefLabel>Other floating structures</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49390 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49390">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4939"/>
+        <rdfs:label>49390. Other floating structures</rdfs:label>
+        <skos:prefLabel>Other floating structures</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code494 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code494">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code49"/>
+        <rdfs:label>494. Pleasure and sporting boats</rdfs:label>
+        <skos:prefLabel>Pleasure and sporting boats</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4941 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4941">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code494"/>
+        <rdfs:label>4941. Sailboats (except inflatable), with or without auxiliary motor</rdfs:label>
+        <skos:prefLabel>Sailboats (except inflatable), with or without auxiliary motor</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49410 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49410">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4941"/>
+        <rdfs:label>49410. Sailboats (except inflatable), with or without auxiliary motor</rdfs:label>
+        <skos:prefLabel>Sailboats (except inflatable), with or without auxiliary motor</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4949 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4949">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code494"/>
+        <rdfs:label>4949. Other vessels for pleasure or sports; rowing boats and canoes</rdfs:label>
+        <skos:prefLabel>Other vessels for pleasure or sports; rowing boats and canoes</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49490 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49490">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4949"/>
+        <rdfs:label>49490. Other vessels for pleasure or sports; rowing boats and canoes</rdfs:label>
+        <skos:prefLabel>Other vessels for pleasure or sports; rowing boats and canoes</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code495 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code495">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code49"/>
+        <rdfs:label>495. Railway and tramway locomotives and rolling stock, and parts thereof</rdfs:label>
+        <skos:prefLabel>Railway and tramway locomotives and rolling stock, and parts thereof</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4951 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4951">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code495"/>
+        <rdfs:label>4951. Rail locomotives and locomotive tenders</rdfs:label>
+        <skos:prefLabel>Rail locomotives and locomotive tenders</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49511 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49511">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4951"/>
+        <rdfs:label>49511. Rail locomotives powered from an external source of electricity</rdfs:label>
+        <skos:prefLabel>Rail locomotives powered from an external source of electricity</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49512 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49512">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4951"/>
+        <rdfs:label>49512. Diesel-electric locomotives</rdfs:label>
+        <skos:prefLabel>Diesel-electric locomotives</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49519 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49519">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4951"/>
+        <rdfs:label>49519. Other rail locomotives; locomotive tenders</rdfs:label>
+        <skos:prefLabel>Other rail locomotives; locomotive tenders</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4952 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4952">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code495"/>
+        <rdfs:label>4952. Self-propelled railway or tramway coaches, vans and trucks (except maintenance or service vehicles)</rdfs:label>
+        <skos:prefLabel>Self-propelled railway or tramway coaches, vans and trucks (except maintenance or service vehicles)</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49520 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49520">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4952"/>
+        <rdfs:label>49520. Self-propelled railway or tramway coaches, vans and trucks (except maintenance or service vehicles)</rdfs:label>
+        <skos:prefLabel>Self-propelled railway or tramway coaches, vans and trucks (except maintenance or service vehicles)</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4953 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4953">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code495"/>
+        <rdfs:label>4953. Other rolling stock; railway or tramway track fixtures and fittings; mechanical traffic control equipment for transport facilities</rdfs:label>
+        <skos:prefLabel>Other rolling stock; railway or tramway track fixtures and fittings; mechanical traffic control equipment for transport facilities</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49531 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49531">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4953"/>
+        <rdfs:label>49531. Railway or tramway maintenance or service vehicles, whether or not self-propelled</rdfs:label>
+        <skos:prefLabel>Railway or tramway maintenance or service vehicles, whether or not self-propelled</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49532 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49532">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4953"/>
+        <rdfs:label>49532. Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special-purpose railway or tramway coaches, not self-propelled (except maintenance or service vehicles)</rdfs:label>
+        <skos:prefLabel>Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special-purpose railway or tramway coaches, not self-propelled (except maintenance or service vehicles)</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49533 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49533">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4953"/>
+        <rdfs:label>49533. Railway or tramway goods vans and wagons, not self-propelled</rdfs:label>
+        <skos:prefLabel>Railway or tramway goods vans and wagons, not self-propelled</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4954 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4954">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code495"/>
+        <rdfs:label>4954. Parts of railway or tramway locomotives or rolling stock; railway or tramway track fixtures and fittings, and parts thereof; mechanical (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields, and parts thereof</rdfs:label>
+        <skos:prefLabel>Parts of railway or tramway locomotives or rolling stock; railway or tramway track fixtures and fittings, and parts thereof; mechanical (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields, and parts thereof</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49540 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49540">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4954"/>
+        <rdfs:label>49540. Parts of railway or tramway locomotives or rolling stock; railway or tramway track fixtures and fittings, and parts thereof; mechanical (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields, and parts thereof</rdfs:label>
+        <skos:prefLabel>Parts of railway or tramway locomotives or rolling stock; railway or tramway track fixtures and fittings, and parts thereof; mechanical (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields, and parts thereof</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code496 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code496">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code49"/>
+        <rdfs:label>496. Aircraft and spacecraft, and parts thereof</rdfs:label>
+        <skos:prefLabel>Aircraft and spacecraft, and parts thereof</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4961 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4961">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code496"/>
+        <rdfs:label>4961. Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft</rdfs:label>
+        <skos:prefLabel>Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49610 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49610">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4961"/>
+        <rdfs:label>49610. Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft</rdfs:label>
+        <skos:prefLabel>Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4962 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4962">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code496"/>
+        <rdfs:label>4962. Aeroplanes and helicopters</rdfs:label>
+        <skos:prefLabel>Aeroplanes and helicopters</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49621 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49621">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4962"/>
+        <rdfs:label>49621. Helicopters</rdfs:label>
+        <skos:prefLabel>Helicopters</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49622 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49622">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4962"/>
+        <rdfs:label>49622. Aeroplanes and other powered aircraft of an unladen weight not exceeding 2000 kg</rdfs:label>
+        <skos:prefLabel>Aeroplanes and other powered aircraft of an unladen weight not exceeding 2000 kg</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49623 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49623">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4962"/>
+        <rdfs:label>49623. Aeroplanes and other powered aircraft of an unladen weight exceeding 2000 kg</rdfs:label>
+        <skos:prefLabel>Aeroplanes and other powered aircraft of an unladen weight exceeding 2000 kg</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4963 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4963">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code496"/>
+        <rdfs:label>4963. Spacecraft and spacecraft launch vehicles</rdfs:label>
+        <skos:prefLabel>Spacecraft and spacecraft launch vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49630 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49630">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4963"/>
+        <rdfs:label>49630. Spacecraft and spacecraft launch vehicles</rdfs:label>
+        <skos:prefLabel>Spacecraft and spacecraft launch vehicles</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4964 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4964">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code496"/>
+        <rdfs:label>4964. Parts of aircraft and spacecraft</rdfs:label>
+        <skos:prefLabel>Parts of aircraft and spacecraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49640 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49640">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4964"/>
+        <rdfs:label>49640. Parts of aircraft and spacecraft</rdfs:label>
+        <skos:prefLabel>Parts of aircraft and spacecraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code499 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code499">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code49"/>
+        <rdfs:label>499. Other transport equipment and parts thereof</rdfs:label>
+        <skos:prefLabel>Other transport equipment and parts thereof</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4991 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4991">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code499"/>
+        <rdfs:label>4991. Motorcycles and side-cars</rdfs:label>
+        <skos:prefLabel>Motorcycles and side-cars</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49911 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49911">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4991"/>
+        <rdfs:label>49911. Motorcycles and cycles fitted with an auxiliary motor, with reciprocating internal combustion piston engine of a cylinder capacity not exceeding 50 cc</rdfs:label>
+        <skos:prefLabel>Motorcycles and cycles fitted with an auxiliary motor, with reciprocating internal combustion piston engine of a cylinder capacity not exceeding 50 cc</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49912 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49912">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4991"/>
+        <rdfs:label>49912. Motorcycles and cycles fitted with an auxiliary motor, with reciprocating internal combustion piston engine of a cylinder capacity exceeding 50 cc</rdfs:label>
+        <skos:prefLabel>Motorcycles and cycles fitted with an auxiliary motor, with reciprocating internal combustion piston engine of a cylinder capacity exceeding 50 cc</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49913 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49913">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4991"/>
+        <rdfs:label>49913. Motorcycles and cycles fitted with an auxiliary motor, other than those with reciprocating internal combustion piston engines; side-cars</rdfs:label>
+        <skos:prefLabel>Motorcycles and cycles fitted with an auxiliary motor, other than those with reciprocating internal combustion piston engines; side-cars</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4992 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4992">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code499"/>
+        <rdfs:label>4992. Bicycles and invalid carriages</rdfs:label>
+        <skos:prefLabel>Bicycles and invalid carriages</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49921 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49921">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4992"/>
+        <rdfs:label>49921. Bicycles and other cycles, not motorized</rdfs:label>
+        <skos:prefLabel>Bicycles and other cycles, not motorized</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49922 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49922">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4992"/>
+        <rdfs:label>49922. Invalid carriages</rdfs:label>
+        <skos:prefLabel>Invalid carriages</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4993 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4993">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code499"/>
+        <rdfs:label>4993. Vehicles n.e.c., not mechanically propelled</rdfs:label>
+        <skos:prefLabel>Vehicles n.e.c., not mechanically propelled</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49930 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49930">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4993"/>
+        <rdfs:label>49930. Vehicles n.e.c., not mechanically propelled</rdfs:label>
+        <skos:prefLabel>Vehicles n.e.c., not mechanically propelled</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code4994 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code4994">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code499"/>
+        <rdfs:label>4994. Parts for the goods of classes 4991 and 4992</rdfs:label>
+        <skos:prefLabel>Parts for the goods of classes 4991 and 4992</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49941 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49941">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4994"/>
+        <rdfs:label>49941. Parts and accessories of motorcycles and side-cars</rdfs:label>
+        <skos:prefLabel>Parts and accessories of motorcycles and side-cars</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/CPC/CPC21Code49942 -->
+
+    <Class rdf:about="http://www.semanticweb.org/ontologies/CPC/CPC21Code49942">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/CPC/CPC21Code4994"/>
+        <rdfs:label>49942. Parts and accessories of bicycles and other cycles, not motorized, and of invalid carriages</rdfs:label>
+        <skos:prefLabel>Parts and accessories of bicycles and other cycles, not motorized, and of invalid carriages</skos:prefLabel>
+    </Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25) https://github.com/owlcs/owlapi -->
+

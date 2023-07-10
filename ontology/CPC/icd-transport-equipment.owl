@@ -1,0 +1,2595 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:schema="http://id.who.int/icd/schema/">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://id.who.int/icd/schema/browserUrl -->
+
+    <AnnotationProperty rdf:about="http://id.who.int/icd/schema/browserUrl"/>
+    
+
+
+    <!-- http://id.who.int/icd/schema/exclusion -->
+
+    <AnnotationProperty rdf:about="http://id.who.int/icd/schema/exclusion"/>
+    
+
+
+    <!-- http://id.who.int/icd/schema/foundationReference -->
+
+    <AnnotationProperty rdf:about="http://id.who.int/icd/schema/foundationReference"/>
+    
+
+
+    <!-- http://id.who.int/icd/schema/inclusion -->
+
+    <AnnotationProperty rdf:about="http://id.who.int/icd/schema/inclusion"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#altLabel -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#altLabel"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#definition -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#definition"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#prefLabel -->
+
+    <AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://id.who.int/icd/entity/1005023802 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1005023802">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1005023802"/>
+        <skos:prefLabel xml:lang="en">Baby carriage as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1009830752 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1009830752">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/475549117"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1009830752"/>
+        <skos:prefLabel xml:lang="en">Bus, coach</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1020612752 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1020612752">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1020612752"/>
+        <skos:prefLabel xml:lang="en">Houseboat</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1022588333 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1022588333">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/542554339"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1022588333"/>
+        <skos:prefLabel xml:lang="en">Ag bike as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1030557905 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1030557905">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1030557905"/>
+        <skos:prefLabel xml:lang="en">Motor car as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1032140413 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1032140413">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/191900029"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1032140413"/>
+        <skos:prefLabel xml:lang="en">Passenger car</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1032161173 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1032161173">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2123695182"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1032161173"/>
+        <skos:prefLabel xml:lang="en">Person using a pedestrian conveyance as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1055837255 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1055837255">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/622911741"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1055837255"/>
+        <skos:prefLabel xml:lang="en">Streetcar, tram, electric car, car trolley</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1060804103 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1060804103">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/899576709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1060804103"/>
+        <skos:prefLabel xml:lang="en">Motorcar as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1062941018 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1062941018">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/839418941"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1062941018"/>
+        <skos:prefLabel xml:lang="en">Vehicle doors, not elsewhere classified</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1081038327 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1081038327">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/980151073"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1081038327"/>
+        <skos:prefLabel xml:lang="en">Helicopter as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1082830183 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1082830183">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1082830183"/>
+        <skos:prefLabel xml:lang="en">Hovercraft and amphibious vehicles when in or above a body of water as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1090117309 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1090117309">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1090117309"/>
+        <skos:prefLabel xml:lang="en">Person-powered means of transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1093730051 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1093730051">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/899576709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1093730051"/>
+        <skos:prefLabel xml:lang="en">4x4 as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1103182901 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1103182901">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1103182901"/>
+        <skos:prefLabel xml:lang="en">Skis as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1108331081 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1108331081">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1108331081"/>
+        <skos:prefLabel xml:lang="en">Motorised yacht, motorboat, powered boat, personal powered watercraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1111833116 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1111833116">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1111833116"/>
+        <skos:prefLabel xml:lang="en">Certain specified land vehicle or means of land transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1115652661 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1115652661">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1201395668"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1115652661"/>
+        <skos:prefLabel xml:lang="en">Commercial fixed-wing powered aircraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1133651079 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1133651079">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1794418440"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1133651079"/>
+        <skos:altLabel xml:lang="en">motorised watercraft or means of water transport</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Powered watercraft or means of water transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1136268012 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1136268012">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1136268012"/>
+        <skos:definition xml:lang="en">A mobility scooter is a pedestrian conveyance which is a motorised mobility aid, designed for outdoor or indoor/outdoor use to convey one person in a seated position. </skos:definition>
+        <skos:prefLabel xml:lang="en">Mobility scooter as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1151626888 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1151626888">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/632148635"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1151626888"/>
+        <skos:prefLabel xml:lang="en">Land vehicle or means of land transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1161728427 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1161728427">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/839418941"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1161728427"/>
+        <skos:prefLabel xml:lang="en">Engine of vehicle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1167034019 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1167034019">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1167034019"/>
+        <skos:definition xml:lang="en">A vehicle on wheels (cart, dray, carriage) or runners (sled) the motive power for which is provided by one or more animals.</skos:definition>
+        <skos:prefLabel xml:lang="en">Animal drawn vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/117355165 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/117355165">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/311555997"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F117355165"/>
+        <skos:prefLabel xml:lang="en">Amphibious vehicle on land as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1190951244 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1190951244">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/339419809"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1190951244"/>
+        <skos:prefLabel xml:lang="en">Amphibious vehicle on land as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1201395668 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1201395668">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/254646600"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1201395668"/>
+        <skos:prefLabel xml:lang="en">Powered aircraft or means of air transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1205597072 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1205597072">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1205597072"/>
+        <skos:definition xml:lang="en">A streetcar or tram is a device running on rails and operated entirely or partly on roads. Streetcars and trams are used primarily for transporting persons, usually in urban and suburban places. A trailer being towed by a streetcar or tram is considered a part of the streetcar.</skos:definition>
+        <skos:prefLabel xml:lang="en">Streetcar or tram as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1206757646 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1206757646">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1206757646"/>
+        <skos:definition xml:lang="en">A pedal-cycle is any land transport vehicle propelled by the muscular energy of the person(s) on that vehicle usually by means of a pedal system but sometimes by lever(s) or handle(s). Includes vehicles with two wheels (the usual number) or more. </skos:definition>
+        <skos:prefLabel xml:lang="en">Pedal cycle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1228299776 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1228299776">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/788642162"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1228299776"/>
+        <skos:prefLabel xml:lang="en">Railway train as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1241975307 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1241975307">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/980151073"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1241975307"/>
+        <skos:prefLabel xml:lang="en">Glider as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1250139363 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1250139363">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/422450595"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1250139363"/>
+        <skos:prefLabel xml:lang="en">Truck with trailer as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1252711949 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1252711949">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/891089806"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1252711949"/>
+        <skos:prefLabel xml:lang="en">Moped  as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1264092820 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1264092820">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1264092820"/>
+        <skos:prefLabel xml:lang="en">Other specified powered or motorised watercraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1269392329 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1269392329">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1269392329"/>
+        <skos:prefLabel xml:lang="en">Ice skates as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1274104731 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1274104731">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1274104731"/>
+        <skos:definition xml:lang="en">Any animal struck in a transport crash.</skos:definition>
+        <skos:prefLabel xml:lang="en">Animal as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1279382176 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1279382176">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1343097580"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1279382176"/>
+        <skos:definition xml:lang="en">A person riding on a horse of any type.</skos:definition>
+        <skos:prefLabel xml:lang="en">Horse as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1313481586 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1313481586">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/542554339"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1313481586"/>
+        <schema:exclusion>Low-powered passenger vehicle as mode of transport of person injured in transport event</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Motorised bicycle as mode of transport of injured person in transport related event</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1313481586"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Low-powered passenger vehicle as mode of transport of person injured in transport event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/931060771"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1320220739 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1320220739">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/891089806"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1320220739"/>
+        <skos:prefLabel xml:lang="en">Motor scooter as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1332687557 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1332687557">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1649731250"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1332687557"/>
+        <skos:prefLabel xml:lang="en">Self-propelled agricultural machine as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1343097580 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1343097580">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1343097580"/>
+        <skos:definition xml:lang="en">A person riding on an animal of any type. Includes person directing or attempting to direct the animal and any other person riding on it.</skos:definition>
+        <skos:prefLabel xml:lang="en">Animal being ridden as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1350449975 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1350449975">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1856575293"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1350449975"/>
+        <skos:prefLabel xml:lang="en">Three-wheeled motor vehicle or scooter</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1355140558 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1355140558">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1355140558"/>
+        <skos:definition xml:lang="en">A vehicle on wheels (cart, dray, carriage) or runners (sled) the motive power for which is provided by one or more animals.</skos:definition>
+        <skos:prefLabel xml:lang="en">Animal drawn vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1363528812 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1363528812">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1363528812"/>
+        <skos:prefLabel xml:lang="en">Other specified unpowered watercraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1368954017 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1368954017">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1368954017"/>
+        <skos:altLabel xml:lang="en">Ferry used for short trips across minor rivers</skos:altLabel>
+        <skos:altLabel xml:lang="en">Ferry used for short trips across small lakes</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Ferry used for short trips across closed waters</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/13726036 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/13726036">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F13726036"/>
+        <skos:prefLabel xml:lang="en">Merchant ship as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1373171796 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1373171796">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/980151073"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1373171796"/>
+        <skos:prefLabel xml:lang="en">Parachute used in descent from damaged aircraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1374215389 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1374215389">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1201395668"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1374215389"/>
+        <skos:prefLabel xml:lang="en">Private fixed-wing powered aircraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1386734179 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1386734179">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1386734179"/>
+        <skos:definition xml:lang="en">A pedal-cycle is any land transport vehicle propelled by the muscular energy of the person(s) on that vehicle usually by means of a pedal system but sometimes by lever(s) or handle(s). Includes vehicles with two wheels (the usual number) or more. </skos:definition>
+        <skos:prefLabel xml:lang="en">Pedal cycle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1393249384 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1393249384">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1393249384"/>
+        <skos:definition xml:lang="en">A motor vehicle designed specifically for use in the construction (or demolition) of roads, buildings and other structures or associated earth-moving.</skos:definition>
+        <skos:prefLabel xml:lang="en">Special construction vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1396104186 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1396104186">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2128837268"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1396104186"/>
+        <skos:prefLabel xml:lang="en">Glider</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1397134216 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1397134216">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2062191047"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1397134216"/>
+        <skos:prefLabel xml:lang="en">Windsurfer</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1400981612 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1400981612">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1400981612"/>
+        <skos:prefLabel xml:lang="en">Ice skates as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1417136230 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1417136230">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/191900029"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1417136230"/>
+        <skos:prefLabel xml:lang="en">Minibus</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1438791033 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1438791033">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/475549117"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1438791033"/>
+        <skos:prefLabel xml:lang="en">Tractor-trailer, articulated lorry, 18-wheeler, rig</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1443600818 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1443600818">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/573871950"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1443600818"/>
+        <skos:prefLabel xml:lang="en">Mototaxi as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1453969219 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1453969219">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/839418941"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1453969219"/>
+        <skos:prefLabel xml:lang="en">Tyre (tire) or battery (attached or unattached)</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1461465696 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1461465696">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/622911741"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1461465696"/>
+        <skos:prefLabel xml:lang="en">Funicular, monorail, or other similar rail vehicle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1463612101 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1463612101">
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1463612101"/>
+        <skos:altLabel xml:lang="en">counterpart in collision</skos:altLabel>
+        <skos:definition xml:lang="en">The vehicle[s] or other object[s], if any, with which the vehicle conveying the injured person collided in the event that resulted in the injury. </skos:definition>
+        <skos:prefLabel xml:lang="en">Counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1475436790 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1475436790">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1475436790"/>
+        <skos:definition xml:lang="en">A motor vehicle designed primarily for use within the buildings and premises of industrial or commercial establishments.</skos:definition>
+        <skos:prefLabel xml:lang="en">Special vehicle mainly used on industrial premises as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1485925736 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1485925736">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1485925736"/>
+        <skos:altLabel xml:lang="en">Passenger car as mode of transport of person injured in transport related event</skos:altLabel>
+        <skos:definition xml:lang="en">A land transport motor vehicle designed primarily to seat no more than 9 persons, including the driver, designed primarily for on-road use or so as to be registrable for on-road use.  A trailer or caravan being towed by a car is considered a part of the car. Usually has four wheels.</skos:definition>
+        <skos:prefLabel xml:lang="en">Car as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1508448144 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1508448144">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1508448144"/>
+        <skos:prefLabel xml:lang="en">Skis as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1512509912 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1512509912">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/311555997"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1512509912"/>
+        <skos:prefLabel xml:lang="en">Quad bike as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1517583389 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1517583389">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/931060771"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1517583389"/>
+        <skos:prefLabel xml:lang="en">Tuk-tuk as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/152036091 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/152036091">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F152036091"/>
+        <skos:definition xml:lang="en">A pedestrian conveyance which is a motorised mobility aid, designed for outdoor or indoor/outdoor use to convey one person in a seated position. </skos:definition>
+        <skos:prefLabel xml:lang="en">Mobility scooter as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1526753309 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1526753309">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1526753309"/>
+        <schema:exclusion>Light transport vehicle with four or more wheels used in sport and leisure activities as mode of transport of person injured in transport related event</schema:exclusion>
+        <schema:exclusion>Minibus or passenger van as mode of transport of person injured in transport related event</schema:exclusion>
+        <skos:prefLabel xml:lang="en">4x4 vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1526753309"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Light transport vehicle with four or more wheels used in sport and leisure activities as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/277454813"/>
+    </Axiom>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1526753309"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Minibus or passenger van as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1652082013"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1528375793 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1528375793">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1111833116"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1528375793"/>
+        <skos:prefLabel xml:lang="en">Small-sized motorized vehicles for children</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1550901844 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1550901844">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1550901844"/>
+        <schema:exclusion>Other specified unpowered watercraft as mode of transport of person injured in transport related event</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Sailboat or unpowered yacht as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1550901844"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Other specified unpowered watercraft as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1363528812"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1562822130 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1562822130">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/311555997"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1562822130"/>
+        <skos:prefLabel xml:lang="en">Hovercraft operating on land or swamp as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1570324234 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1570324234">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1570324234"/>
+        <skos:definition xml:lang="en">A motor vehicle designed specifically for use in the construction (or demolition) of roads, buildings and other structures or associated earth-moving.</skos:definition>
+        <skos:prefLabel xml:lang="en">Special construction vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1590845204 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1590845204">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1590845204"/>
+        <skos:altLabel xml:lang="en">powered pedestrian conveyances</skos:altLabel>
+        <skos:definition xml:lang="en">A device which is designed primarily for, or being used at the time primarily for, conveying the person and is not a transport vehicle. </skos:definition>
+        <skos:prefLabel xml:lang="en">Pedestrian conveyance as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1629791613 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1629791613">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/191900029"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1629791613"/>
+        <skos:prefLabel xml:lang="en">Light truck, Sports Utility Vehicle (SUV), utility van, 4x4 vehicle, jeep, pick-up truck</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1634614607 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1634614607">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/899576709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1634614607"/>
+        <skos:prefLabel xml:lang="en">Sport utility vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1638458183 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1638458183">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1638458183"/>
+        <skos:prefLabel xml:lang="en">Jeep as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1649368903 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1649368903">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/622911741"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1649368903"/>
+        <skos:prefLabel xml:lang="en">Train</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1649731250 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1649731250">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1649731250"/>
+        <skos:definition xml:lang="en">A motor vehicle designed specifically for use in farming and agriculture (horticulture), for example to work the land, tend and harvest crops and transport materials on the farm.</skos:definition>
+        <skos:prefLabel xml:lang="en">Special vehicle mainly used in agriculture as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1652082013 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1652082013">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/235303267"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1652082013"/>
+        <schema:exclusion>4x4 vehicle as mode of transport of person injured in transport related event</schema:exclusion>
+        <schema:exclusion>Light transport vehicle with four or more wheels used in sport and leisure activities as mode of transport of person injured in transport related event</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Minibus or passenger van as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1652082013"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>4x4 vehicle as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1526753309"/>
+    </Axiom>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1652082013"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Light transport vehicle with four or more wheels used in sport and leisure activities as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/277454813"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1677369946 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1677369946">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/839418941"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1677369946"/>
+        <skos:prefLabel xml:lang="en">Vehicle seat belts, deploying air bags</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1682994887 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1682994887">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/422450595"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1682994887"/>
+        <skos:altLabel xml:lang="en">prime mover as mode of transport of person injured in transport related events</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Road tractor with or without semi-trailer as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1687726899 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1687726899">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2038526973"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1687726899"/>
+        <skos:prefLabel xml:lang="en">Animal-drawn vehicle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1692008976 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1692008976">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/475549117"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1692008976"/>
+        <skos:prefLabel xml:lang="en">Trailer or horse-float</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1696327573 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1696327573">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/931060771"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1696327573"/>
+        <skos:prefLabel xml:lang="en">Mototaxi as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1697469998 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1697469998">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1856575293"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1697469998"/>
+        <skos:prefLabel xml:lang="en">Moped, scooter</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1715907604 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1715907604">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1090117309"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1715907604"/>
+        <skos:prefLabel xml:lang="en">Pedal cycle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1722797816 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1722797816">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1722797816"/>
+        <skos:prefLabel xml:lang="en">Roller skates as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1725415658 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1725415658">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/774403547"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1725415658"/>
+        <skos:prefLabel xml:lang="en">Large or heavy fixed object as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1734776704 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1734776704">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/788642162"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1734776704"/>
+        <schema:exclusion>Other specified mechanism with no counterpart</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Funicular or monorail as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1734776704"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Other specified mechanism with no counterpart</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/2082390565"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/174240752 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/174240752">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1274104731"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F174240752"/>
+        <skos:prefLabel xml:lang="en">Unattended animal as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1749572045 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1749572045">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/457980430"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1749572045"/>
+        <skos:prefLabel xml:lang="en">Light transport vehicle with four or more wheels used in sport and leisure activities as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1755340052 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1755340052">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/980151073"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1755340052"/>
+        <skos:prefLabel xml:lang="en">Parachute used in descent from undamaged aircraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1765536272 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1765536272">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1809796899"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1765536272"/>
+        <skos:prefLabel xml:lang="en">Person on foot standing, walking or running at the time of the crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1769819242 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1769819242">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1769819242"/>
+        <skos:prefLabel xml:lang="en">Skateboard as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1774919252 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1774919252">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/254646600"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1774919252"/>
+        <skos:prefLabel xml:lang="en">Part or component of powered or unpowered aircraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1794382913 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1794382913">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/891089806"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1794382913"/>
+        <skos:prefLabel xml:lang="en">Underbone motorcycle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1794418440 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1794418440">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/632148635"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1794418440"/>
+        <skos:prefLabel xml:lang="en">Watercraft or means of water transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1798035143 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1798035143">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1649731250"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1798035143"/>
+        <skos:prefLabel xml:lang="en">Harvester as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1809796899 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1809796899">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1809796899"/>
+        <skos:definition xml:lang="en">A pedestrian is any person involved in a transport crash who was not in or on a vehicle or pedestrian conveyance at the time.</skos:definition>
+        <skos:prefLabel xml:lang="en">Pedestrian as mode of transport of person injured in transport event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/181243198 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/181243198">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/931060771"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F181243198"/>
+        <skos:prefLabel xml:lang="en">Auto rickshaw three-wheeler as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1813975252 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1813975252">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1813975252"/>
+        <skos:definition xml:lang="en">A passenger motor vehicle designed to carry 10 or more persons (including the driver). Buses may be designed to accommodate standing passengers and/or seated passengers.</skos:definition>
+        <skos:prefLabel xml:lang="en">Bus or coach as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1832251384 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1832251384">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1832251384"/>
+        <skos:prefLabel xml:lang="en">Stroller as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1841491207 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1841491207">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1794418440"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1841491207"/>
+        <skos:prefLabel xml:lang="en">Part or component of powered or unpowered watercraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1846490117 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1846490117">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1846490117"/>
+        <skos:prefLabel xml:lang="en">Push chair as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1850361064 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1850361064">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1111833116"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1850361064"/>
+        <skos:prefLabel xml:lang="en">Motorized wheelchair</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1856575293 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1856575293">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1856575293"/>
+        <skos:prefLabel xml:lang="en">Motorised two- or three-wheeled vehicle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1899862623 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1899862623">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2062191047"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1899862623"/>
+        <skos:prefLabel xml:lang="en">Sailboat, unpowered yacht</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1900925475 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1900925475">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2128837268"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1900925475"/>
+        <skos:prefLabel xml:lang="en">Passenger balloon, unpowered</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1901422543 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1901422543">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1901422543"/>
+        <skos:prefLabel xml:lang="en">Skateboard as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/191900029 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/191900029">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F191900029"/>
+        <skos:prefLabel xml:lang="en">Light transport vehicle with four or more wheels</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1929774728 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1929774728">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/475549117"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1929774728"/>
+        <skos:prefLabel xml:lang="en">Heavy truck, not elsewhere classified</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1930952000 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1930952000">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1930952000"/>
+        <skos:prefLabel xml:lang="en">Airboat</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1936176450 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1936176450">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1201395668"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1936176450"/>
+        <skos:prefLabel xml:lang="en">Spacecraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1939068166 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1939068166">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1201395668"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1939068166"/>
+        <skos:prefLabel xml:lang="en">Helicopter</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1944296824 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1944296824">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1944296824"/>
+        <skos:prefLabel xml:lang="en">Merchant ship, cargo ship, oil tanker</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1953596685 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1953596685">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/542554339"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1953596685"/>
+        <skos:prefLabel xml:lang="en">Moped as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1964885085 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1964885085">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1964885085"/>
+        <skos:prefLabel xml:lang="en">Stroller as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1968218525 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1968218525">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/235303267"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1968218525"/>
+        <schema:exclusion>4x4 vehicle as mode of transport of person injured in transport related event</schema:exclusion>
+        <schema:exclusion>Minibus or passenger van as mode of transport of person injured in transport related event</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Pick-up truck, goods or work van, ambulance, motor home as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1968218525"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Minibus or passenger van as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1652082013"/>
+    </Axiom>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/1968218525"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>4x4 vehicle as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1526753309"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1978402667 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1978402667">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/548175795"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1978402667"/>
+        <skos:prefLabel xml:lang="en">Microcar as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1982275488 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/1982275488">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1982275488"/>
+        <skos:prefLabel xml:lang="en">Push chair as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2003233412 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2003233412">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2003233412"/>
+        <skos:definition xml:lang="en">Device designed for transporting passengers or goods to, from and in places with very low atmospheric pressure.</skos:definition>
+        <skos:prefLabel xml:lang="en">Spacecraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2036291772 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2036291772">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2003233412"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2036291772"/>
+        <skos:prefLabel xml:lang="en">Devices or parts of devices designed for ascent from and landing on earth or the surface of other bodies as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2036474356 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2036474356">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/311555997"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2036474356"/>
+        <skos:prefLabel xml:lang="en">Snowmobile as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2037136197 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2037136197">
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2037136197"/>
+        <skos:definition xml:lang="en">Collective term for forms of transportation. Includes types of vehicle; walking and other aspects of being a pedestrian (e.g. lying on a road); and using a pedestrian conveyance.</skos:definition>
+        <skos:prefLabel xml:lang="en">Mode of transport of person injured in transport event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2038526973 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2038526973">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2038526973"/>
+        <skos:prefLabel xml:lang="en">Animal-powered means of transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2056952886 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2056952886">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/422450595"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2056952886"/>
+        <schema:exclusion>Pick-up truck, goods or work van, ambulance, motor home as mode of transport of person injured in transport related event</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Trucks, lorries, and other heavy goods vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/2056952886"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Pick-up truck, goods or work van, ambulance, motor home as mode of transport of person injured in transport related event</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1968218525"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2062191047 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2062191047">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1794418440"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2062191047"/>
+        <skos:prefLabel xml:lang="en">Unpowered watercraft or means of water transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/207247135 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/207247135">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/419014753"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F207247135"/>
+        <skos:prefLabel xml:lang="en">Self-propelled agricultural machine as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/207904462 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/207904462">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F207904462"/>
+        <skos:altLabel xml:lang="en">fire brigade pump vehicle</skos:altLabel>
+        <skos:altLabel xml:lang="en">lorry </skos:altLabel>
+        <skos:altLabel xml:lang="en">prime mover</skos:altLabel>
+        <skos:altLabel xml:lang="en">road tractor</skos:altLabel>
+        <skos:altLabel xml:lang="en">truck with trailer</skos:altLabel>
+        <skos:definition xml:lang="en">A heavy goods vehicle is a motor vehicle designed primarily for carrying property on roads, meeting local criteria for classification as a heavy goods vehicle in terms of curbside weight (usually above 3500 kg), and usually requiring a special driver&apos;s licence.</skos:definition>
+        <skos:prefLabel xml:lang="en">Heavy goods vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2084367557 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2084367557">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1809796899"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2084367557"/>
+        <skos:prefLabel xml:lang="en">Person on foot injured in transport related event </skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2094369126 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2094369126">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2094369126"/>
+        <skos:definition xml:lang="en">A device which is designed primarily for, or being used at the time primarily for, conveying the person and is not a transport vehicle. </skos:definition>
+        <skos:prefLabel xml:lang="en">Pedestrian conveyance as mode of transport of person injured in transport event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2122835283 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2122835283">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2122835283"/>
+        <skos:prefLabel xml:lang="en">Roller skates as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2123695182 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2123695182">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2123695182"/>
+        <skos:definition xml:lang="en">A pedestrian is any person involved in a transport crash who was not in or on a vehicle or pedestrian conveyance at the time.</skos:definition>
+        <skos:prefLabel xml:lang="en">Pedestrian as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/2128837268 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/2128837268">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/254646600"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F2128837268"/>
+        <skos:prefLabel xml:lang="en">Unpowered aircraft or means of air transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/226059092 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/226059092">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/980151073"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F226059092"/>
+        <skos:prefLabel xml:lang="en">Powered aircraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/227633037 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/227633037">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/457980430"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F227633037"/>
+        <schema:exclusion>Minibus or passenger van as counterpart in land transport crash</schema:exclusion>
+        <schema:exclusion>Minivan as counterpart in land transport crash</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Pick-up truck, goods or work van, ambulance or motor home as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/227633037"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Minibus or passenger van as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/448332621"/>
+    </Axiom>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/227633037"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Minivan as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/599895565"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/230502299 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/230502299">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1201395668"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F230502299"/>
+        <skos:prefLabel xml:lang="en">Military fixed-wing powered aircraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/231565287 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/231565287">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F231565287"/>
+        <skos:prefLabel xml:lang="en">Hovercraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/235303267 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/235303267">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F235303267"/>
+        <skos:altLabel xml:lang="en">Mode of transport, Light transport vehicle with four or more wheels</skos:altLabel>
+        <skos:definition xml:lang="en">A light goods vehicle is a four- or six-wheeled motor vehicle designed primarily for carrying property on roads, weighing less than the local limit for classification as a heavy goods vehicle (usually less than 3500 kg), and not requiring a special driver&apos;s licence. </skos:definition>
+        <skos:prefLabel xml:lang="en">Light goods vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/246900331 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/246900331">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/839418941"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F246900331"/>
+        <skos:prefLabel xml:lang="en">Interior of vehicle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/248116386 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/248116386">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F248116386"/>
+        <skos:prefLabel xml:lang="en">Snowboard as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/252889276 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/252889276">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1386734179"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F252889276"/>
+        <skos:prefLabel xml:lang="en">Trailer or sidecar attached to a pedal cycle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/254646600 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/254646600">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/632148635"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F254646600"/>
+        <skos:prefLabel xml:lang="en">Aircraft or means of air transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/264915300 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/264915300">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1206757646"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F264915300"/>
+        <skos:prefLabel xml:lang="en">Trailer or sidecar attached to a pedal cycle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/268714364 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/268714364">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/422450595"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F268714364"/>
+        <skos:prefLabel xml:lang="en">Fire brigade pump vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/277454813 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/277454813">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F277454813"/>
+        <skos:prefLabel xml:lang="en">Light transport vehicle with four or more wheels used in sport and leisure activities as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/277929521 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/277929521">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1111833116"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F277929521"/>
+        <skos:prefLabel xml:lang="en">Motor home</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/282219088 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/282219088">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/207904462"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F282219088"/>
+        <skos:prefLabel xml:lang="en">Road tractor with or without semi-trailer as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/311555997 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/311555997">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F311555997"/>
+        <skos:definition xml:lang="en">A vehicle designed primarily for off-road use with capability to traverse a wide range of types of terrain by means of wheels, tracks, support on a cushion of air or other form of support/traction. </skos:definition>
+        <skos:prefLabel xml:lang="en">Special all-terrain vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/316847899 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/316847899">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/573871950"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F316847899"/>
+        <skos:prefLabel xml:lang="en">Tuk-tuk as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/338074218 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/338074218">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/774403547"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F338074218"/>
+        <skos:prefLabel xml:lang="en">Small loose object as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/339419809 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/339419809">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F339419809"/>
+        <skos:altLabel xml:lang="en">Mode of transport, Special all-terrain or off-road vehicle</skos:altLabel>
+        <skos:definition xml:lang="en">A vehicle designed primarily for off-road use with capability to traverse a wide range of types of terrain by means of wheels, tracks, support on a cushion of air or other form of support/traction. </skos:definition>
+        <skos:prefLabel xml:lang="en">Special all-terrain vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/383901445 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/383901445">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F383901445"/>
+        <skos:prefLabel xml:lang="en">Snowboard as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/39541286 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/39541286">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/207904462"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F39541286"/>
+        <schema:exclusion>Pick-up truck, goods or work van, ambulance or motor home as counterpart in land transport crash</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Trucks, lorries, and other heavy goods vehicles as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/39541286"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Pick-up truck, goods or work van, ambulance or motor home as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/227633037"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/406005819 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/406005819">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/339419809"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F406005819"/>
+        <skos:prefLabel xml:lang="en">Snowmobile as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/415181882 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/415181882">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2128837268"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F415181882"/>
+        <skos:prefLabel xml:lang="en">Hang-glider</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/416244808 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/416244808">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2062191047"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F416244808"/>
+        <skos:prefLabel xml:lang="en">Wave board, surfboard, paddle ski</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/419014753 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/419014753">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F419014753"/>
+        <skos:definition xml:lang="en">A motor vehicle designed specifically for use in farming and agriculture (horticulture), for example to work the land, tend and harvest crops and transport materials on the farm.</skos:definition>
+        <skos:prefLabel xml:lang="en">Special vehicle mainly used in agriculture as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/419647783 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/419647783">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/573871950"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F419647783"/>
+        <skos:prefLabel xml:lang="en">Auto rickshaw three-wheeler as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/422450595 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/422450595">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F422450595"/>
+        <skos:definition xml:lang="en">A heavy goods vehicle is a motor vehicle designed primarily for carrying property on roads, meeting local criteria for classification as a heavy goods vehicle in terms of curbside weight (usually above 3500 kg), and usually requiring a special driver&apos;s licence.</skos:definition>
+        <skos:prefLabel xml:lang="en">Heavy goods vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/437347169 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/437347169">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F437347169"/>
+        <skos:prefLabel xml:lang="en">Fishing boat, trawler</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/442575645 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/442575645">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1201395668"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F442575645"/>
+        <skos:prefLabel xml:lang="en">Ultralight powered aircraft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/448332621 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/448332621">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/457980430"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F448332621"/>
+        <schema:exclusion>Bus or coach as counterpart in land transport crash</schema:exclusion>
+        <schema:exclusion>Light transport vehicle with four or more wheels used in sport and leisure activities as counterpart in land transport crash</schema:exclusion>
+        <schema:exclusion>Minivan as counterpart in land transport crash</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Minibus or passenger van as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/448332621"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Bus or coach as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/992212838"/>
+    </Axiom>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/448332621"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Light transport vehicle with four or more wheels used in sport and leisure activities as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1749572045"/>
+    </Axiom>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/448332621"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Minivan as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/599895565"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/457980430 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/457980430">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F457980430"/>
+        <skos:definition xml:lang="en">A light goods vehicle is a four- or six-wheeled motor vehicle designed primarily for carrying property on roads, weighing less than the local limit for classification as a heavy goods vehicle (usually less 3500 kg), and not requiring a special driver&apos;s licence. </skos:definition>
+        <skos:prefLabel xml:lang="en">Light goods vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/475549117 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/475549117">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F475549117"/>
+        <skos:prefLabel xml:lang="en">Heavy transport vehicle with four or more wheels</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/478773497 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/478773497">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F478773497"/>
+        <skos:prefLabel xml:lang="en">Wheelchair as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/480297495 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/480297495">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F480297495"/>
+        <skos:prefLabel xml:lang="en">Scooter as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/483558985 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/483558985">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/207904462"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F483558985"/>
+        <skos:prefLabel xml:lang="en">Fire brigade pump vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/488650883 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/488650883">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/839418941"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F488650883"/>
+        <skos:prefLabel xml:lang="en">Vehicle window or windshield</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/51314346 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/51314346">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/774403547"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F51314346"/>
+        <skos:prefLabel xml:lang="en">Small or light fixed object as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/51594849 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/51594849">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F51594849"/>
+        <skos:altLabel xml:lang="en">Mode of transport, Watercraft</skos:altLabel>
+        <skos:definition xml:lang="en">A watercraft is any device for transporting passengers or goods on or in water.</skos:definition>
+        <skos:prefLabel xml:lang="en">Watercraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/531059088 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/531059088">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/978055709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F531059088"/>
+        <skos:prefLabel xml:lang="en">Funicular or monorail as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/542554339 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/542554339">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F542554339"/>
+        <schema:inclusion xml:lang="en">Includes vehicles with one wheel at the rear and two closely-spaced steerable wheels at the front and motorised tricycles (one wheel at the front) if registered as motor-cycles</schema:inclusion>
+        <skos:altLabel xml:lang="en">Includes vehicles with one wheel at the rear and two closely-spaced steerable wheels at the front and motorised tricycles (one wheel at the front) if registered as motor-cycles</skos:altLabel>
+        <skos:definition xml:lang="en">A motorcycle is a land transport motor vehicle with one or two riding saddles, usually with two-wheels in-line. A sidecar or trailer is considered part of the motorcycle. </skos:definition>
+        <skos:prefLabel xml:lang="en">Motorcycle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/544960766 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/544960766">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/542554339"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F544960766"/>
+        <skos:prefLabel xml:lang="en">Motor scooter as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/548175795 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/548175795">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/899576709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F548175795"/>
+        <skos:prefLabel xml:lang="en">Station wagon as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/549237391 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/549237391">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F549237391"/>
+        <skos:definition xml:lang="en">A streetcar or tram is a device running on rails and operated entirely or partly on roads. Streetcars and trams are used primarily for transporting persons, usually in urban and suburban places. A trailer being towed by a streetcar or tram is considered a part of the streetcar.</skos:definition>
+        <skos:prefLabel xml:lang="en">Streetcar or tram as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/55596123 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/55596123">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/980151073"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F55596123"/>
+        <skos:prefLabel xml:lang="en">Balloons and other lighter than air devices as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/558597499 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/558597499">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/339419809"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F558597499"/>
+        <skos:prefLabel xml:lang="en">Hovercraft operating on land or swamp as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/573871950 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/573871950">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F573871950"/>
+        <skos:altLabel xml:lang="en">Three wheeler as counterpart in land transport crash</skos:altLabel>
+        <skos:definition xml:lang="en">(1) A land transport motor vehicle with three wheels (usually one in front and two behind), designed primarily for on-road use. Globally, most commonly used as taxis. Design, construction, type of motor and registration/licensing requirements vary widely. (2) A low-powered quadricycle or other low-powered four-wheeled passenger vehicle that is not a car.</skos:definition>
+        <skos:prefLabel xml:lang="en">Low powered passenger vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/59299203 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/59299203">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/419014753"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F59299203"/>
+        <skos:prefLabel xml:lang="en">Harvester as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/599895565 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/599895565">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/899576709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F599895565"/>
+        <schema:exclusion>Light transport vehicle with four or more wheels used in sport and leisure activities as counterpart in land transport crash</schema:exclusion>
+        <schema:exclusion>Minibus or passenger van as counterpart in land transport crash</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Minivan as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/599895565"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Light transport vehicle with four or more wheels used in sport and leisure activities as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/1749572045"/>
+    </Axiom>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/599895565"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Minibus or passenger van as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/448332621"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/600791455 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/600791455">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F600791455"/>
+        <skos:prefLabel xml:lang="en">Baby carriage as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/622911741 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/622911741">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F622911741"/>
+        <skos:prefLabel xml:lang="en">Rail vehicle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/625069552 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/625069552">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F625069552"/>
+        <skos:prefLabel xml:lang="en">Minivan as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/632148635 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/632148635">
+        <schema:browserUrl>https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F632148635</schema:browserUrl>
+        <skos:prefLabel xml:lang="en">Objects, living things or substances involved in causing injury</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/667693441 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/667693441">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/419014753"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F667693441"/>
+        <skos:prefLabel xml:lang="en">Agricultural tractor as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/674502377 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/674502377">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F674502377"/>
+        <skos:prefLabel xml:lang="en">Microcar as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/684707068 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/684707068">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1274104731"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F684707068"/>
+        <skos:prefLabel xml:lang="en">Animal being ridden as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/689291641 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/689291641">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/761501405"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F689291641"/>
+        <skos:prefLabel xml:lang="en">Fork lift truck as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/713887908 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/713887908">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F713887908"/>
+        <skos:prefLabel xml:lang="en">Sled as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/722031640 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/722031640">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F722031640"/>
+        <skos:prefLabel xml:lang="en">Submarine or related craft</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/728890556 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/728890556">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F728890556"/>
+        <skos:prefLabel xml:lang="en">Station wagon as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/76081588 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/76081588">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F76081588"/>
+        <skos:prefLabel xml:lang="en">Scooter as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/761015847 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/761015847">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1649731250"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F761015847"/>
+        <skos:definition xml:lang="en">A motor vehicle designed primarily to provide mechanical power for use in farming and agriculture (horticulture). </skos:definition>
+        <skos:prefLabel xml:lang="en">Agricultural tractor as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/761149226 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/761149226">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/774403547"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F761149226"/>
+        <skos:prefLabel xml:lang="en">Vehicle parked at the side of a road or in a parking lot as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/761501405 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/761501405">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F761501405"/>
+        <skos:altLabel xml:lang="en">special vehicle used in industry as mode of transport of person injured in transport related event</skos:altLabel>
+        <skos:definition xml:lang="en">A motor vehicle designed primarily for use within the buildings and premises of industrial or commercial establishments.</skos:definition>
+        <skos:prefLabel xml:lang="en">Special vehicle mainly used on industrial premises as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/765200735 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/765200735">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2062191047"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F765200735"/>
+        <skos:prefLabel xml:lang="en">Canoe, kayak, row boat, pirogue, piragua</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/770457891 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/770457891">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2128837268"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F770457891"/>
+        <skos:prefLabel xml:lang="en">Parachute</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/771713229 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/771713229">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/600791455"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F771713229"/>
+        <skos:prefLabel xml:lang="en">Perambulator as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/774403547 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/774403547">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F774403547"/>
+        <skos:definition xml:lang="en">Any object, structure or land conformation struck by a vehicle involved in a transport crash other than a transport vehicle in use, or a pedestrian, or a pedestrian conveyance in use.</skos:definition>
+        <skos:prefLabel xml:lang="en">Fixed or stationary object as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/77704030 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/77704030">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F77704030"/>
+        <skos:prefLabel xml:lang="en">Motorised wheelchair as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/780253396 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/780253396">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F780253396"/>
+        <skos:prefLabel xml:lang="en">Fishing boat or trawler as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/782248914 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/782248914">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1485925736"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F782248914"/>
+        <skos:prefLabel xml:lang="en">Sport utility vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/788642162 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/788642162">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F788642162"/>
+        <skos:definition xml:lang="en">A vehicle, or a coupled set of vehicles (a train), designed for traffic on a railway.</skos:definition>
+        <skos:prefLabel xml:lang="en">Railway vehicle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/791823878 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/791823878">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1201395668"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F791823878"/>
+        <skos:prefLabel xml:lang="en">Airship, blimp</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/792858232 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/792858232">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1133651079"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F792858232"/>
+        <skos:prefLabel xml:lang="en">Passenger ship, passenger liner, ocean liner</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/799666784 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/799666784">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/542554339"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F799666784"/>
+        <skos:prefLabel xml:lang="en">Underbone motorcycle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/813519670 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/813519670">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1386734179"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F813519670"/>
+        <skos:prefLabel xml:lang="en">Cycle rickshaw or tri-shaw as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/816173806 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/816173806">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1206757646"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F816173806"/>
+        <skos:prefLabel xml:lang="en">Cycle rickshaw or tri-shaw as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/821273002 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/821273002">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/339419809"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F821273002"/>
+        <skos:prefLabel xml:lang="en">Quad bike as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/83700437 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/83700437">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2123695182"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F83700437"/>
+        <skos:altLabel xml:lang="en">Person standing, walking or running at time of the crash </skos:altLabel>
+        <skos:prefLabel xml:lang="en">Person on foot as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/838309904 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/838309904">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/978055709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F838309904"/>
+        <skos:prefLabel xml:lang="en">Railway train as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/839418941 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/839418941">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1151626888"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F839418941"/>
+        <skos:prefLabel xml:lang="en">Parts or components of land vehicle or means of land transport</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/849689351 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/849689351">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1590845204"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F849689351"/>
+        <skos:prefLabel xml:lang="en">Sled as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/854317032 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/854317032">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1111833116"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F854317032"/>
+        <skos:prefLabel xml:lang="en">Cable car, ski chair lift, ski lift with gondola</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/857349808 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/857349808">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1274104731"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F857349808"/>
+        <skos:prefLabel xml:lang="en">Animal being herded as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/872533524 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/872533524">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/980151073"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F872533524"/>
+        <skos:prefLabel xml:lang="en">Unpowered aircraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/891089806 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/891089806">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F891089806"/>
+        <skos:definition xml:lang="en">A motorcycle is a land transport motor vehicle with one or two riding saddles, usually with two-wheels in-line. A sidecar or trailer is considered part of the motorcycle. </skos:definition>
+        <skos:prefLabel xml:lang="en">Motorcycle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/899576709 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/899576709">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F899576709"/>
+        <skos:definition xml:lang="en">A land transport motor vehicle designed primarily to seat no more than 9 persons, including the driver, designed primarily for on-road use or so as to be registrable for on-road use.  A trailer or caravan being towed by a car is considered a part of the car. Usually four wheels.</skos:definition>
+        <skos:prefLabel xml:lang="en">Car as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/903299946 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/903299946">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2094369126"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F903299946"/>
+        <skos:prefLabel xml:lang="en">Perambulator as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/912976231 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/912976231">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1475436790"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F912976231"/>
+        <skos:prefLabel xml:lang="en">Fork lift truck as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/915137890 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/915137890">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/891089806"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F915137890"/>
+        <schema:exclusion>Low powered passenger vehicle as counterpart in land transport crash</schema:exclusion>
+        <skos:prefLabel xml:lang="en">Motorised bicycle as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/915137890"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Low powered passenger vehicle as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/573871950"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/93017206 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/93017206">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/207904462"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F93017206"/>
+        <skos:prefLabel xml:lang="en">Truck with trailer as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/931060771 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/931060771">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F931060771"/>
+        <skos:altLabel xml:lang="en">Three wheeler as mode of transport of person injured in transport related event</skos:altLabel>
+        <skos:definition xml:lang="en">(1) A land transport motor vehicle with three wheels (usually one in front and two behind), designed primarily for on-road use. Globally, most commonly used as taxis. Design, construction, type of motor and registration/licensing requirements vary widely. (2) A low-powered quadricycle or other low-powered four-wheeled passenger vehicle that is not a car.</skos:definition>
+        <skos:prefLabel xml:lang="en">Low-powered passenger vehicle as mode of transport of person injured in transport event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/943274035 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/943274035">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2038526973"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F943274035"/>
+        <skos:prefLabel xml:lang="en">Animal being ridden</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/965022387 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/965022387">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F965022387"/>
+        <skos:prefLabel xml:lang="en">Submarine as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/965526830 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/965526830">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1856575293"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F965526830"/>
+        <skos:prefLabel xml:lang="en">Motorcycle</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/967433236 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/967433236">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/51594849"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F967433236"/>
+        <skos:prefLabel xml:lang="en">Passenger ship as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/978055709 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/978055709">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F978055709"/>
+        <skos:altLabel xml:lang="en">Mode of transport, Rail vehicle</skos:altLabel>
+        <skos:definition xml:lang="en">A vehicle, or a coupled set of vehicles (a train), designed for traffic on a railway.</skos:definition>
+        <skos:prefLabel xml:lang="en">Railway vehicle as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/980151073 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/980151073">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037136197"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F980151073"/>
+        <skos:altLabel xml:lang="en">Mode of transport, Aircraft</skos:altLabel>
+        <skos:definition xml:lang="en">Device for transporting passengers or goods in the air by means of buoyancy in air or aerodynamic lift</skos:definition>
+        <skos:prefLabel xml:lang="en">Aircraft as mode of transport of person injured in transport related event</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/988073984 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/988073984">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/891089806"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F988073984"/>
+        <skos:prefLabel xml:lang="en">Ag-bike as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/988233492 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/988233492">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1090117309"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F988233492"/>
+        <skos:prefLabel xml:lang="en">Transport vehicle drawn or pushed by person</skos:prefLabel>
+    </Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/992212838 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/992212838">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1463612101"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F992212838"/>
+        <schema:exclusion>Minibus or passenger van as counterpart in land transport crash</schema:exclusion>
+        <skos:definition xml:lang="en">A passenger motor vehicle designed to carry 10 or more persons (including the driver). Buses may be designed to accommodate standing passengers and/or seated passengers.</skos:definition>
+        <skos:prefLabel xml:lang="en">Bus or coach as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+    <Axiom>
+        <annotatedSource rdf:resource="http://id.who.int/icd/entity/992212838"/>
+        <annotatedProperty rdf:resource="http://id.who.int/icd/schema/exclusion"/>
+        <annotatedTarget>Minibus or passenger van as counterpart in land transport crash</annotatedTarget>
+        <schema:foundationReference rdf:resource="http://id.who.int/icd/entity/448332621"/>
+    </Axiom>
+    
+
+
+    <!-- http://id.who.int/icd/entity/994325712 -->
+
+    <Class rdf:about="http://id.who.int/icd/entity/994325712">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/899576709"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F994325712"/>
+        <skos:prefLabel xml:lang="en">Jeep as counterpart in land transport crash</skos:prefLabel>
+    </Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"B","endColumn":"F","startRow":"2","endRow":"+","comment":"","rule":"Class: @B* \n  Annotations: rdfs:label @D*\n  Annotations: skos:prefLabel @E*\n  Annotations: rdfs:comment @F*","active":true}]}
