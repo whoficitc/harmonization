@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"ICF-ICD-anatomy-v1 copy","startColumn":"A","endColumn":"D","startRow":"226","endRow":"388","comment":"","rule":"Class:@A*(mm:prefix\u003d\"icd\")\nEquivalentTo: @D*(mm:prefix\u003d\"icd\")","active":true}]}
