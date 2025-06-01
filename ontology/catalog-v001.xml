@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://who.int/icd" uri="whofic-renamed.owl"/>
     <uri id="Imports Wizard Entry" name="http://who.int/icd" uri="whofic-2024-01-21.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1709163873212" name="http://who.int/icd/entity/" uri="whofic-harmonized.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1709163873212" name="http://www.semanticweb.org/tu/ontologies/2023/5/untitled-ontology-262/" uri="CPC/cpc21.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1709163873212" name="http://www.test.com/icd-transport-equipment" uri="CPC/icd-transport-equipment-rdfslabel.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1709163873212" name="http://www.test.com/icd-transport-equipment/" uri="CPC/icd-transport-equipment.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1709163873212" name="http://www.w3.org/2002/07/owl" uri="CPC/cpc-transport-equipment.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="http://who.int/foundation/" uri="renamedIRIs/whofic-foundation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="duplicate:http://who.int/icd" uri="whofic-renamed.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="duplicate:http://who.int/icd" uri="whofic-2024-01-21.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="http://who.int/icd/logical/" uri="renamedIRIs/whofic-ichi-icd-intervention-cause.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="http://who.int/whofic-harmonized" uri="whofic-harmonized-with-equivalence-axioms.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="http://www.semanticweb.org/tu/ontologies/2023/5/untitled-ontology-262/" uri="CPC/cpc21.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="http://www.test.com/icd-transport-equipment" uri="CPC/icd-transport-equipment-rdfslabel.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="http://www.w3.org/2002/07/owl" uri="ichi-2025-05-24.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://who.int/icd" uri="renamedIRIs/whofic-anatomy-icfleaves-harmonization.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://who.int/icd" uri="renamedIRIs/whofic-ichi-icd-anatomy-harmonization-separate-ontology-iri.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://who.int/icd" uri="renamedIRIs/whofic-ichi-icd-anatomy-harmonization.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://who.int/icd" uri="renamedIRIs/whofic-icf-icd-anatomy-harmonization.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://who.int/icd" uri="renamedIRIs/whofic-anatomy-nosurftop-or-leaf-harmonization.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://who.int/icd" uri="renamedIRIs/whofic-renamed.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://www.w3.org/2002/07/owl" uri="CPC/cpc-transport-equipment.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1748726632073" name="shadowed:http://www.w3.org/2002/07/owl" uri="CPC/icd-transport-equipment.owl"/>
     </group>
 </catalog>

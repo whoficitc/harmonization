@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1694220255120" name="http://www.semanticweb.org/tu/ontologies/2023/5/untitled-ontology-262/" uri="cpc21.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1694220255120" name="http://www.test.com/icd-transport-equipment" uri="icd-transport-equipment-rdfslabel.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1694220255120" name="http://www.test.com/icd-transport-equipment/" uri="icd-transport-equipment.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1694220255120" name="http://www.w3.org/2002/07/owl" uri="cpc-transport-equipment.owl"/>
+    </group>
+</catalog>

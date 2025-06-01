@@ -1,0 +1,5 @@
+icd:254646600    #air transport involved in causing injury
+icd:1794418440   #water transport involved in causing injury
+icd:1151626888   #land transport involved in causing injury
+icd:2037136197   #Mode of transport of person injured in transport event
+icd:1463612101   #Counterpart in land transport crash
