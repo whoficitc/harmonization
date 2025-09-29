@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://who.int/whofic-anatomy" uri="whofic-anatomy.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1759097674261" name="http://who.int/icd" uri="whofic-2025-05-24-renamed.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1759097674261" name="http://who.int/whofic-anatomy/" uri="whofic-anatomy.owl"/>
+    </group>
+</catalog>

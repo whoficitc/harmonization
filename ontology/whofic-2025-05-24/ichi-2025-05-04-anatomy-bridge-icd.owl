@@ -1,0 +1,2111 @@
+@prefix : <http://www.semanticweb.org/tu/ontologies/2025/7/untitled-ontology-622/> .
+@prefix icd: <http://id.who.int/icd/entity/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ichi: <http://id.who.int/ichi/entity/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bridge: <http://who.int/icd/ichi-anatomy-bridge-icd/> .
+@base <http://www.semanticweb.org/tu/ontologies/2025/7/untitled-ontology-622/> .
+
+<http://who.int/icd/ichi-anatomy-bridge-icd> rdf:type owl:Ontology ;
+                                              owl:imports <http://who.int/whofic-anatomy> .
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://id.who.int/icd/entity/1001188833
+<http://id.who.int/icd/entity/1001188833> owl:equivalentClass <http://id.who.int/ichi/entity/1864650865> .
+
+
+###  http://id.who.int/icd/entity/1002532547
+<http://id.who.int/icd/entity/1002532547> owl:equivalentClass <http://id.who.int/ichi/entity/476546881> .
+
+
+###  http://id.who.int/icd/entity/1012292065
+<http://id.who.int/icd/entity/1012292065> owl:equivalentClass <http://id.who.int/ichi/entity/647096113> .
+
+
+###  http://id.who.int/icd/entity/1020159779
+<http://id.who.int/icd/entity/1020159779> rdfs:subClassOf <http://id.who.int/ichi/entity/1818769736> ,
+                                                          <http://id.who.int/ichi/entity/679548897> .
+
+
+###  http://id.who.int/icd/entity/103370783
+<http://id.who.int/icd/entity/103370783> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/1043428534
+<http://id.who.int/icd/entity/1043428534> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/icd/entity/1048482858
+<http://id.who.int/icd/entity/1048482858> owl:equivalentClass <http://id.who.int/ichi/entity/785599416> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/1735522282> .
+
+
+###  http://id.who.int/icd/entity/1050605669
+<http://id.who.int/icd/entity/1050605669> rdfs:subClassOf <http://id.who.int/ichi/entity/1737088886> .
+
+
+###  http://id.who.int/icd/entity/106050921
+<http://id.who.int/icd/entity/106050921> owl:equivalentClass <http://id.who.int/ichi/entity/358838280> .
+
+
+###  http://id.who.int/icd/entity/1060675873
+<http://id.who.int/icd/entity/1060675873> rdfs:subClassOf <http://id.who.int/ichi/entity/1562300796> .
+
+
+###  http://id.who.int/icd/entity/1072551383
+<http://id.who.int/icd/entity/1072551383> rdfs:subClassOf <http://id.who.int/ichi/entity/141664053> .
+
+
+###  http://id.who.int/icd/entity/1075026309
+<http://id.who.int/icd/entity/1075026309> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/107652911
+<http://id.who.int/icd/entity/107652911> owl:equivalentClass <http://id.who.int/ichi/entity/932777163> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1924911940> .
+
+
+###  http://id.who.int/icd/entity/1079013045
+<http://id.who.int/icd/entity/1079013045> owl:equivalentClass <http://id.who.int/ichi/entity/436108473> .
+
+
+###  http://id.who.int/icd/entity/1081331887
+<http://id.who.int/icd/entity/1081331887> owl:equivalentClass <http://id.who.int/ichi/entity/1065300422> .
+
+
+###  http://id.who.int/icd/entity/1082307091
+<http://id.who.int/icd/entity/1082307091> owl:equivalentClass <http://id.who.int/ichi/entity/408878611> .
+
+
+###  http://id.who.int/icd/entity/1082634473
+<http://id.who.int/icd/entity/1082634473> owl:equivalentClass <http://id.who.int/ichi/entity/859690149> .
+
+
+###  http://id.who.int/icd/entity/1086407971
+<http://id.who.int/icd/entity/1086407971> owl:equivalentClass <http://id.who.int/ichi/entity/181373184> .
+
+
+###  http://id.who.int/icd/entity/1089203821
+<http://id.who.int/icd/entity/1089203821> rdfs:subClassOf <http://id.who.int/ichi/entity/1924911940> .
+
+
+###  http://id.who.int/icd/entity/1091787076
+<http://id.who.int/icd/entity/1091787076> owl:equivalentClass <http://id.who.int/ichi/entity/953954969> .
+
+
+###  http://id.who.int/icd/entity/1091984320
+<http://id.who.int/icd/entity/1091984320> rdfs:subClassOf <http://id.who.int/ichi/entity/142108125> ,
+                                                          <http://id.who.int/ichi/entity/679548897> .
+
+
+###  http://id.who.int/icd/entity/1113176014
+<http://id.who.int/icd/entity/1113176014> owl:equivalentClass <http://id.who.int/ichi/entity/675567479> .
+
+
+###  http://id.who.int/icd/entity/112148603
+<http://id.who.int/icd/entity/112148603> owl:equivalentClass <http://id.who.int/ichi/entity/2134590573> .
+
+
+###  http://id.who.int/icd/entity/1126217939
+<http://id.who.int/icd/entity/1126217939> rdfs:subClassOf <http://id.who.int/ichi/entity/189778902> .
+
+
+###  http://id.who.int/icd/entity/1128657667
+<http://id.who.int/icd/entity/1128657667> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1139361833
+<http://id.who.int/icd/entity/1139361833> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/1142633691
+<http://id.who.int/icd/entity/1142633691> owl:equivalentClass <http://id.who.int/ichi/entity/1018439949> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/1278640768> .
+
+
+###  http://id.who.int/icd/entity/1144556225
+<http://id.who.int/icd/entity/1144556225> rdfs:subClassOf <http://id.who.int/ichi/entity/504363578> .
+
+
+###  http://id.who.int/icd/entity/1145302967
+<http://id.who.int/icd/entity/1145302967> owl:equivalentClass <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/1145498957
+<http://id.who.int/icd/entity/1145498957> owl:equivalentClass <http://id.who.int/ichi/entity/1999350744> .
+
+
+###  http://id.who.int/icd/entity/1150229943
+<http://id.who.int/icd/entity/1150229943> owl:equivalentClass <http://id.who.int/ichi/entity/1385417488> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/1919596850> .
+
+
+###  http://id.who.int/icd/entity/1152552203
+<http://id.who.int/icd/entity/1152552203> owl:equivalentClass <http://id.who.int/ichi/entity/1884766549> .
+
+
+###  http://id.who.int/icd/entity/1161059760
+<http://id.who.int/icd/entity/1161059760> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/1170102886
+<http://id.who.int/icd/entity/1170102886> rdfs:subClassOf <http://id.who.int/ichi/entity/1446219072> .
+
+
+###  http://id.who.int/icd/entity/1170554644
+<http://id.who.int/icd/entity/1170554644> owl:equivalentClass <http://id.who.int/ichi/entity/351902308> .
+
+
+###  http://id.who.int/icd/entity/1188078244
+<http://id.who.int/icd/entity/1188078244> owl:equivalentClass <http://id.who.int/ichi/entity/48687255> .
+
+
+###  http://id.who.int/icd/entity/1193163471
+<http://id.who.int/icd/entity/1193163471> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1210083104
+<http://id.who.int/icd/entity/1210083104> owl:equivalentClass <http://id.who.int/ichi/entity/919991709> .
+
+
+###  http://id.who.int/icd/entity/1211167874
+<http://id.who.int/icd/entity/1211167874> owl:equivalentClass <http://id.who.int/ichi/entity/700739035> .
+
+
+###  http://id.who.int/icd/entity/1223109342
+<http://id.who.int/icd/entity/1223109342> owl:equivalentClass <http://id.who.int/ichi/entity/112085765> .
+
+
+###  http://id.who.int/icd/entity/123035130
+<http://id.who.int/icd/entity/123035130> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1234541117
+<http://id.who.int/icd/entity/1234541117> rdfs:subClassOf <http://id.who.int/ichi/entity/1446219072> .
+
+
+###  http://id.who.int/icd/entity/123461884
+<http://id.who.int/icd/entity/123461884> owl:equivalentClass <http://id.who.int/ichi/entity/1425432007> .
+
+
+###  http://id.who.int/icd/entity/1258542550
+<http://id.who.int/icd/entity/1258542550> rdfs:subClassOf <http://id.who.int/ichi/entity/1924911940> .
+
+
+###  http://id.who.int/icd/entity/1266200740
+<http://id.who.int/icd/entity/1266200740> owl:equivalentClass <http://id.who.int/ichi/entity/495921533> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/860252691> .
+
+
+###  http://id.who.int/icd/entity/1267519716
+<http://id.who.int/icd/entity/1267519716> owl:equivalentClass <http://id.who.int/ichi/entity/1500256806> .
+
+
+###  http://id.who.int/icd/entity/1271990642
+<http://id.who.int/icd/entity/1271990642> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1272454184
+<http://id.who.int/icd/entity/1272454184> owl:equivalentClass <http://id.who.int/ichi/entity/60723830> .
+
+
+###  http://id.who.int/icd/entity/1284492970
+<http://id.who.int/icd/entity/1284492970> owl:equivalentClass <http://id.who.int/ichi/entity/304253705> .
+
+
+###  http://id.who.int/icd/entity/128614976
+<http://id.who.int/icd/entity/128614976> owl:equivalentClass <http://id.who.int/ichi/entity/877353552> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1154085341> .
+
+
+###  http://id.who.int/icd/entity/1287539128
+<http://id.who.int/icd/entity/1287539128> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/129084956
+<http://id.who.int/icd/entity/129084956> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1296498321
+<http://id.who.int/icd/entity/1296498321> owl:equivalentClass <http://id.who.int/ichi/entity/1792360217> .
+
+
+###  http://id.who.int/icd/entity/1302374367
+<http://id.who.int/icd/entity/1302374367> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/1303878701
+<http://id.who.int/icd/entity/1303878701> rdfs:subClassOf <http://id.who.int/ichi/entity/1924911940> .
+
+
+###  http://id.who.int/icd/entity/1314934431
+<http://id.who.int/icd/entity/1314934431> owl:equivalentClass <http://id.who.int/ichi/entity/397773529> .
+
+
+###  http://id.who.int/icd/entity/1316314647
+<http://id.who.int/icd/entity/1316314647> owl:equivalentClass <http://id.who.int/ichi/entity/136536941> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/1302727828> .
+
+
+###  http://id.who.int/icd/entity/131834102
+<http://id.who.int/icd/entity/131834102> rdfs:subClassOf <http://id.who.int/ichi/entity/1293480628> ,
+                                                         <http://id.who.int/ichi/entity/1833316600> .
+
+
+###  http://id.who.int/icd/entity/1318515253
+<http://id.who.int/icd/entity/1318515253> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/1337584902
+<http://id.who.int/icd/entity/1337584902> rdfs:subClassOf <http://id.who.int/ichi/entity/1124598374> .
+
+
+###  http://id.who.int/icd/entity/1345740303
+<http://id.who.int/icd/entity/1345740303> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1348651907
+<http://id.who.int/icd/entity/1348651907> rdfs:subClassOf <http://id.who.int/ichi/entity/1562300796> .
+
+
+###  http://id.who.int/icd/entity/1350243387
+<http://id.who.int/icd/entity/1350243387> owl:equivalentClass <http://id.who.int/ichi/entity/331290671> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/860252691> .
+
+
+###  http://id.who.int/icd/entity/1351578749
+<http://id.who.int/icd/entity/1351578749> owl:equivalentClass <http://id.who.int/ichi/entity/1887306683> .
+
+
+###  http://id.who.int/icd/entity/1359586520
+<http://id.who.int/icd/entity/1359586520> rdfs:subClassOf <http://id.who.int/ichi/entity/1154085341> ,
+                                                          <http://id.who.int/ichi/entity/470772309> .
+
+
+###  http://id.who.int/icd/entity/1361912339
+<http://id.who.int/icd/entity/1361912339> rdfs:subClassOf <http://id.who.int/ichi/entity/1368455141> .
+
+
+###  http://id.who.int/icd/entity/1364152594
+<http://id.who.int/icd/entity/1364152594> owl:equivalentClass <http://id.who.int/ichi/entity/316318615> .
+
+
+###  http://id.who.int/icd/entity/1371887320
+<http://id.who.int/icd/entity/1371887320> owl:equivalentClass <http://id.who.int/ichi/entity/1255178849> .
+
+
+###  http://id.who.int/icd/entity/1375258212
+<http://id.who.int/icd/entity/1375258212> rdfs:subClassOf <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/1381503063
+<http://id.who.int/icd/entity/1381503063> owl:equivalentClass <http://id.who.int/ichi/entity/1483864114> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/421661691> .
+
+
+###  http://id.who.int/icd/entity/1393618433
+<http://id.who.int/icd/entity/1393618433> owl:equivalentClass <http://id.who.int/ichi/entity/1525077139> ,
+                                                              <http://id.who.int/ichi/entity/2048894639> .
+
+
+###  http://id.who.int/icd/entity/1399556983
+<http://id.who.int/icd/entity/1399556983> owl:equivalentClass <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/1399753101
+<http://id.who.int/icd/entity/1399753101> owl:equivalentClass <http://id.who.int/ichi/entity/212672247> .
+
+
+###  http://id.who.int/icd/entity/14011850
+<http://id.who.int/icd/entity/14011850> owl:equivalentClass <http://id.who.int/ichi/entity/1234157950> .
+
+
+###  http://id.who.int/icd/entity/1403484535
+<http://id.who.int/icd/entity/1403484535> owl:equivalentClass <http://id.who.int/ichi/entity/1798224643> .
+
+
+###  http://id.who.int/icd/entity/140558313
+<http://id.who.int/icd/entity/140558313> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/1417479265
+<http://id.who.int/icd/entity/1417479265> rdfs:subClassOf <http://id.who.int/ichi/entity/45007873> .
+
+
+###  http://id.who.int/icd/entity/1418290215
+<http://id.who.int/icd/entity/1418290215> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1421585111
+<http://id.who.int/icd/entity/1421585111> rdfs:subClassOf <http://id.who.int/ichi/entity/1488798284> .
+
+
+###  http://id.who.int/icd/entity/1422142995
+<http://id.who.int/icd/entity/1422142995> rdfs:subClassOf <http://id.who.int/ichi/entity/1917281666> .
+
+
+###  http://id.who.int/icd/entity/142316469
+<http://id.who.int/icd/entity/142316469> owl:equivalentClass <http://id.who.int/ichi/entity/1713987038> .
+
+
+###  http://id.who.int/icd/entity/1426765432
+<http://id.who.int/icd/entity/1426765432> rdfs:subClassOf <http://id.who.int/ichi/entity/2106976032> .
+
+
+###  http://id.who.int/icd/entity/1433522958
+<http://id.who.int/icd/entity/1433522958> owl:equivalentClass <http://id.who.int/ichi/entity/1380670358> .
+
+
+###  http://id.who.int/icd/entity/143777109
+<http://id.who.int/icd/entity/143777109> owl:equivalentClass <http://id.who.int/ichi/entity/549150126> .
+
+
+###  http://id.who.int/icd/entity/1443934016
+<http://id.who.int/icd/entity/1443934016> owl:equivalentClass <http://id.who.int/ichi/entity/1469773180> .
+
+
+###  http://id.who.int/icd/entity/1445725814
+<http://id.who.int/icd/entity/1445725814> owl:equivalentClass <http://id.who.int/ichi/entity/199785384> .
+
+
+###  http://id.who.int/icd/entity/1446722948
+<http://id.who.int/icd/entity/1446722948> owl:equivalentClass <http://id.who.int/ichi/entity/232519405> .
+
+
+###  http://id.who.int/icd/entity/1448567552
+<http://id.who.int/icd/entity/1448567552> owl:equivalentClass <http://id.who.int/ichi/entity/1381075800> .
+
+
+###  http://id.who.int/icd/entity/1462096867
+<http://id.who.int/icd/entity/1462096867> owl:equivalentClass <http://id.who.int/ichi/entity/131874113> .
+
+
+###  http://id.who.int/icd/entity/1470813907
+<http://id.who.int/icd/entity/1470813907> owl:equivalentClass <http://id.who.int/ichi/entity/2038074744> ,
+                                                              <http://id.who.int/ichi/entity/408878611> .
+
+
+###  http://id.who.int/icd/entity/1474236065
+<http://id.who.int/icd/entity/1474236065> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1477031686
+<http://id.who.int/icd/entity/1477031686> rdfs:subClassOf <http://id.who.int/ichi/entity/1293480628> .
+
+
+###  http://id.who.int/icd/entity/1477228030
+<http://id.who.int/icd/entity/1477228030> owl:equivalentClass <http://id.who.int/ichi/entity/777291042> .
+
+
+###  http://id.who.int/icd/entity/1478200844
+<http://id.who.int/icd/entity/1478200844> rdfs:subClassOf <http://id.who.int/ichi/entity/1819008596> .
+
+
+###  http://id.who.int/icd/entity/1483073922
+<http://id.who.int/icd/entity/1483073922> rdfs:subClassOf <http://id.who.int/ichi/entity/2089288972> .
+
+
+###  http://id.who.int/icd/entity/1491791024
+<http://id.who.int/icd/entity/1491791024> rdfs:subClassOf <http://id.who.int/ichi/entity/1303144676> .
+
+
+###  http://id.who.int/icd/entity/1492119116
+<http://id.who.int/icd/entity/1492119116> owl:equivalentClass <http://id.who.int/ichi/entity/433536599> .
+
+
+###  http://id.who.int/icd/entity/1492238572
+<http://id.who.int/icd/entity/1492238572> owl:equivalentClass <http://id.who.int/ichi/entity/373814315> .
+
+
+###  http://id.who.int/icd/entity/1493197457
+<http://id.who.int/icd/entity/1493197457> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/1493524587
+<http://id.who.int/icd/entity/1493524587> owl:equivalentClass <http://id.who.int/ichi/entity/1400951602> .
+
+
+###  http://id.who.int/icd/entity/1495611560
+<http://id.who.int/icd/entity/1495611560> owl:equivalentClass <http://id.who.int/ichi/entity/1148076461> .
+
+
+###  http://id.who.int/icd/entity/1508677205
+<http://id.who.int/icd/entity/1508677205> owl:equivalentClass <http://id.who.int/ichi/entity/970684871> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/421661691> .
+
+
+###  http://id.who.int/icd/entity/1514556877
+<http://id.who.int/icd/entity/1514556877> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/1520433389
+<http://id.who.int/icd/entity/1520433389> rdfs:subClassOf <http://id.who.int/ichi/entity/1924911940> .
+
+
+###  http://id.who.int/icd/entity/152505840
+<http://id.who.int/icd/entity/152505840> owl:equivalentClass <http://id.who.int/ichi/entity/1031774633> .
+
+
+###  http://id.who.int/icd/entity/1525493612
+<http://id.who.int/icd/entity/1525493612> owl:equivalentClass <http://id.who.int/ichi/entity/1169983321> .
+
+
+###  http://id.who.int/icd/entity/1527790876
+<http://id.who.int/icd/entity/1527790876> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1535151273
+<http://id.who.int/icd/entity/1535151273> rdfs:subClassOf <http://id.who.int/ichi/entity/1610098461> .
+
+
+###  http://id.who.int/icd/entity/1536568696
+<http://id.who.int/icd/entity/1536568696> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/1541846755
+<http://id.who.int/icd/entity/1541846755> rdfs:subClassOf <http://id.who.int/ichi/entity/279449124> .
+
+
+###  http://id.who.int/icd/entity/1542770426
+<http://id.who.int/icd/entity/1542770426> owl:equivalentClass <http://id.who.int/ichi/entity/1274507577> .
+
+
+###  http://id.who.int/icd/entity/1545444952
+<http://id.who.int/icd/entity/1545444952> owl:equivalentClass <http://id.who.int/ichi/entity/1880945501> .
+
+
+###  http://id.who.int/icd/entity/1549129368
+<http://id.who.int/icd/entity/1549129368> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/1574110781
+<http://id.who.int/icd/entity/1574110781> owl:equivalentClass <http://id.who.int/ichi/entity/1572946212> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/215407045> .
+
+
+###  http://id.who.int/icd/entity/157646292
+<http://id.who.int/icd/entity/157646292> owl:equivalentClass <http://id.who.int/ichi/entity/159173017> .
+
+
+###  http://id.who.int/icd/entity/1578371115
+<http://id.who.int/icd/entity/1578371115> owl:equivalentClass <http://id.who.int/ichi/entity/305570287> .
+
+
+###  http://id.who.int/icd/entity/15812452
+<http://id.who.int/icd/entity/15812452> owl:equivalentClass <http://id.who.int/ichi/entity/1236049508> .
+
+
+###  http://id.who.int/icd/entity/1597714010
+<http://id.who.int/icd/entity/1597714010> owl:equivalentClass <http://id.who.int/ichi/entity/1258439829> .
+
+
+###  http://id.who.int/icd/entity/1605446036
+<http://id.who.int/icd/entity/1605446036> owl:equivalentClass <http://id.who.int/ichi/entity/1884766549> .
+
+
+###  http://id.who.int/icd/entity/1610376104
+<http://id.who.int/icd/entity/1610376104> owl:equivalentClass <http://id.who.int/ichi/entity/664196587> .
+
+
+###  http://id.who.int/icd/entity/1612889623
+<http://id.who.int/icd/entity/1612889623> owl:equivalentClass <http://id.who.int/ichi/entity/680062217> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/141664053> .
+
+
+###  http://id.who.int/icd/entity/1617949731
+<http://id.who.int/icd/entity/1617949731> owl:equivalentClass <http://id.who.int/ichi/entity/409824307> .
+
+
+###  http://id.who.int/icd/entity/1625682921
+<http://id.who.int/icd/entity/1625682921> rdfs:subClassOf <http://id.who.int/ichi/entity/679548897> ,
+                                                          <http://id.who.int/ichi/entity/760266895> .
+
+
+###  http://id.who.int/icd/entity/1627827466
+<http://id.who.int/icd/entity/1627827466> rdfs:subClassOf <http://id.who.int/ichi/entity/2141551567> .
+
+
+###  http://id.who.int/icd/entity/1639496499
+<http://id.who.int/icd/entity/1639496499> owl:equivalentClass <http://id.who.int/ichi/entity/1116225868> ,
+                                                              <http://id.who.int/ichi/entity/1651585906> .
+
+
+###  http://id.who.int/icd/entity/1651019868
+<http://id.who.int/icd/entity/1651019868> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1651798887
+<http://id.who.int/icd/entity/1651798887> owl:equivalentClass <http://id.who.int/ichi/entity/971175445> .
+
+
+###  http://id.who.int/icd/entity/1651949308
+<http://id.who.int/icd/entity/1651949308> owl:equivalentClass <http://id.who.int/ichi/entity/1845252230> .
+
+
+###  http://id.who.int/icd/entity/1670548959
+<http://id.who.int/icd/entity/1670548959> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1676501535
+<http://id.who.int/icd/entity/1676501535> owl:equivalentClass <http://id.who.int/ichi/entity/1467387520> .
+
+
+###  http://id.who.int/icd/entity/1678247922
+<http://id.who.int/icd/entity/1678247922> owl:equivalentClass <http://id.who.int/ichi/entity/563530370> ,
+                                                              <http://id.who.int/ichi/entity/66154229> .
+
+
+###  http://id.who.int/icd/entity/1682501833
+<http://id.who.int/icd/entity/1682501833> owl:equivalentClass <http://id.who.int/ichi/entity/1233495306> .
+
+
+###  http://id.who.int/icd/entity/1684754131
+<http://id.who.int/icd/entity/1684754131> rdfs:subClassOf <http://id.who.int/ichi/entity/2141551567> .
+
+
+###  http://id.who.int/icd/entity/1690782134
+<http://id.who.int/icd/entity/1690782134> rdfs:subClassOf <http://id.who.int/ichi/entity/446377708> .
+
+
+###  http://id.who.int/icd/entity/1697479640
+<http://id.who.int/icd/entity/1697479640> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/1704022864
+<http://id.who.int/icd/entity/1704022864> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1705475090
+<http://id.who.int/icd/entity/1705475090> rdfs:subClassOf <http://id.who.int/ichi/entity/47164025> .
+
+
+###  http://id.who.int/icd/entity/1719538598
+<http://id.who.int/icd/entity/1719538598> rdfs:subClassOf <http://id.who.int/ichi/entity/2089288972> .
+
+
+###  http://id.who.int/icd/entity/1725328867
+<http://id.who.int/icd/entity/1725328867> owl:equivalentClass <http://id.who.int/ichi/entity/1754180040> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/1302727828> .
+
+
+###  http://id.who.int/icd/entity/1735902769
+<http://id.who.int/icd/entity/1735902769> owl:equivalentClass <http://id.who.int/ichi/entity/1795154793> .
+
+
+###  http://id.who.int/icd/entity/174093254
+<http://id.who.int/icd/entity/174093254> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1748499538
+<http://id.who.int/icd/entity/1748499538> rdfs:subClassOf <http://id.who.int/ichi/entity/679548897> .
+
+
+###  http://id.who.int/icd/entity/1750080808
+<http://id.who.int/icd/entity/1750080808> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1752238488
+<http://id.who.int/icd/entity/1752238488> rdfs:subClassOf <http://id.who.int/ichi/entity/679548897> ,
+                                                          <http://id.who.int/ichi/entity/760266895> .
+
+
+###  http://id.who.int/icd/entity/1757281176
+<http://id.who.int/icd/entity/1757281176> owl:equivalentClass <http://id.who.int/ichi/entity/1953818825> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/1577074073> .
+
+
+###  http://id.who.int/icd/entity/1761851771
+<http://id.who.int/icd/entity/1761851771> owl:equivalentClass <http://id.who.int/ichi/entity/1195418104> .
+
+
+###  http://id.who.int/icd/entity/1766781775
+<http://id.who.int/icd/entity/1766781775> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1768750843
+<http://id.who.int/icd/entity/1768750843> owl:equivalentClass <http://id.who.int/ichi/entity/1305757898> .
+
+
+###  http://id.who.int/icd/entity/1769856759
+<http://id.who.int/icd/entity/1769856759> owl:equivalentClass <http://id.who.int/ichi/entity/591409247> .
+
+
+###  http://id.who.int/icd/entity/1770830923
+<http://id.who.int/icd/entity/1770830923> rdfs:subClassOf <http://id.who.int/ichi/entity/860252691> .
+
+
+###  http://id.who.int/icd/entity/1779639863
+<http://id.who.int/icd/entity/1779639863> rdfs:subClassOf <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/1784009725
+<http://id.who.int/icd/entity/1784009725> rdfs:subClassOf <http://id.who.int/ichi/entity/587734217> .
+
+
+###  http://id.who.int/icd/entity/1788617479
+<http://id.who.int/icd/entity/1788617479> owl:equivalentClass <http://id.who.int/ichi/entity/802058050> .
+
+
+###  http://id.who.int/icd/entity/1796859671
+<http://id.who.int/icd/entity/1796859671> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/1796928418
+<http://id.who.int/icd/entity/1796928418> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/icd/entity/1803734370
+<http://id.who.int/icd/entity/1803734370> owl:equivalentClass <http://id.who.int/ichi/entity/474924463> .
+
+
+###  http://id.who.int/icd/entity/1812561486
+<http://id.who.int/icd/entity/1812561486> owl:equivalentClass <http://id.who.int/ichi/entity/318380945> .
+
+
+###  http://id.who.int/icd/entity/1819091795
+<http://id.who.int/icd/entity/1819091795> owl:equivalentClass <http://id.who.int/ichi/entity/478314449> .
+
+
+###  http://id.who.int/icd/entity/1832356831
+<http://id.who.int/icd/entity/1832356831> owl:equivalentClass <http://id.who.int/ichi/entity/1459931870> .
+
+
+###  http://id.who.int/icd/entity/1841070931
+<http://id.who.int/icd/entity/1841070931> owl:equivalentClass <http://id.who.int/ichi/entity/226248349> .
+
+
+###  http://id.who.int/icd/entity/1849866651
+<http://id.who.int/icd/entity/1849866651> rdfs:subClassOf <http://id.who.int/ichi/entity/1368455141> .
+
+
+###  http://id.who.int/icd/entity/1849905157
+<http://id.who.int/icd/entity/1849905157> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1851621027
+<http://id.who.int/icd/entity/1851621027> owl:equivalentClass <http://id.who.int/ichi/entity/1130006458> .
+
+
+###  http://id.who.int/icd/entity/185288147
+<http://id.who.int/icd/entity/185288147> owl:equivalentClass <http://id.who.int/ichi/entity/313059273> .
+
+
+###  http://id.who.int/icd/entity/1856480225
+<http://id.who.int/icd/entity/1856480225> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1858613369
+<http://id.who.int/icd/entity/1858613369> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/1868414564
+<http://id.who.int/icd/entity/1868414564> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/1873136010
+<http://id.who.int/icd/entity/1873136010> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/icd/entity/1885434231
+<http://id.who.int/icd/entity/1885434231> owl:equivalentClass <http://id.who.int/ichi/entity/1378936096> .
+
+
+###  http://id.who.int/icd/entity/1895435407
+<http://id.who.int/icd/entity/1895435407> rdfs:subClassOf <http://id.who.int/ichi/entity/1660926058> .
+
+
+###  http://id.who.int/icd/entity/1896004518
+<http://id.who.int/icd/entity/1896004518> owl:equivalentClass <http://id.who.int/ichi/entity/1860551975> .
+
+
+###  http://id.who.int/icd/entity/1900566978
+<http://id.who.int/icd/entity/1900566978> owl:equivalentClass <http://id.who.int/ichi/entity/482585007> .
+
+
+###  http://id.who.int/icd/entity/1901492070
+<http://id.who.int/icd/entity/1901492070> rdfs:subClassOf <http://id.who.int/ichi/entity/2089288972> .
+
+
+###  http://id.who.int/icd/entity/1902897114
+<http://id.who.int/icd/entity/1902897114> owl:equivalentClass <http://id.who.int/ichi/entity/78462064> ,
+                                                              <http://id.who.int/ichi/entity/984540840> .
+
+
+###  http://id.who.int/icd/entity/1912153731
+<http://id.who.int/icd/entity/1912153731> rdfs:subClassOf <http://id.who.int/ichi/entity/1278640768> .
+
+
+###  http://id.who.int/icd/entity/1912610276
+<http://id.who.int/icd/entity/1912610276> owl:equivalentClass <http://id.who.int/ichi/entity/924714173> .
+
+
+###  http://id.who.int/icd/entity/1919500700
+<http://id.who.int/icd/entity/1919500700> rdfs:subClassOf <http://id.who.int/ichi/entity/2027130048> .
+
+
+###  http://id.who.int/icd/entity/1922573088
+<http://id.who.int/icd/entity/1922573088> rdfs:subClassOf <http://id.who.int/ichi/entity/189778902> .
+
+
+###  http://id.who.int/icd/entity/1924631190
+<http://id.who.int/icd/entity/1924631190> owl:equivalentClass <http://id.who.int/ichi/entity/297764928> .
+
+
+###  http://id.who.int/icd/entity/192726145
+<http://id.who.int/icd/entity/192726145> owl:equivalentClass <http://id.who.int/ichi/entity/1566349726> .
+
+
+###  http://id.who.int/icd/entity/192847265
+<http://id.who.int/icd/entity/192847265> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/194670149
+<http://id.who.int/icd/entity/194670149> owl:equivalentClass <http://id.who.int/ichi/entity/1699083621> .
+
+
+###  http://id.who.int/icd/entity/1950594269
+<http://id.who.int/icd/entity/1950594269> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/1951862703
+<http://id.who.int/icd/entity/1951862703> owl:equivalentClass <http://id.who.int/ichi/entity/1632036095> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/504363578> .
+
+
+###  http://id.who.int/icd/entity/1960315551
+<http://id.who.int/icd/entity/1960315551> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/1963131822
+<http://id.who.int/icd/entity/1963131822> owl:equivalentClass <http://id.who.int/ichi/entity/1047050150> .
+
+
+###  http://id.who.int/icd/entity/1967609767
+<http://id.who.int/icd/entity/1967609767> owl:equivalentClass <http://id.who.int/ichi/entity/786458354> .
+
+
+###  http://id.who.int/icd/entity/1969150524
+<http://id.who.int/icd/entity/1969150524> owl:equivalentClass <http://id.who.int/ichi/entity/929413643> .
+
+
+###  http://id.who.int/icd/entity/1970791419
+<http://id.who.int/icd/entity/1970791419> rdfs:subClassOf <http://id.who.int/ichi/entity/1609712491> .
+
+
+###  http://id.who.int/icd/entity/1979147242
+<http://id.who.int/icd/entity/1979147242> owl:equivalentClass <http://id.who.int/ichi/entity/842924453> .
+
+
+###  http://id.who.int/icd/entity/198809973
+<http://id.who.int/icd/entity/198809973> owl:equivalentClass <http://id.who.int/ichi/entity/84789088> .
+
+
+###  http://id.who.int/icd/entity/1997200087
+<http://id.who.int/icd/entity/1997200087> owl:equivalentClass <http://id.who.int/ichi/entity/406189085> .
+
+
+###  http://id.who.int/icd/entity/2000483733
+<http://id.who.int/icd/entity/2000483733> owl:equivalentClass <http://id.who.int/ichi/entity/678937943> .
+
+
+###  http://id.who.int/icd/entity/2007176601
+<http://id.who.int/icd/entity/2007176601> rdfs:subClassOf <http://id.who.int/ichi/entity/287422434> .
+
+
+###  http://id.who.int/icd/entity/2020710149
+<http://id.who.int/icd/entity/2020710149> rdfs:subClassOf <http://id.who.int/ichi/entity/287422434> .
+
+
+###  http://id.who.int/icd/entity/2020989604
+<http://id.who.int/icd/entity/2020989604> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/2030796271
+<http://id.who.int/icd/entity/2030796271> owl:equivalentClass <http://id.who.int/ichi/entity/1065300422> .
+
+
+###  http://id.who.int/icd/entity/2033392163
+<http://id.who.int/icd/entity/2033392163> owl:equivalentClass <http://id.who.int/ichi/entity/1038622055> .
+
+
+###  http://id.who.int/icd/entity/2034447649
+<http://id.who.int/icd/entity/2034447649> owl:equivalentClass <http://id.who.int/ichi/entity/1297301694> .
+
+
+###  http://id.who.int/icd/entity/2037389465
+<http://id.who.int/icd/entity/2037389465> rdfs:subClassOf <http://id.who.int/ichi/entity/189778902> .
+
+
+###  http://id.who.int/icd/entity/2038724831
+<http://id.who.int/icd/entity/2038724831> rdfs:subClassOf <http://id.who.int/ichi/entity/1562300796> ,
+                                                          <http://id.who.int/ichi/entity/1660926058> .
+
+
+###  http://id.who.int/icd/entity/2039465761
+<http://id.who.int/icd/entity/2039465761> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/2046435155
+<http://id.who.int/icd/entity/2046435155> owl:equivalentClass <http://id.who.int/ichi/entity/625199150> .
+
+
+###  http://id.who.int/icd/entity/2046770427
+<http://id.who.int/icd/entity/2046770427> rdfs:subClassOf <http://id.who.int/ichi/entity/622376730> .
+
+
+###  http://id.who.int/icd/entity/2053473583
+<http://id.who.int/icd/entity/2053473583> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/2055915829
+<http://id.who.int/icd/entity/2055915829> rdfs:subClassOf <http://id.who.int/ichi/entity/412862209> .
+
+
+###  http://id.who.int/icd/entity/2056578963
+<http://id.who.int/icd/entity/2056578963> rdfs:subClassOf <http://id.who.int/ichi/entity/1610098461> .
+
+
+###  http://id.who.int/icd/entity/2062516965
+<http://id.who.int/icd/entity/2062516965> owl:equivalentClass <http://id.who.int/ichi/entity/1249822969> .
+
+
+###  http://id.who.int/icd/entity/2081481761
+<http://id.who.int/icd/entity/2081481761> owl:equivalentClass <http://id.who.int/ichi/entity/204048415> .
+
+
+###  http://id.who.int/icd/entity/2088597502
+<http://id.who.int/icd/entity/2088597502> owl:equivalentClass <http://id.who.int/ichi/entity/957281389> .
+
+
+###  http://id.who.int/icd/entity/2092798548
+<http://id.who.int/icd/entity/2092798548> owl:equivalentClass <http://id.who.int/ichi/entity/236524752> ,
+                                                              <http://id.who.int/ichi/entity/585151221> .
+
+
+###  http://id.who.int/icd/entity/2101356417
+<http://id.who.int/icd/entity/2101356417> owl:equivalentClass <http://id.who.int/ichi/entity/1764643560> .
+
+
+###  http://id.who.int/icd/entity/210461818
+<http://id.who.int/icd/entity/210461818> owl:equivalentClass <http://id.who.int/ichi/entity/1159411497> .
+
+
+###  http://id.who.int/icd/entity/2108063439
+<http://id.who.int/icd/entity/2108063439> owl:equivalentClass <http://id.who.int/ichi/entity/2110992800> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/1735522282> .
+
+
+###  http://id.who.int/icd/entity/2108966855
+<http://id.who.int/icd/entity/2108966855> owl:equivalentClass <http://id.who.int/ichi/entity/483021639> .
+
+
+###  http://id.who.int/icd/entity/2110398539
+<http://id.who.int/icd/entity/2110398539> owl:equivalentClass <http://id.who.int/ichi/entity/980133438> .
+
+
+###  http://id.who.int/icd/entity/2110726833
+<http://id.who.int/icd/entity/2110726833> rdfs:subClassOf <http://id.who.int/ichi/entity/1660926058> .
+
+
+###  http://id.who.int/icd/entity/2114591943
+<http://id.who.int/icd/entity/2114591943> rdfs:subClassOf <http://id.who.int/ichi/entity/287422434> .
+
+
+###  http://id.who.int/icd/entity/2116804027
+<http://id.who.int/icd/entity/2116804027> owl:equivalentClass <http://id.who.int/ichi/entity/936560455> .
+
+
+###  http://id.who.int/icd/entity/2120652687
+<http://id.who.int/icd/entity/2120652687> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/2134193116
+<http://id.who.int/icd/entity/2134193116> owl:equivalentClass <http://id.who.int/ichi/entity/657548699> ;
+                                          rdfs:subClassOf <http://id.who.int/ichi/entity/860252691> .
+
+
+###  http://id.who.int/icd/entity/2137029069
+<http://id.who.int/icd/entity/2137029069> rdfs:subClassOf <http://id.who.int/ichi/entity/1303144676> .
+
+
+###  http://id.who.int/icd/entity/2138601960
+<http://id.who.int/icd/entity/2138601960> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/2141720548
+<http://id.who.int/icd/entity/2141720548> rdfs:subClassOf <http://id.who.int/ichi/entity/1662847908> ,
+                                                          <http://id.who.int/ichi/entity/2027130048> .
+
+
+###  http://id.who.int/icd/entity/223741850
+<http://id.who.int/icd/entity/223741850> rdfs:subClassOf <http://id.who.int/ichi/entity/1293480628> .
+
+
+###  http://id.who.int/icd/entity/223992584
+<http://id.who.int/icd/entity/223992584> rdfs:subClassOf <http://id.who.int/ichi/entity/1477482058> .
+
+
+###  http://id.who.int/icd/entity/229382520
+<http://id.who.int/icd/entity/229382520> rdfs:subClassOf <http://id.who.int/ichi/entity/606499736> .
+
+
+###  http://id.who.int/icd/entity/236819908
+<http://id.who.int/icd/entity/236819908> owl:equivalentClass <http://id.who.int/ichi/entity/255270272> .
+
+
+###  http://id.who.int/icd/entity/238202718
+<http://id.who.int/icd/entity/238202718> owl:equivalentClass <http://id.who.int/ichi/entity/543470706> .
+
+
+###  http://id.who.int/icd/entity/254553021
+<http://id.who.int/icd/entity/254553021> rdfs:subClassOf <http://id.who.int/ichi/entity/2141551567> .
+
+
+###  http://id.who.int/icd/entity/254558521
+<http://id.who.int/icd/entity/254558521> rdfs:subClassOf <http://id.who.int/ichi/entity/587734217> .
+
+
+###  http://id.who.int/icd/entity/255752241
+<http://id.who.int/icd/entity/255752241> rdfs:subClassOf <http://id.who.int/ichi/entity/1660926058> .
+
+
+###  http://id.who.int/icd/entity/264902775
+<http://id.who.int/icd/entity/264902775> rdfs:subClassOf <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/265477888
+<http://id.who.int/icd/entity/265477888> rdfs:subClassOf <http://id.who.int/ichi/entity/1043581074> .
+
+
+###  http://id.who.int/icd/entity/276642106
+<http://id.who.int/icd/entity/276642106> rdfs:subClassOf <http://id.who.int/ichi/entity/802058050> .
+
+
+###  http://id.who.int/icd/entity/277341308
+<http://id.who.int/icd/entity/277341308> rdfs:subClassOf <http://id.who.int/ichi/entity/2013456078> .
+
+
+###  http://id.who.int/icd/entity/278514396
+<http://id.who.int/icd/entity/278514396> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/28784496
+<http://id.who.int/icd/entity/28784496> owl:equivalentClass <http://id.who.int/ichi/entity/653465559> ;
+                                        rdfs:subClassOf <http://id.who.int/ichi/entity/1278640768> .
+
+
+###  http://id.who.int/icd/entity/28801104
+<http://id.who.int/icd/entity/28801104> rdfs:subClassOf <http://id.who.int/ichi/entity/279449124> .
+
+
+###  http://id.who.int/icd/entity/289588207
+<http://id.who.int/icd/entity/289588207> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/294069435
+<http://id.who.int/icd/entity/294069435> owl:equivalentClass <http://id.who.int/ichi/entity/2065785379> .
+
+
+###  http://id.who.int/icd/entity/312192089
+<http://id.who.int/icd/entity/312192089> owl:equivalentClass <http://id.who.int/ichi/entity/1439838209> .
+
+
+###  http://id.who.int/icd/entity/312688159
+<http://id.who.int/icd/entity/312688159> owl:equivalentClass <http://id.who.int/ichi/entity/81197890> .
+
+
+###  http://id.who.int/icd/entity/318130866
+<http://id.who.int/icd/entity/318130866> rdfs:subClassOf <http://id.who.int/ichi/entity/287422434> .
+
+
+###  http://id.who.int/icd/entity/320372230
+<http://id.who.int/icd/entity/320372230> rdfs:subClassOf <http://id.who.int/ichi/entity/1523553917> ,
+                                                         <http://id.who.int/ichi/entity/446377708> .
+
+
+###  http://id.who.int/icd/entity/32483589
+<http://id.who.int/icd/entity/32483589> rdfs:subClassOf <http://id.who.int/ichi/entity/1917281666> .
+
+
+###  http://id.who.int/icd/entity/325262192
+<http://id.who.int/icd/entity/325262192> rdfs:subClassOf <http://id.who.int/ichi/entity/1303144676> .
+
+
+###  http://id.who.int/icd/entity/32596973
+<http://id.who.int/icd/entity/32596973> rdfs:subClassOf <http://id.who.int/ichi/entity/1990325518> .
+
+
+###  http://id.who.int/icd/entity/328366540
+<http://id.who.int/icd/entity/328366540> owl:equivalentClass <http://id.who.int/ichi/entity/1084756129> .
+
+
+###  http://id.who.int/icd/entity/335892208
+<http://id.who.int/icd/entity/335892208> owl:equivalentClass <http://id.who.int/ichi/entity/1046564174> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1893743641> ,
+                                                         <http://id.who.int/ichi/entity/606499736> .
+
+
+###  http://id.who.int/icd/entity/337700
+<http://id.who.int/icd/entity/337700> owl:equivalentClass <http://id.who.int/ichi/entity/2021506978> .
+
+
+###  http://id.who.int/icd/entity/338111831
+<http://id.who.int/icd/entity/338111831> rdfs:subClassOf <http://id.who.int/ichi/entity/1043581074> .
+
+
+###  http://id.who.int/icd/entity/340179422
+<http://id.who.int/icd/entity/340179422> rdfs:subClassOf <http://id.who.int/ichi/entity/1582424117> .
+
+
+###  http://id.who.int/icd/entity/344632447
+<http://id.who.int/icd/entity/344632447> owl:equivalentClass <http://id.who.int/ichi/entity/1667015774> ,
+                                                             <http://id.who.int/ichi/entity/365215862> .
+
+
+###  http://id.who.int/icd/entity/344934694
+<http://id.who.int/icd/entity/344934694> owl:equivalentClass <http://id.who.int/ichi/entity/122484939> .
+
+
+###  http://id.who.int/icd/entity/345073538
+<http://id.who.int/icd/entity/345073538> owl:equivalentClass <http://id.who.int/ichi/entity/109352821> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1124202638> .
+
+
+###  http://id.who.int/icd/entity/345356612
+<http://id.who.int/icd/entity/345356612> rdfs:subClassOf <http://id.who.int/ichi/entity/1368455141> .
+
+
+###  http://id.who.int/icd/entity/347265434
+<http://id.who.int/icd/entity/347265434> owl:equivalentClass <http://id.who.int/ichi/entity/1349219327> .
+
+
+###  http://id.who.int/icd/entity/351174262
+<http://id.who.int/icd/entity/351174262> rdfs:subClassOf <http://id.who.int/ichi/entity/279449124> .
+
+
+###  http://id.who.int/icd/entity/355147270
+<http://id.who.int/icd/entity/355147270> owl:equivalentClass <http://id.who.int/ichi/entity/1653053508> .
+
+
+###  http://id.who.int/icd/entity/358111161
+<http://id.who.int/icd/entity/358111161> owl:equivalentClass <http://id.who.int/ichi/entity/474831665> .
+
+
+###  http://id.who.int/icd/entity/372485507
+<http://id.who.int/icd/entity/372485507> rdfs:subClassOf <http://id.who.int/ichi/entity/1254117213> .
+
+
+###  http://id.who.int/icd/entity/375873857
+<http://id.who.int/icd/entity/375873857> owl:equivalentClass <http://id.who.int/ichi/entity/827733824> .
+
+
+###  http://id.who.int/icd/entity/376233663
+<http://id.who.int/icd/entity/376233663> owl:equivalentClass <http://id.who.int/ichi/entity/1478388836> .
+
+
+###  http://id.who.int/icd/entity/377972468
+<http://id.who.int/icd/entity/377972468> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/384657035
+<http://id.who.int/icd/entity/384657035> rdfs:subClassOf <http://id.who.int/ichi/entity/1467387520> .
+
+
+###  http://id.who.int/icd/entity/389580608
+<http://id.who.int/icd/entity/389580608> rdfs:subClassOf <http://id.who.int/ichi/entity/2002389138> ,
+                                                         <http://id.who.int/ichi/entity/2017734770> .
+
+
+###  http://id.who.int/icd/entity/391521938
+<http://id.who.int/icd/entity/391521938> owl:equivalentClass <http://id.who.int/ichi/entity/1757840722> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/215407045> .
+
+
+###  http://id.who.int/icd/entity/392169936
+<http://id.who.int/icd/entity/392169936> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/39311628
+<http://id.who.int/icd/entity/39311628> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/393131222
+<http://id.who.int/icd/entity/393131222> owl:equivalentClass <http://id.who.int/ichi/entity/1126252684> .
+
+
+###  http://id.who.int/icd/entity/396837934
+<http://id.who.int/icd/entity/396837934> owl:equivalentClass <http://id.who.int/ichi/entity/1009983867> .
+
+
+###  http://id.who.int/icd/entity/400106404
+<http://id.who.int/icd/entity/400106404> owl:equivalentClass <http://id.who.int/ichi/entity/401045121> .
+
+
+###  http://id.who.int/icd/entity/402925049
+<http://id.who.int/icd/entity/402925049> owl:equivalentClass <http://id.who.int/ichi/entity/1342433135> .
+
+
+###  http://id.who.int/icd/entity/405704375
+<http://id.who.int/icd/entity/405704375> owl:equivalentClass <http://id.who.int/ichi/entity/1046564174> ,
+                                                             <http://id.who.int/ichi/entity/17749700> ,
+                                                             <http://id.who.int/ichi/entity/569877754> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/606499736> .
+
+
+###  http://id.who.int/icd/entity/409827719
+<http://id.who.int/icd/entity/409827719> owl:equivalentClass <http://id.who.int/ichi/entity/1540886559> .
+
+
+###  http://id.who.int/icd/entity/417496247
+<http://id.who.int/icd/entity/417496247> rdfs:subClassOf <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/430791912
+<http://id.who.int/icd/entity/430791912> owl:equivalentClass <http://id.who.int/ichi/entity/1869380839> .
+
+
+###  http://id.who.int/icd/entity/434874658
+<http://id.who.int/icd/entity/434874658> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/icd/entity/435785772
+<http://id.who.int/icd/entity/435785772> owl:equivalentClass <http://id.who.int/ichi/entity/161034505> .
+
+
+###  http://id.who.int/icd/entity/435983056
+<http://id.who.int/icd/entity/435983056> owl:equivalentClass <http://id.who.int/ichi/entity/1383647670> .
+
+
+###  http://id.who.int/icd/entity/439298507
+<http://id.who.int/icd/entity/439298507> rdfs:subClassOf <http://id.who.int/ichi/entity/1309023825> ,
+                                                         <http://id.who.int/ichi/entity/189778902> .
+
+
+###  http://id.who.int/icd/entity/443625892
+<http://id.who.int/icd/entity/443625892> rdfs:subClassOf <http://id.who.int/ichi/entity/1833316600> .
+
+
+###  http://id.who.int/icd/entity/447055896
+<http://id.who.int/icd/entity/447055896> rdfs:subClassOf <http://id.who.int/ichi/entity/279449124> .
+
+
+###  http://id.who.int/icd/entity/457837468
+<http://id.who.int/icd/entity/457837468> owl:equivalentClass <http://id.who.int/ichi/entity/805962538> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1523553917> .
+
+
+###  http://id.who.int/icd/entity/461235915
+<http://id.who.int/icd/entity/461235915> rdfs:subClassOf <http://id.who.int/ichi/entity/1737088886> ,
+                                                         <http://id.who.int/ichi/entity/1924911940> .
+
+
+###  http://id.who.int/icd/entity/463851894
+<http://id.who.int/icd/entity/463851894> rdfs:subClassOf <http://id.who.int/ichi/entity/1609712491> .
+
+
+###  http://id.who.int/icd/entity/465545679
+<http://id.who.int/icd/entity/465545679> rdfs:subClassOf <http://id.who.int/ichi/entity/802058050> .
+
+
+###  http://id.who.int/icd/entity/470130163
+<http://id.who.int/icd/entity/470130163> owl:equivalentClass <http://id.who.int/ichi/entity/647503321> .
+
+
+###  http://id.who.int/icd/entity/475461985
+<http://id.who.int/icd/entity/475461985> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/475546725
+<http://id.who.int/icd/entity/475546725> owl:equivalentClass <http://id.who.int/ichi/entity/592073769> .
+
+
+###  http://id.who.int/icd/entity/485621173
+<http://id.who.int/icd/entity/485621173> owl:equivalentClass <http://id.who.int/ichi/entity/1040432554> .
+
+
+###  http://id.who.int/icd/entity/48762299
+<http://id.who.int/icd/entity/48762299> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/icd/entity/491263750
+<http://id.who.int/icd/entity/491263750> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/507472176
+<http://id.who.int/icd/entity/507472176> rdfs:subClassOf <http://id.who.int/ichi/entity/1154085341> ,
+                                                         <http://id.who.int/ichi/entity/470772309> .
+
+
+###  http://id.who.int/icd/entity/521115724
+<http://id.who.int/icd/entity/521115724> rdfs:subClassOf <http://id.who.int/ichi/entity/1893743641> ,
+                                                         <http://id.who.int/ichi/entity/279449124> .
+
+
+###  http://id.who.int/icd/entity/523484767
+<http://id.who.int/icd/entity/523484767> owl:equivalentClass <http://id.who.int/ichi/entity/2112757806> .
+
+
+###  http://id.who.int/icd/entity/524868393
+<http://id.who.int/icd/entity/524868393> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/532265365
+<http://id.who.int/icd/entity/532265365> rdfs:subClassOf <http://id.who.int/ichi/entity/1254117213> .
+
+
+###  http://id.who.int/icd/entity/53291568
+<http://id.who.int/icd/entity/53291568> owl:equivalentClass <http://id.who.int/ichi/entity/569877754> ;
+                                        rdfs:subClassOf <http://id.who.int/ichi/entity/606499736> .
+
+
+###  http://id.who.int/icd/entity/541642128
+<http://id.who.int/icd/entity/541642128> owl:equivalentClass <http://id.who.int/ichi/entity/1005769410> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/541780232
+<http://id.who.int/icd/entity/541780232> owl:equivalentClass <http://id.who.int/ichi/entity/1590000911> .
+
+
+###  http://id.who.int/icd/entity/553603158
+<http://id.who.int/icd/entity/553603158> rdfs:subClassOf <http://id.who.int/ichi/entity/1488798284> ,
+                                                         <http://id.who.int/ichi/entity/2002389138> ,
+                                                         <http://id.who.int/ichi/entity/2017734770> .
+
+
+###  http://id.who.int/icd/entity/555078855
+<http://id.who.int/icd/entity/555078855> owl:equivalentClass <http://id.who.int/ichi/entity/2131439959> .
+
+
+###  http://id.who.int/icd/entity/559293431
+<http://id.who.int/icd/entity/559293431> owl:equivalentClass <http://id.who.int/ichi/entity/569877754> .
+
+
+###  http://id.who.int/icd/entity/562908439
+<http://id.who.int/icd/entity/562908439> rdfs:subClassOf <http://id.who.int/ichi/entity/45007873> .
+
+
+###  http://id.who.int/icd/entity/563794423
+<http://id.who.int/icd/entity/563794423> owl:equivalentClass <http://id.who.int/ichi/entity/1148076461> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1380098430> .
+
+
+###  http://id.who.int/icd/entity/566364827
+<http://id.who.int/icd/entity/566364827> owl:equivalentClass <http://id.who.int/ichi/entity/420642497> .
+
+
+###  http://id.who.int/icd/entity/571022152
+<http://id.who.int/icd/entity/571022152> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/57597214
+<http://id.who.int/icd/entity/57597214> rdfs:subClassOf <http://id.who.int/ichi/entity/1838400728> .
+
+
+###  http://id.who.int/icd/entity/578694909
+<http://id.who.int/icd/entity/578694909> owl:equivalentClass <http://id.who.int/ichi/entity/551559834> .
+
+
+###  http://id.who.int/icd/entity/579816513
+<http://id.who.int/icd/entity/579816513> rdfs:subClassOf <http://id.who.int/ichi/entity/679548897> ,
+                                                         <http://id.who.int/ichi/entity/760266895> .
+
+
+###  http://id.who.int/icd/entity/583069829
+<http://id.who.int/icd/entity/583069829> rdfs:subClassOf <http://id.who.int/ichi/entity/504363578> .
+
+
+###  http://id.who.int/icd/entity/586230733
+<http://id.who.int/icd/entity/586230733> rdfs:subClassOf <http://id.who.int/ichi/entity/1043581074> ,
+                                                         <http://id.who.int/ichi/entity/1609712491> ,
+                                                         <http://id.who.int/ichi/entity/270496624> .
+
+
+###  http://id.who.int/icd/entity/594549745
+<http://id.who.int/icd/entity/594549745> owl:equivalentClass <http://id.who.int/ichi/entity/1234157950> .
+
+
+###  http://id.who.int/icd/entity/595221519
+<http://id.who.int/icd/entity/595221519> owl:equivalentClass <http://id.who.int/ichi/entity/171621714> .
+
+
+###  http://id.who.int/icd/entity/598335592
+<http://id.who.int/icd/entity/598335592> rdfs:subClassOf <http://id.who.int/ichi/entity/287422434> .
+
+
+###  http://id.who.int/icd/entity/605106052
+<http://id.who.int/icd/entity/605106052> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/61287910
+<http://id.who.int/icd/entity/61287910> owl:equivalentClass <http://id.who.int/ichi/entity/1134941796> .
+
+
+###  http://id.who.int/icd/entity/616736219
+<http://id.who.int/icd/entity/616736219> owl:equivalentClass <http://id.who.int/ichi/entity/1615946397> .
+
+
+###  http://id.who.int/icd/entity/618487030
+<http://id.who.int/icd/entity/618487030> rdfs:subClassOf <http://id.who.int/ichi/entity/1577074073> .
+
+
+###  http://id.who.int/icd/entity/623242207
+<http://id.who.int/icd/entity/623242207> rdfs:subClassOf <http://id.who.int/ichi/entity/1107741272> ,
+                                                         <http://id.who.int/ichi/entity/1562300796> .
+
+
+###  http://id.who.int/icd/entity/623793185
+<http://id.who.int/icd/entity/623793185> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/625587547
+<http://id.who.int/icd/entity/625587547> rdfs:subClassOf <http://id.who.int/ichi/entity/1924911940> .
+
+
+###  http://id.who.int/icd/entity/629756149
+<http://id.who.int/icd/entity/629756149> rdfs:subClassOf <http://id.who.int/ichi/entity/1278640768> .
+
+
+###  http://id.who.int/icd/entity/634685795
+<http://id.who.int/icd/entity/634685795> owl:equivalentClass <http://id.who.int/ichi/entity/1982235902> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1930603264> .
+
+
+###  http://id.who.int/icd/entity/640710249
+<http://id.who.int/icd/entity/640710249> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/647810371
+<http://id.who.int/icd/entity/647810371> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/648738923
+<http://id.who.int/icd/entity/648738923> owl:equivalentClass <http://id.who.int/ichi/entity/967498371> .
+
+
+###  http://id.who.int/icd/entity/650081113
+<http://id.who.int/icd/entity/650081113> owl:equivalentClass <http://id.who.int/ichi/entity/280143722> .
+
+
+###  http://id.who.int/icd/entity/657169140
+<http://id.who.int/icd/entity/657169140> owl:equivalentClass <http://id.who.int/ichi/entity/1610098461> .
+
+
+###  http://id.who.int/icd/entity/657365008
+<http://id.who.int/icd/entity/657365008> owl:equivalentClass <http://id.who.int/ichi/entity/669454123> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/189778902> .
+
+
+###  http://id.who.int/icd/entity/662735246
+<http://id.who.int/icd/entity/662735246> owl:equivalentClass <http://id.who.int/ichi/entity/490967811> .
+
+
+###  http://id.who.int/icd/entity/662741980
+<http://id.who.int/icd/entity/662741980> owl:equivalentClass <http://id.who.int/ichi/entity/447900678> .
+
+
+###  http://id.who.int/icd/entity/672187873
+<http://id.who.int/icd/entity/672187873> owl:equivalentClass <http://id.who.int/ichi/entity/144547149> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1293480628> .
+
+
+###  http://id.who.int/icd/entity/679057823
+<http://id.who.int/icd/entity/679057823> rdfs:subClassOf <http://id.who.int/ichi/entity/2034835288> .
+
+
+###  http://id.who.int/icd/entity/685877085
+<http://id.who.int/icd/entity/685877085> owl:equivalentClass <http://id.who.int/ichi/entity/950531499> .
+
+
+###  http://id.who.int/icd/entity/687054421
+<http://id.who.int/icd/entity/687054421> rdfs:subClassOf <http://id.who.int/ichi/entity/1446219072> .
+
+
+###  http://id.who.int/icd/entity/688231546
+<http://id.who.int/icd/entity/688231546> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/689508470
+<http://id.who.int/icd/entity/689508470> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/icd/entity/702637980
+<http://id.who.int/icd/entity/702637980> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/703099594
+<http://id.who.int/icd/entity/703099594> rdfs:subClassOf <http://id.who.int/ichi/entity/1577074073> .
+
+
+###  http://id.who.int/icd/entity/704682604
+<http://id.who.int/icd/entity/704682604> owl:equivalentClass <http://id.who.int/ichi/entity/314059509> .
+
+
+###  http://id.who.int/icd/entity/710147840
+<http://id.who.int/icd/entity/710147840> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/710426882
+<http://id.who.int/icd/entity/710426882> rdfs:subClassOf <http://id.who.int/ichi/entity/1303144676> .
+
+
+###  http://id.who.int/icd/entity/719727487
+<http://id.who.int/icd/entity/719727487> owl:equivalentClass <http://id.who.int/ichi/entity/1735141350> .
+
+
+###  http://id.who.int/icd/entity/720032908
+<http://id.who.int/icd/entity/720032908> owl:equivalentClass <http://id.who.int/ichi/entity/1506519640> .
+
+
+###  http://id.who.int/icd/entity/720361080
+<http://id.who.int/icd/entity/720361080> rdfs:subClassOf <http://id.who.int/ichi/entity/1293480628> .
+
+
+###  http://id.who.int/icd/entity/72056752
+<http://id.who.int/icd/entity/72056752> rdfs:subClassOf <http://id.who.int/ichi/entity/1303144676> .
+
+
+###  http://id.who.int/icd/entity/72252748
+<http://id.who.int/icd/entity/72252748> owl:equivalentClass <http://id.who.int/ichi/entity/1029660715> .
+
+
+###  http://id.who.int/icd/entity/72373228
+<http://id.who.int/icd/entity/72373228> owl:equivalentClass <http://id.who.int/ichi/entity/191853520> .
+
+
+###  http://id.who.int/icd/entity/726766741
+<http://id.who.int/icd/entity/726766741> rdfs:subClassOf <http://id.who.int/ichi/entity/842070925> .
+
+
+###  http://id.who.int/icd/entity/750306363
+<http://id.who.int/icd/entity/750306363> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/icd/entity/753469955
+<http://id.who.int/icd/entity/753469955> owl:equivalentClass <http://id.who.int/ichi/entity/1765079970> .
+
+
+###  http://id.who.int/icd/entity/759043230
+<http://id.who.int/icd/entity/759043230> owl:equivalentClass <http://id.who.int/ichi/entity/1830397974> .
+
+
+###  http://id.who.int/icd/entity/759525864
+<http://id.who.int/icd/entity/759525864> owl:equivalentClass <http://id.who.int/ichi/entity/144547149> .
+
+
+###  http://id.who.int/icd/entity/765055292
+<http://id.who.int/icd/entity/765055292> rdfs:subClassOf <http://id.who.int/ichi/entity/287422434> .
+
+
+###  http://id.who.int/icd/entity/768242906
+<http://id.who.int/icd/entity/768242906> owl:equivalentClass <http://id.who.int/ichi/entity/537665762> ,
+                                                             <http://id.who.int/ichi/entity/624430876> .
+
+
+###  http://id.who.int/icd/entity/770296514
+<http://id.who.int/icd/entity/770296514> owl:equivalentClass <http://id.who.int/ichi/entity/1943530390> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/412862209> .
+
+
+###  http://id.who.int/icd/entity/771220582
+<http://id.who.int/icd/entity/771220582> owl:equivalentClass <http://id.who.int/ichi/entity/2132964281> .
+
+
+###  http://id.who.int/icd/entity/782339812
+<http://id.who.int/icd/entity/782339812> owl:equivalentClass <http://id.who.int/ichi/entity/59799817> .
+
+
+###  http://id.who.int/icd/entity/793228530
+<http://id.who.int/icd/entity/793228530> owl:equivalentClass <http://id.who.int/ichi/entity/287422434> .
+
+
+###  http://id.who.int/icd/entity/798346187
+<http://id.who.int/icd/entity/798346187> rdfs:subClassOf <http://id.who.int/ichi/entity/1467387520> .
+
+
+###  http://id.who.int/icd/entity/805568052
+<http://id.who.int/icd/entity/805568052> owl:equivalentClass <http://id.who.int/ichi/entity/915916025> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1930603264> .
+
+
+###  http://id.who.int/icd/entity/808756694
+<http://id.who.int/icd/entity/808756694> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/810692620
+<http://id.who.int/icd/entity/810692620> rdfs:subClassOf <http://id.who.int/ichi/entity/1736379844> .
+
+
+###  http://id.who.int/icd/entity/821283472
+<http://id.who.int/icd/entity/821283472> owl:equivalentClass <http://id.who.int/ichi/entity/1474376270> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/45007873> .
+
+
+###  http://id.who.int/icd/entity/822296309
+<http://id.who.int/icd/entity/822296309> owl:equivalentClass <http://id.who.int/ichi/entity/329243053> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1278640768> .
+
+
+###  http://id.who.int/icd/entity/822750113
+<http://id.who.int/icd/entity/822750113> owl:equivalentClass <http://id.who.int/ichi/entity/1517009043> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1562300796> .
+
+
+###  http://id.who.int/icd/entity/823661225
+<http://id.who.int/icd/entity/823661225> rdfs:subClassOf <http://id.who.int/ichi/entity/435683285> .
+
+
+###  http://id.who.int/icd/entity/828784486
+<http://id.who.int/icd/entity/828784486> owl:equivalentClass <http://id.who.int/ichi/entity/835796792> .
+
+
+###  http://id.who.int/icd/entity/831985561
+<http://id.who.int/icd/entity/831985561> owl:equivalentClass <http://id.who.int/ichi/entity/1605372811> .
+
+
+###  http://id.who.int/icd/entity/839266529
+<http://id.who.int/icd/entity/839266529> rdfs:subClassOf <http://id.who.int/ichi/entity/2129704269> .
+
+
+###  http://id.who.int/icd/entity/843433937
+<http://id.who.int/icd/entity/843433937> rdfs:subClassOf <http://id.who.int/ichi/entity/1113443560> .
+
+
+###  http://id.who.int/icd/entity/851673842
+<http://id.who.int/icd/entity/851673842> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/852143287
+<http://id.who.int/icd/entity/852143287> rdfs:subClassOf <http://id.who.int/ichi/entity/45007873> .
+
+
+###  http://id.who.int/icd/entity/864772028
+<http://id.who.int/icd/entity/864772028> rdfs:subClassOf <http://id.who.int/ichi/entity/189778902> .
+
+
+###  http://id.who.int/icd/entity/864968000
+<http://id.who.int/icd/entity/864968000> owl:equivalentClass <http://id.who.int/ichi/entity/126914441> .
+
+
+###  http://id.who.int/icd/entity/874641444
+<http://id.who.int/icd/entity/874641444> rdfs:subClassOf <http://id.who.int/ichi/entity/2027130048> .
+
+
+###  http://id.who.int/icd/entity/894847549
+<http://id.who.int/icd/entity/894847549> owl:equivalentClass <http://id.who.int/ichi/entity/1243985869> .
+
+
+###  http://id.who.int/icd/entity/899820155
+<http://id.who.int/icd/entity/899820155> rdfs:subClassOf <http://id.who.int/ichi/entity/1124598374> .
+
+
+###  http://id.who.int/icd/entity/900147329
+<http://id.who.int/icd/entity/900147329> rdfs:subClassOf <http://id.who.int/ichi/entity/679548897> ,
+                                                         <http://id.who.int/ichi/entity/760266895> .
+
+
+###  http://id.who.int/icd/entity/909890232
+<http://id.who.int/icd/entity/909890232> owl:equivalentClass <http://id.who.int/ichi/entity/763704481> .
+
+
+###  http://id.who.int/icd/entity/914245431
+<http://id.who.int/icd/entity/914245431> owl:equivalentClass <http://id.who.int/ichi/entity/1046564174> .
+
+
+###  http://id.who.int/icd/entity/921333339
+<http://id.who.int/icd/entity/921333339> owl:equivalentClass <http://id.who.int/ichi/entity/216844425> .
+
+
+###  http://id.who.int/icd/entity/921977085
+<http://id.who.int/icd/entity/921977085> owl:equivalentClass <http://id.who.int/ichi/entity/1673092302> .
+
+
+###  http://id.who.int/icd/entity/929081680
+<http://id.who.int/icd/entity/929081680> owl:equivalentClass <http://id.who.int/ichi/entity/1798224643> ;
+                                         rdfs:subClassOf <http://id.who.int/ichi/entity/1368455141> ,
+                                                         <http://id.who.int/ichi/entity/1893743641> .
+
+
+###  http://id.who.int/icd/entity/929449332
+<http://id.who.int/icd/entity/929449332> rdfs:subClassOf <http://id.who.int/ichi/entity/2002389138> .
+
+
+###  http://id.who.int/icd/entity/951955211
+<http://id.who.int/icd/entity/951955211> rdfs:subClassOf <http://id.who.int/ichi/entity/1467387520> .
+
+
+###  http://id.who.int/icd/entity/955996865
+<http://id.who.int/icd/entity/955996865> rdfs:subClassOf <http://id.who.int/ichi/entity/1154085341> ,
+                                                         <http://id.who.int/ichi/entity/470772309> .
+
+
+###  http://id.who.int/icd/entity/958419954
+<http://id.who.int/icd/entity/958419954> owl:equivalentClass <http://id.who.int/ichi/entity/1146026411> .
+
+
+###  http://id.who.int/icd/entity/960740196
+<http://id.who.int/icd/entity/960740196> owl:equivalentClass <http://id.who.int/ichi/entity/711820790> .
+
+
+###  http://id.who.int/icd/entity/964528740
+<http://id.who.int/icd/entity/964528740> owl:equivalentClass <http://id.who.int/ichi/entity/1165608911> .
+
+
+###  http://id.who.int/icd/entity/965535960
+<http://id.who.int/icd/entity/965535960> rdfs:subClassOf <http://id.who.int/ichi/entity/679548897> ,
+                                                         <http://id.who.int/ichi/entity/760266895> .
+
+
+###  http://id.who.int/icd/entity/970208182
+<http://id.who.int/icd/entity/970208182> rdfs:subClassOf <http://id.who.int/ichi/entity/356296807> .
+
+
+###  http://id.who.int/icd/entity/970434236
+<http://id.who.int/icd/entity/970434236> rdfs:subClassOf <http://id.who.int/ichi/entity/1477482058> .
+
+
+###  http://id.who.int/icd/entity/975825478
+<http://id.who.int/icd/entity/975825478> rdfs:subClassOf <http://id.who.int/ichi/entity/270496624> .
+
+
+###  http://id.who.int/icd/entity/979078546
+<http://id.who.int/icd/entity/979078546> rdfs:subClassOf <http://id.who.int/ichi/entity/1043581074> ,
+                                                         <http://id.who.int/ichi/entity/1609712491> .
+
+
+###  http://id.who.int/icd/entity/979819998
+<http://id.who.int/icd/entity/979819998> owl:equivalentClass <http://id.who.int/ichi/entity/760822375> .
+
+
+###  http://id.who.int/icd/entity/983135600
+<http://id.who.int/icd/entity/983135600> owl:equivalentClass <http://id.who.int/ichi/entity/476340315> .
+
+
+###  http://id.who.int/icd/entity/985771522
+<http://id.who.int/icd/entity/985771522> owl:equivalentClass <http://id.who.int/ichi/entity/1918784088> .
+
+
+###  http://id.who.int/icd/entity/986233688
+<http://id.who.int/icd/entity/986233688> rdfs:subClassOf <http://id.who.int/ichi/entity/1293480628> .
+
+
+###  http://id.who.int/icd/entity/987725990
+<http://id.who.int/icd/entity/987725990> owl:equivalentClass <http://id.who.int/ichi/entity/51680869> .
+
+
+###  http://id.who.int/icd/entity/987893786
+<http://id.who.int/icd/entity/987893786> owl:equivalentClass <http://id.who.int/ichi/entity/1877020903> .
+
+
+###  http://id.who.int/icd/entity/994802762
+<http://id.who.int/icd/entity/994802762> rdfs:subClassOf <http://id.who.int/ichi/entity/191269176> .
+
+
+###  http://id.who.int/icd/entity/995291135
+<http://id.who.int/icd/entity/995291135> owl:equivalentClass <http://id.who.int/ichi/entity/1487795958> .
+
+
+###  http://id.who.int/icd/entity/999334139
+<http://id.who.int/icd/entity/999334139> rdfs:subClassOf <http://id.who.int/ichi/entity/411604131> .
+
+
+###  http://id.who.int/ichi/entity/101929535
+<http://id.who.int/ichi/entity/101929535> rdfs:subClassOf <http://id.who.int/icd/entity/852143287> .
+
+
+###  http://id.who.int/ichi/entity/1093092436
+<http://id.who.int/ichi/entity/1093092436> rdfs:subClassOf <http://id.who.int/icd/entity/421186462> ,
+                                                           <http://id.who.int/icd/entity/711315902> .
+
+
+###  http://id.who.int/ichi/entity/1107741272
+<http://id.who.int/ichi/entity/1107741272> rdfs:subClassOf <http://id.who.int/icd/entity/1477228030> .
+
+
+###  http://id.who.int/ichi/entity/1124202638
+<http://id.who.int/ichi/entity/1124202638> rdfs:subClassOf <http://id.who.int/icd/entity/2055915829> .
+
+
+###  http://id.who.int/ichi/entity/1154085341
+<http://id.who.int/ichi/entity/1154085341> rdfs:subClassOf <http://id.who.int/icd/entity/40907641> ,
+                                                           <http://id.who.int/icd/entity/947150833> .
+
+
+###  http://id.who.int/ichi/entity/126914441
+<http://id.who.int/ichi/entity/126914441> rdfs:subClassOf <http://id.who.int/icd/entity/106050921> .
+
+
+###  http://id.who.int/ichi/entity/1281857988
+<http://id.who.int/ichi/entity/1281857988> rdfs:subClassOf <http://id.who.int/icd/entity/1448567552> ,
+                                                           <http://id.who.int/icd/entity/238202718> ,
+                                                           <http://id.who.int/icd/entity/864968000> .
+
+
+###  http://id.who.int/ichi/entity/1296525914
+<http://id.who.int/ichi/entity/1296525914> rdfs:subClassOf <http://id.who.int/icd/entity/225409574> .
+
+
+###  http://id.who.int/ichi/entity/1302727828
+<http://id.who.int/ichi/entity/1302727828> rdfs:subClassOf <http://id.who.int/icd/entity/194670149> .
+
+
+###  http://id.who.int/ichi/entity/1309023825
+<http://id.who.int/ichi/entity/1309023825> rdfs:subClassOf <http://id.who.int/icd/entity/864772028> .
+
+
+###  http://id.who.int/ichi/entity/131254121
+<http://id.who.int/ichi/entity/131254121> rdfs:subClassOf <http://id.who.int/icd/entity/1321950693> ,
+                                                          <http://id.who.int/icd/entity/1617949731> ,
+                                                          <http://id.who.int/icd/entity/238202718> .
+
+
+###  http://id.who.int/ichi/entity/131874113
+<http://id.who.int/ichi/entity/131874113> rdfs:subClassOf <http://id.who.int/icd/entity/405704375> .
+
+
+###  http://id.who.int/ichi/entity/1376326520
+<http://id.who.int/ichi/entity/1376326520> rdfs:subClassOf <http://id.who.int/icd/entity/1196650747> .
+
+
+###  http://id.who.int/ichi/entity/1405819072
+<http://id.who.int/ichi/entity/1405819072> rdfs:subClassOf <http://id.who.int/icd/entity/40907641> .
+
+
+###  http://id.who.int/ichi/entity/1462006488
+<http://id.who.int/ichi/entity/1462006488> rdfs:subClassOf <http://id.who.int/icd/entity/225409574> .
+
+
+###  http://id.who.int/ichi/entity/1480717454
+<http://id.who.int/ichi/entity/1480717454> rdfs:subClassOf <http://id.who.int/icd/entity/720361080> .
+
+
+###  http://id.who.int/ichi/entity/1489962514
+<http://id.who.int/ichi/entity/1489962514> rdfs:subClassOf <http://id.who.int/icd/entity/1477031686> ,
+                                                           <http://id.who.int/icd/entity/1617949731> .
+
+
+###  http://id.who.int/ichi/entity/1566349726
+<http://id.who.int/ichi/entity/1566349726> rdfs:subClassOf <http://id.who.int/icd/entity/625587547> .
+
+
+###  http://id.who.int/ichi/entity/1576194820
+<http://id.who.int/ichi/entity/1576194820> rdfs:subClassOf <http://id.who.int/icd/entity/1293717335> ,
+                                                           <http://id.who.int/icd/entity/1314934431> .
+
+
+###  http://id.who.int/ichi/entity/1606053885
+<http://id.who.int/ichi/entity/1606053885> rdfs:subClassOf <http://id.who.int/icd/entity/119571850> .
+
+
+###  http://id.who.int/ichi/entity/1610098461
+<http://id.who.int/ichi/entity/1610098461> rdfs:subClassOf <http://id.who.int/icd/entity/650081113> .
+
+
+###  http://id.who.int/ichi/entity/1644367532
+<http://id.who.int/ichi/entity/1644367532> rdfs:subClassOf <http://id.who.int/icd/entity/1885434231> .
+
+
+###  http://id.who.int/ichi/entity/1646507694
+<http://id.who.int/ichi/entity/1646507694> rdfs:subClassOf <http://id.who.int/icd/entity/225409574> .
+
+
+###  http://id.who.int/ichi/entity/1651591926
+<http://id.who.int/ichi/entity/1651591926> rdfs:subClassOf <http://id.who.int/icd/entity/131834102> .
+
+
+###  http://id.who.int/ichi/entity/1652076574
+<http://id.who.int/ichi/entity/1652076574> rdfs:subClassOf <http://id.who.int/icd/entity/1885434231> .
+
+
+###  http://id.who.int/ichi/entity/1659303484
+<http://id.who.int/ichi/entity/1659303484> rdfs:subClassOf <http://id.who.int/icd/entity/34787577> ,
+                                                           <http://id.who.int/icd/entity/420574304> ,
+                                                           <http://id.who.int/icd/entity/807921792> ,
+                                                           <http://id.who.int/icd/entity/980718560> .
+
+
+###  http://id.who.int/ichi/entity/1660926058
+<http://id.who.int/ichi/entity/1660926058> rdfs:subClassOf <http://id.who.int/icd/entity/672187873> .
+
+
+###  http://id.who.int/ichi/entity/1662847908
+<http://id.who.int/ichi/entity/1662847908> rdfs:subClassOf <http://id.who.int/icd/entity/40907641> ,
+                                                           <http://id.who.int/icd/entity/430791912> .
+
+
+###  http://id.who.int/ichi/entity/1675119410
+<http://id.who.int/ichi/entity/1675119410> rdfs:subClassOf <http://id.who.int/icd/entity/2092798548> .
+
+
+###  http://id.who.int/ichi/entity/1733709614
+<http://id.who.int/ichi/entity/1733709614> rdfs:subClassOf <http://id.who.int/icd/entity/1041587014> ,
+                                                           <http://id.who.int/icd/entity/461235915> .
+
+
+###  http://id.who.int/ichi/entity/1736379844
+<http://id.who.int/ichi/entity/1736379844> rdfs:subClassOf <http://id.who.int/icd/entity/1321950693> ,
+                                                           <http://id.who.int/icd/entity/1617949731> ,
+                                                           <http://id.who.int/icd/entity/1670056745> .
+
+
+###  http://id.who.int/ichi/entity/1737088886
+<http://id.who.int/ichi/entity/1737088886> rdfs:subClassOf <http://id.who.int/icd/entity/947150833> .
+
+
+###  http://id.who.int/ichi/entity/1746474250
+<http://id.who.int/ichi/entity/1746474250> rdfs:subClassOf <http://id.who.int/icd/entity/1477031686> ,
+                                                           <http://id.who.int/icd/entity/1477228030> ,
+                                                           <http://id.who.int/icd/entity/1617949731> .
+
+
+###  http://id.who.int/ichi/entity/1747156418
+<http://id.who.int/ichi/entity/1747156418> rdfs:subClassOf <http://id.who.int/icd/entity/238202718> ,
+                                                           <http://id.who.int/icd/entity/40907641> .
+
+
+###  http://id.who.int/ichi/entity/1748610320
+<http://id.who.int/ichi/entity/1748610320> rdfs:subClassOf <http://id.who.int/icd/entity/1912610276> .
+
+
+###  http://id.who.int/ichi/entity/1790815113
+<http://id.who.int/ichi/entity/1790815113> rdfs:subClassOf <http://id.who.int/icd/entity/119571850> ,
+                                                           <http://id.who.int/icd/entity/1660533706> .
+
+
+###  http://id.who.int/ichi/entity/1834293982
+<http://id.who.int/ichi/entity/1834293982> rdfs:subClassOf <http://id.who.int/icd/entity/1896004518> ,
+                                                           <http://id.who.int/icd/entity/40907641> .
+
+
+###  http://id.who.int/ichi/entity/1850829920
+<http://id.who.int/ichi/entity/1850829920> rdfs:subClassOf <http://id.who.int/icd/entity/1912610276> .
+
+
+###  http://id.who.int/ichi/entity/1881504911
+<http://id.who.int/ichi/entity/1881504911> rdfs:subClassOf <http://id.who.int/icd/entity/409827719> .
+
+
+###  http://id.who.int/ichi/entity/189778902
+<http://id.who.int/ichi/entity/189778902> rdfs:subClassOf <http://id.who.int/icd/entity/40907641> .
+
+
+###  http://id.who.int/ichi/entity/1924911940
+<http://id.who.int/ichi/entity/1924911940> rdfs:subClassOf <http://id.who.int/icd/entity/40907641> .
+
+
+###  http://id.who.int/ichi/entity/1958236855
+<http://id.who.int/ichi/entity/1958236855> rdfs:subClassOf <http://id.who.int/icd/entity/1363003152> ,
+                                                           <http://id.who.int/icd/entity/864772028> .
+
+
+###  http://id.who.int/ichi/entity/1990325518
+<http://id.who.int/ichi/entity/1990325518> rdfs:subClassOf <http://id.who.int/icd/entity/1133981605> ,
+                                                           <http://id.who.int/icd/entity/40907641> ,
+                                                           <http://id.who.int/icd/entity/625587547> .
+
+
+###  http://id.who.int/ichi/entity/2003436590
+<http://id.who.int/ichi/entity/2003436590> rdfs:subClassOf <http://id.who.int/icd/entity/1679928503> ,
+                                                           <http://id.who.int/icd/entity/711315902> .
+
+
+###  http://id.who.int/ichi/entity/2013456078
+<http://id.who.int/ichi/entity/2013456078> rdfs:subClassOf <http://id.who.int/icd/entity/1074640675> .
+
+
+###  http://id.who.int/ichi/entity/2024516758
+<http://id.who.int/ichi/entity/2024516758> rdfs:subClassOf <http://id.who.int/icd/entity/106050921> ,
+                                                           <http://id.who.int/icd/entity/1321950693> .
+
+
+###  http://id.who.int/ichi/entity/2027130048
+<http://id.who.int/ichi/entity/2027130048> rdfs:subClassOf <http://id.who.int/icd/entity/1477228030> .
+
+
+###  http://id.who.int/ichi/entity/2034835288
+<http://id.who.int/ichi/entity/2034835288> rdfs:subClassOf <http://id.who.int/icd/entity/1448567552> .
+
+
+###  http://id.who.int/ichi/entity/2035529234
+<http://id.who.int/ichi/entity/2035529234> rdfs:subClassOf <http://id.who.int/icd/entity/1515005003> .
+
+
+###  http://id.who.int/ichi/entity/2063718949
+<http://id.who.int/ichi/entity/2063718949> rdfs:subClassOf <http://id.who.int/icd/entity/1922573088> .
+
+
+###  http://id.who.int/ichi/entity/2085050478
+<http://id.who.int/ichi/entity/2085050478> rdfs:subClassOf <http://id.who.int/icd/entity/711315902> .
+
+
+###  http://id.who.int/ichi/entity/2106976032
+<http://id.who.int/ichi/entity/2106976032> rdfs:subClassOf <http://id.who.int/icd/entity/832846369> .
+
+
+###  http://id.who.int/ichi/entity/2141551567
+<http://id.who.int/ichi/entity/2141551567> rdfs:subClassOf <http://id.who.int/icd/entity/194670149> .
+
+
+###  http://id.who.int/ichi/entity/215407045
+<http://id.who.int/ichi/entity/215407045> rdfs:subClassOf <http://id.who.int/icd/entity/1670056745> ,
+                                                          <http://id.who.int/icd/entity/40907641> .
+
+
+###  http://id.who.int/ichi/entity/260071476
+<http://id.who.int/ichi/entity/260071476> rdfs:subClassOf <http://id.who.int/icd/entity/280674825> .
+
+
+###  http://id.who.int/ichi/entity/341715478
+<http://id.who.int/ichi/entity/341715478> rdfs:subClassOf <http://id.who.int/icd/entity/1170554644> .
+
+
+###  http://id.who.int/ichi/entity/408356091
+<http://id.who.int/ichi/entity/408356091> rdfs:subClassOf <http://id.who.int/icd/entity/1477031686> ,
+                                                          <http://id.who.int/icd/entity/1617949731> .
+
+
+###  http://id.who.int/ichi/entity/411604131
+<http://id.who.int/ichi/entity/411604131> rdfs:subClassOf <http://id.who.int/icd/entity/1617949731> .
+
+
+###  http://id.who.int/ichi/entity/421661691
+<http://id.who.int/ichi/entity/421661691> rdfs:subClassOf <http://id.who.int/icd/entity/194670149> .
+
+
+###  http://id.who.int/ichi/entity/435683285
+<http://id.who.int/ichi/entity/435683285> rdfs:subClassOf <http://id.who.int/icd/entity/720361080> .
+
+
+###  http://id.who.int/ichi/entity/457828382
+<http://id.who.int/ichi/entity/457828382> rdfs:subClassOf <http://id.who.int/icd/entity/1126217939> .
+
+
+###  http://id.who.int/ichi/entity/476340315
+<http://id.who.int/ichi/entity/476340315> rdfs:subClassOf <http://id.who.int/icd/entity/805764304> .
+
+
+###  http://id.who.int/ichi/entity/483011267
+<http://id.who.int/ichi/entity/483011267> rdfs:subClassOf <http://id.who.int/icd/entity/1612889623> .
+
+
+###  http://id.who.int/ichi/entity/486127843
+<http://id.who.int/ichi/entity/486127843> rdfs:subClassOf <http://id.who.int/icd/entity/106050921> ,
+                                                          <http://id.who.int/icd/entity/1491791024> ,
+                                                          <http://id.who.int/icd/entity/325262192> ,
+                                                          <http://id.who.int/icd/entity/520825881> ,
+                                                          <http://id.who.int/icd/entity/72056752> ,
+                                                          <http://id.who.int/icd/entity/805764304> ,
+                                                          <http://id.who.int/icd/entity/85354215> .
+
+
+###  http://id.who.int/ichi/entity/493879587
+<http://id.who.int/ichi/entity/493879587> rdfs:subClassOf <http://id.who.int/icd/entity/1106248434> ,
+                                                          <http://id.who.int/icd/entity/711315902> .
+
+
+###  http://id.who.int/ichi/entity/519753624
+<http://id.who.int/ichi/entity/519753624> rdfs:subClassOf <http://id.who.int/icd/entity/409827719> .
+
+
+###  http://id.who.int/ichi/entity/55916959
+<http://id.who.int/ichi/entity/55916959> rdfs:subClassOf <http://id.who.int/icd/entity/1448567552> ,
+                                                         <http://id.who.int/icd/entity/1477228030> ,
+                                                         <http://id.who.int/icd/entity/720361080> .
+
+
+###  http://id.who.int/ichi/entity/559541856
+<http://id.who.int/ichi/entity/559541856> rdfs:subClassOf <http://id.who.int/icd/entity/1170554644> .
+
+
+###  http://id.who.int/ichi/entity/600261037
+<http://id.who.int/ichi/entity/600261037> rdfs:subClassOf <http://id.who.int/icd/entity/1477031686> .
+
+
+###  http://id.who.int/ichi/entity/622376730
+<http://id.who.int/ichi/entity/622376730> rdfs:subClassOf <http://id.who.int/icd/entity/123461884> .
+
+
+###  http://id.who.int/ichi/entity/66154229
+<http://id.who.int/ichi/entity/66154229> rdfs:subClassOf <http://id.who.int/icd/entity/1803734370> .
+
+
+###  http://id.who.int/ichi/entity/668821475
+<http://id.who.int/ichi/entity/668821475> rdfs:subClassOf <http://id.who.int/icd/entity/711315902> .
+
+
+###  http://id.who.int/ichi/entity/679548897
+<http://id.who.int/ichi/entity/679548897> rdfs:subClassOf <http://id.who.int/icd/entity/2127070735> ,
+                                                          <http://id.who.int/icd/entity/40907641> .
+
+
+###  http://id.who.int/ichi/entity/697280087
+<http://id.who.int/ichi/entity/697280087> rdfs:subClassOf <http://id.who.int/icd/entity/1196650747> ,
+                                                          <http://id.who.int/icd/entity/1314934431> .
+
+
+###  http://id.who.int/ichi/entity/715210632
+<http://id.who.int/ichi/entity/715210632> rdfs:subClassOf <http://id.who.int/icd/entity/1001188833> ,
+                                                          <http://id.who.int/icd/entity/223243926> .
+
+
+###  http://id.who.int/ichi/entity/748865529
+<http://id.who.int/ichi/entity/748865529> rdfs:subClassOf <http://id.who.int/icd/entity/225409574> .
+
+
+###  http://id.who.int/ichi/entity/760266895
+<http://id.who.int/ichi/entity/760266895> rdfs:subClassOf <http://id.who.int/icd/entity/1448567552> ,
+                                                          <http://id.who.int/icd/entity/720361080> .
+
+
+###  http://id.who.int/ichi/entity/798298230
+<http://id.who.int/ichi/entity/798298230> rdfs:subClassOf <http://id.who.int/icd/entity/1001188833> ,
+                                                          <http://id.who.int/icd/entity/265477888> .
+
+
+###  http://id.who.int/ichi/entity/842070925
+<http://id.who.int/ichi/entity/842070925> rdfs:subClassOf <http://id.who.int/icd/entity/106050921> ,
+                                                          <http://id.who.int/icd/entity/1321950693> ,
+                                                          <http://id.who.int/icd/entity/40907641> ,
+                                                          <http://id.who.int/icd/entity/864968000> .
+
+
+###  http://id.who.int/ichi/entity/848776189
+<http://id.who.int/ichi/entity/848776189> rdfs:subClassOf <http://id.who.int/icd/entity/106050921> ,
+                                                          <http://id.who.int/icd/entity/1281516466> ,
+                                                          <http://id.who.int/icd/entity/1321950693> .
+
+
+###  http://id.who.int/ichi/entity/852820765
+<http://id.who.int/ichi/entity/852820765> rdfs:subClassOf <http://id.who.int/icd/entity/1670056745> ,
+                                                          <http://id.who.int/icd/entity/711315902> .
+
+
+###  http://id.who.int/ichi/entity/888554348
+<http://id.who.int/ichi/entity/888554348> rdfs:subClassOf <http://id.who.int/icd/entity/119571850> ,
+                                                          <http://id.who.int/icd/entity/2105593940> .
+
+
+###  http://id.who.int/ichi/entity/932777163
+<http://id.who.int/ichi/entity/932777163> rdfs:subClassOf <http://id.who.int/icd/entity/1448567552> .
+
+
+###  http://id.who.int/ichi/entity/937503971
+<http://id.who.int/ichi/entity/937503971> rdfs:subClassOf <http://id.who.int/icd/entity/1258542550> ,
+                                                          <http://id.who.int/icd/entity/1921980626> ,
+                                                          <http://id.who.int/icd/entity/238202718> ,
+                                                          <http://id.who.int/icd/entity/391521938> ,
+                                                          <http://id.who.int/icd/entity/461235915> .
+
+
+###  http://id.who.int/ichi/entity/948656764
+<http://id.who.int/ichi/entity/948656764> rdfs:subClassOf <http://id.who.int/icd/entity/1089203821> ,
+                                                          <http://id.who.int/icd/entity/1617949731> .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

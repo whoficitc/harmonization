@@ -1,0 +1,718 @@
+subject_id	subject	target	target title	AHA review 2 after Comments from AM
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1704022864	Lymphatic vessel of the pinna	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/392169936	Lymphatic vessel of the scalp	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1418290215	Lymphatic vessel of the tongue	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/2138601960	Deep lymphatic vessel	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/2120652687	Median lymphatic vessel	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1345740303	Radial lymphatic vessel	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1750080808	Superficial lymphatic vessel	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1193163471	Ulnar lymphatic vessel	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1766781775	Volar lymphatic vessel	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/647810371	Lymphatic vessel of the diaphragm	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1128657667	Lymphatic vessel of the breast	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1271990642	Lymphatic vessel of the thoracic viscera	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/475461985	Lymphatic vessel of the caecum	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/623793185	Lymphatic vessel of the colon	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1474236065	Lymphatic vessel of the duodenum	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1856480225	Lymphatic vessel of the ileum	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/2039465761	Lymphatic vessel of the jejunum	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/123035130	Lymphatic vessel of the kidney	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/839266529	Lymphatic vessel of the liver	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/174093254	Lymphatic vessel of the pancreas	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/688231546	Lymphatic vessel of the spleen	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1670548959	Lymphatic vessel of the stomach	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1075026309	Lymphatic vessel of the anus	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1527790876	Lymphatic vessel of the bladder	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1651019868	Lymphatic vessel of the prostate	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1849905157	Lymphatic vessel of the rectum	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/702637980	Lymphatic vessel of the testes	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/2020989604	Lymphatic vessel of the ureter	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/129084956	Lymphatic vessel of the urethra	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/491263750	Lymphatic vessel of the gallbladder	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/192847265	Lymphatic vessel of the vermiform process	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/278514396	Lymphatic vessel of the reproductive organs	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/1868414564	Lymphatic vessel of the urinary organ	br
+http://id.who.int/icd/entity/2129704269	"Lymphatic vessel, other and unspecified"	http://id.who.int/icd/entity/710147840	Lymphatic vessels of the skin and muscles of the neck	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/605106052	Thoracic intervertebral disc or space T6-T7	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/851673842	Thoracic intervertebral disc or space T1-T2	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/377972468	Thoracic intervertebral disc or space T2-T3	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/571022152	Thoracic intervertebral disc or space T3-T4	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/39311628	Thoracic intervertebral disc or space T4-T5	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/1796859671	Thoracic intervertebral disc or space T5-T6	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/1514556877	Thoracic intervertebral disc or space T7-T8	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/1858613369	Thoracic intervertebral disc or space T8-T9	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/1318515253	Thoracic intervertebral disc or space T9-T10	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/1950594269	Thoracic intervertebral disc or space T10-T11	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/994802762	Thoracic intervertebral disc or space T11-T12	br
+http://id.who.int/icd/entity/191269176	Thoracic intervertebral disc	http://id.who.int/icd/entity/808756694	Thoracic discs or space	br
+http://id.who.int/icd/entity/287422434	Cervical intervertebral disc	http://id.who.int/icd/entity/318130866	Cervical intervertebral disc or space C1-C2	br
+http://id.who.int/icd/entity/287422434	Cervical intervertebral disc	http://id.who.int/icd/entity/765055292	Cervical intervertebral disc or space C2-C3	br
+http://id.who.int/icd/entity/287422434	Cervical intervertebral disc	http://id.who.int/icd/entity/598335592	Cervical intervertebral disc or space C3-C4	br
+http://id.who.int/icd/entity/287422434	Cervical intervertebral disc	http://id.who.int/icd/entity/2114591943	nan	br
+http://id.who.int/icd/entity/287422434	Cervical intervertebral disc	http://id.who.int/icd/entity/2020710149	Cervical intervertebral disc or space C5-C6	br
+http://id.who.int/icd/entity/287422434	Cervical intervertebral disc	http://id.who.int/icd/entity/2007176601	Cervical intervertebral disc or space C6-C7	br
+http://id.who.int/icd/entity/287422434	Cervical intervertebral disc	http://id.who.int/icd/entity/793228530	Cervical discs or space	eq
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/2053473583	Interossei of the hand muscle	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/1549129368	Extensor digitorum muscle (hand)	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/140558313	Abductor digiti minimi muscle (hand)	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/1697479640	Extensor digiti minimi muscle (hand)	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/640710249	Opponens digiti minimi muscle (hand)	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/524868393	Flexor digiti minimi brevis muscle (hand)	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/1139361833	Opponens pollicis muscle	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/823661225	Abductor pollicis brevis muscle	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/1493197457	Lumbricals of hand muscle	br
+http://id.who.int/icd/entity/435683285	Muscle of hand	http://id.who.int/icd/entity/720361080	Muscles of the upper extremity	na
+http://id.who.int/icd/entity/279449124	Lumbar intervertebral disc	http://id.who.int/icd/entity/1541846755	Lumbar intervertebral disc or space L1-L2	br
+http://id.who.int/icd/entity/279449124	Lumbar intervertebral disc	http://id.who.int/icd/entity/351174262	Lumbar intervertebral disc or space L2-L3	br
+http://id.who.int/icd/entity/279449124	Lumbar intervertebral disc	http://id.who.int/icd/entity/28801104	Lumbar intervertebral disc or space L3-L4	br
+http://id.who.int/icd/entity/279449124	Lumbar intervertebral disc	http://id.who.int/icd/entity/447055896	Lumbar intervertebral disc or space L4-L5	br
+http://id.who.int/icd/entity/279449124	Lumbar intervertebral disc	http://id.who.int/icd/entity/521115724	Thoracolumbar intervertebral disc or space T12-L1	br
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/1145302967	Bones of the pelvis	eq
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/1399556983	Pelvis	eq
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/264902775	Ilium	br
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/417496247	Ischium	br
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/1779639863	Pubis	br
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/1375258212	Acetabulum	br
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/563794423	Sacrum	br
+http://id.who.int/icd/entity/1380098430	Bone of pelvic region	http://id.who.int/icd/entity/541642128	Coccyx	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/1091984320	Bones of the shoulder girdle	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/1020159779	Ligament of the shoulder	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/1748499538	Glenohumeral joint	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/965535960	Deltoid muscle	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/900147329	Infraspinatus muscle	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/579816513	Supraspinatus muscle	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/1752238488	Serratus anterior muscle	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/1625682921	Levator scapulae muscle	br
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/2127070735	Shoulder	na
+http://id.who.int/icd/entity/679548897	Musculoskeletal structures of shoulder	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/486127843	Bone of lower leg	http://id.who.int/icd/entity/805764304	Bones of the lower extremity	na
+http://id.who.int/icd/entity/486127843	Bone of lower leg	http://id.who.int/icd/entity/106050921	Lower leg	na
+http://id.who.int/icd/entity/486127843	Bone of lower leg	http://id.who.int/icd/entity/520825881	Tibia	na
+http://id.who.int/icd/entity/486127843	Bone of lower leg	http://id.who.int/icd/entity/85354215	Fibula	na
+http://id.who.int/icd/entity/486127843	Bone of lower leg	http://id.who.int/icd/entity/1491791024	Tarsal bone	na
+http://id.who.int/icd/entity/486127843	Bone of lower leg	http://id.who.int/icd/entity/325262192	Metatarsal bone	na
+http://id.who.int/icd/entity/486127843	Bone of lower leg	http://id.who.int/icd/entity/72056752	Phalanx of the foot	na
+http://id.who.int/icd/entity/1293480628	Musculoskeletal structures of upper arm	http://id.who.int/icd/entity/672187873	Bones of the upper extremity	br
+http://id.who.int/icd/entity/1293480628	Musculoskeletal structures of upper arm	http://id.who.int/icd/entity/223741850	Joints of the upper extremity	br
+http://id.who.int/icd/entity/1293480628	Musculoskeletal structures of upper arm	http://id.who.int/icd/entity/720361080	Muscles of the upper extremity	br
+http://id.who.int/icd/entity/1293480628	Musculoskeletal structures of upper arm	http://id.who.int/icd/entity/1477031686	Tendons of the upper extremity	br
+http://id.who.int/icd/entity/1293480628	Musculoskeletal structures of upper arm	http://id.who.int/icd/entity/986233688	Upper Extremity	br
+http://id.who.int/icd/entity/1293480628	Musculoskeletal structures of upper arm	http://id.who.int/icd/entity/131834102	Ligaments of the upper extremity	br
+http://id.who.int/icd/entity/1660926058	Bone of forearm	http://id.who.int/icd/entity/2038724831	Carpal bones	br
+http://id.who.int/icd/entity/1660926058	Bone of forearm	http://id.who.int/icd/entity/255752241	Radius	br
+http://id.who.int/icd/entity/1660926058	Bone of forearm	http://id.who.int/icd/entity/2110726833	Shaft of the ulna	br
+http://id.who.int/icd/entity/1660926058	Bone of forearm	http://id.who.int/icd/entity/623242207	Phalanx of the hand	overlap
+http://id.who.int/icd/entity/1660926058	Bone of forearm	http://id.who.int/icd/entity/223134782	Ulnar nerve	NO
+http://id.who.int/icd/entity/1660926058	Bone of forearm	http://id.who.int/icd/entity/1895435407	Ulna	br
+http://id.who.int/icd/entity/1660926058	Bone of forearm	http://id.who.int/icd/entity/759525864	Humerus	NO
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/1617949731	Tendons	na
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/750306363	Lumbrical of foot tendon	br
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/48762299	Dorsal interossei of foot tendon	br
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/999334139	Plantar interossei of foot tendon	br
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/1873136010	Abductor digiti minimi (foot) tendon	br
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/689508470	Extensor digitorum brevis (foot) tendon	br
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/1043428534	Extensor digitorum longus (foot) tendon	br
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/1796928418	Flexor digitorum longus (foot) tendon	br
+http://id.who.int/icd/entity/411604131	Tendon of foot or toe	http://id.who.int/icd/entity/434874658	Flexor digiti minimi brevis (foot) tendon	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/1448567552	Muscles	na
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/1161059760	Lumbricals of foot muscle	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/1536568696	Interossei - dorsal of foot muscle	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/1287539128	Interossei - plantar of foot muscle	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/289588207	Abductor digiti minimi muscle (foot)	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/1960315551	Extensor digitorum brevis muscle (foot)	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/1302374367	Extensor digitorum longus muscle (foot)	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/103370783	Flexor digitorum longus muscle (foot)	br
+http://id.who.int/icd/entity/2034835288	Muscle of foot or toe	http://id.who.int/icd/entity/679057823	Flexor digiti minimi brevis muscle (foot)	br
+http://id.who.int/icd/entity/1562300796	Bone of hand or fingers	http://id.who.int/icd/entity/1348651907	"Bone of finger, not elsewhere classified"	br
+http://id.who.int/icd/entity/1562300796	Bone of hand or fingers	http://id.who.int/icd/entity/2038724831	Carpal bones	br
+http://id.who.int/icd/entity/1562300796	Bone of hand or fingers	http://id.who.int/icd/entity/822750113	Fingers and thumb	br
+http://id.who.int/icd/entity/1562300796	Bone of hand or fingers	http://id.who.int/icd/entity/623242207	Phalanx of the hand	br
+http://id.who.int/icd/entity/1562300796	Bone of hand or fingers	http://id.who.int/icd/entity/1060675873	Metacarpal bone	br
+http://id.who.int/icd/entity/189778902	Musculoskeletal structures of head or neck	http://id.who.int/icd/entity/1922573088	Muscles of the head and neck	br
+http://id.who.int/icd/entity/189778902	Musculoskeletal structures of head or neck	http://id.who.int/icd/entity/1126217939	Tendons of the head and neck	br
+http://id.who.int/icd/entity/189778902	Musculoskeletal structures of head or neck	http://id.who.int/icd/entity/864772028	Joints and ligaments of the head and neck	br
+http://id.who.int/icd/entity/189778902	Musculoskeletal structures of head or neck	http://id.who.int/icd/entity/2037389465	Bones of the head	br
+http://id.who.int/icd/entity/189778902	Musculoskeletal structures of head or neck	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/189778902	Musculoskeletal structures of head or neck	http://id.who.int/icd/entity/439298507	Ligaments of the head and neck	br
+http://id.who.int/icd/entity/189778902	Musculoskeletal structures of head or neck	http://id.who.int/icd/entity/657365008	Bones	overlap
+http://id.who.int/icd/entity/1303144676	Bone of foot or toe	nan	nan	br
+http://id.who.int/icd/entity/1303144676	Bone of foot or toe	http://id.who.int/icd/entity/1491791024	Tarsal bone	br
+http://id.who.int/icd/entity/1303144676	Bone of foot or toe	http://id.who.int/icd/entity/325262192	Metatarsal bone	br
+http://id.who.int/icd/entity/1303144676	Bone of foot or toe	http://id.who.int/icd/entity/72056752	Phalanx of the foot	br
+http://id.who.int/icd/entity/1303144676	Bone of foot or toe	http://id.who.int/icd/entity/710426882	Calcaneus	br
+http://id.who.int/icd/entity/1303144676	Bone of foot or toe	http://id.who.int/icd/entity/2137029069	Bone of ankle	br
+http://id.who.int/icd/entity/1278640768	"Eyelid, lacrimal system, orbit"	http://id.who.int/icd/entity/1142633691	Eyelids	br
+http://id.who.int/icd/entity/1278640768	"Eyelid, lacrimal system, orbit"	http://id.who.int/icd/entity/822296309	Orbit	br
+http://id.who.int/icd/entity/1278640768	"Eyelid, lacrimal system, orbit"	http://id.who.int/icd/entity/28784496	Lacrimal apparatus	br
+http://id.who.int/icd/entity/1278640768	"Eyelid, lacrimal system, orbit"	http://id.who.int/icd/entity/1912153731	Eyelid and ocular surface​	br
+http://id.who.int/icd/entity/1278640768	"Eyelid, lacrimal system, orbit"	http://id.who.int/icd/entity/629756149	Lacrimal gland	br
+http://id.who.int/icd/entity/1609712491	Skin and subcutaneous cell tissue of head or neck	http://id.who.int/icd/entity/463851894	Skin of neck	br
+http://id.who.int/icd/entity/1609712491	Skin and subcutaneous cell tissue of head or neck	http://id.who.int/icd/entity/1970791419	Skin of head	br
+http://id.who.int/icd/entity/1609712491	Skin and subcutaneous cell tissue of head or neck	http://id.who.int/icd/entity/586230733	Hypodermis	br
+http://id.who.int/icd/entity/1609712491	Skin and subcutaneous cell tissue of head or neck	http://id.who.int/icd/entity/979078546	Subcutaneous fat	br
+http://id.who.int/icd/entity/1154085341	Musculoskeletal structures of trunk	http://id.who.int/icd/entity/128614976	Bones of the thorax	br
+http://id.who.int/icd/entity/1154085341	Musculoskeletal structures of trunk	http://id.who.int/icd/entity/1359586520	Muscle of the thorax	br
+http://id.who.int/icd/entity/1154085341	Musculoskeletal structures of trunk	http://id.who.int/icd/entity/955996865	Muscle of the abdomen	br
+http://id.who.int/icd/entity/1154085341	Musculoskeletal structures of trunk	http://id.who.int/icd/entity/507472176	Muscle of the back	br
+http://id.who.int/icd/entity/1154085341	Musculoskeletal structures of trunk	http://id.who.int/icd/entity/947150833	Trunk	na
+http://id.who.int/icd/entity/1154085341	Musculoskeletal structures of trunk	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/1477482058	Knee meniscus	http://id.who.int/icd/entity/223992584	Lateral meniscus of knee joint	br
+http://id.who.int/icd/entity/1477482058	Knee meniscus	http://id.who.int/icd/entity/970434236	Medial meniscus of knee joint	br
+http://id.who.int/icd/entity/1735522282	Brain and cranial nerves	http://id.who.int/icd/entity/2108063439	Cranial Nerve	br
+http://id.who.int/icd/entity/1735522282	Brain and cranial nerves	http://id.who.int/icd/entity/1048482858	Brain	br
+http://id.who.int/icd/entity/2089288972	"Placenta, amnion, cord"	http://id.who.int/icd/entity/1719538598	Placenta	br
+http://id.who.int/icd/entity/2089288972	"Placenta, amnion, cord"	http://id.who.int/icd/entity/1901492070	Amnion	br
+http://id.who.int/icd/entity/2089288972	"Placenta, amnion, cord"	http://id.who.int/icd/entity/1483073922	Umbilical cord	br
+http://id.who.int/icd/entity/1467387520	Joint of hand or fingers	http://id.who.int/icd/entity/1676501535	Joints of the hand	eq
+http://id.who.int/icd/entity/1467387520	Joint of hand or fingers	http://id.who.int/icd/entity/951955211	Interphalangeal joint of the hand	br
+http://id.who.int/icd/entity/1467387520	Joint of hand or fingers	nan	nan	br
+http://id.who.int/icd/entity/1467387520	Joint of hand or fingers	http://id.who.int/icd/entity/798346187	Proximal interphalangeal joint of finger	br
+http://id.who.int/icd/entity/1467387520	Joint of hand or fingers	http://id.who.int/icd/entity/384657035	Distal interphalangeal joint of finger	br
+http://id.who.int/icd/entity/421661691	Vessels of lower limb	http://id.who.int/icd/entity/1508677205	Artery of lower extremity	br
+http://id.who.int/icd/entity/421661691	Vessels of lower limb	http://id.who.int/icd/entity/1381503063	Vein of lower extremity	br
+http://id.who.int/icd/entity/421661691	Vessels of lower limb	http://id.who.int/icd/entity/276642106	Lymphatic system of the lower extremity	overlap
+http://id.who.int/icd/entity/1446219072	Tendon of trunk	http://id.who.int/icd/entity/687054421	Tendons of the thorax	br
+http://id.who.int/icd/entity/1446219072	Tendon of trunk	http://id.who.int/icd/entity/1234541117	Tendons of the abdomen	br
+http://id.who.int/icd/entity/1446219072	Tendon of trunk	http://id.who.int/icd/entity/1170102886	Tendons of the back	br
+http://id.who.int/icd/entity/1405819072	"Musculoskeletal structures of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/1405819072	"Musculoskeletal structures of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/720361080	Muscles of the upper extremity	NO
+http://id.who.int/icd/entity/1405819072	"Musculoskeletal structures of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/672187873	Bones of the upper extremity	NO
+http://id.who.int/icd/entity/1405819072	"Musculoskeletal structures of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/223741850	Joints of the upper extremity	NO
+http://id.who.int/icd/entity/1405819072	"Musculoskeletal structures of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/131834102	Ligaments of the upper extremity	NO
+http://id.who.int/icd/entity/1405819072	"Musculoskeletal structures of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/1477031686	Tendons of the upper extremity	NO
+http://id.who.int/icd/entity/1405819072	"Musculoskeletal structures of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/1753246500	Joints and ligaments of the upper extremity	NO
+http://id.who.int/icd/entity/1924911940	Musculoskeletal structures of pelvic region	http://id.who.int/icd/entity/1520433389	Pelvic floor	br
+http://id.who.int/icd/entity/1924911940	Musculoskeletal structures of pelvic region	http://id.who.int/icd/entity/1303878701	Pelvic wall	br
+http://id.who.int/icd/entity/1924911940	Musculoskeletal structures of pelvic region	http://id.who.int/icd/entity/107652911	Muscles of the pelvis and perineum	br
+http://id.who.int/icd/entity/1924911940	Musculoskeletal structures of pelvic region	http://id.who.int/icd/entity/1089203821	Tendons of the pelvis and perineum	br
+http://id.who.int/icd/entity/1924911940	Musculoskeletal structures of pelvic region	http://id.who.int/icd/entity/625587547	Joints and ligaments of the pelvis and perineum	br
+http://id.who.int/icd/entity/1924911940	Musculoskeletal structures of pelvic region	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/1302727828	Vessels of upper limb	http://id.who.int/icd/entity/1316314647	Artery of upper extremity	br
+http://id.who.int/icd/entity/1302727828	Vessels of upper limb	http://id.who.int/icd/entity/1725328867	Vein of upper extremity	br
+http://id.who.int/icd/entity/1302727828	Vessels of upper limb	http://id.who.int/icd/entity/465545679	Lymphatic system of the upper extremity	overlap
+http://id.who.int/icd/entity/760266895	Muscle of shoulder region	http://id.who.int/icd/entity/965535960	Deltoid muscle	br
+http://id.who.int/icd/entity/760266895	Muscle of shoulder region	http://id.who.int/icd/entity/900147329	Infraspinatus muscle	br
+http://id.who.int/icd/entity/760266895	Muscle of shoulder region	http://id.who.int/icd/entity/579816513	Supraspinatus muscle	br
+http://id.who.int/icd/entity/760266895	Muscle of shoulder region	http://id.who.int/icd/entity/1752238488	Serratus anterior muscle	br
+http://id.who.int/icd/entity/760266895	Muscle of shoulder region	http://id.who.int/icd/entity/1625682921	Levator scapulae muscle	br
+http://id.who.int/icd/entity/760266895	Muscle of shoulder region	http://id.who.int/icd/entity/720361080	Muscles of the upper extremity	na
+http://id.who.int/icd/entity/760266895	Muscle of shoulder region	http://id.who.int/icd/entity/1448567552	Muscles	na
+http://id.who.int/icd/entity/937503971	Ligament or fascia of thigh	http://id.who.int/icd/entity/238202718	Thigh	na
+http://id.who.int/icd/entity/937503971	Ligament or fascia of thigh	http://id.who.int/icd/entity/461235915	Joints and ligaments	na
+http://id.who.int/icd/entity/937503971	Ligament or fascia of thigh	http://id.who.int/icd/entity/391521938	Ligament of the knee	na
+http://id.who.int/icd/entity/937503971	Ligament or fascia of thigh	http://id.who.int/icd/entity/1921980626	Ligament of the hip	na
+http://id.who.int/icd/entity/937503971	Ligament or fascia of thigh	http://id.who.int/icd/entity/1258542550	Fascia	na
+http://id.who.int/icd/entity/860252691	"Endocardium, pericardium, myocardium"	http://id.who.int/icd/entity/1350243387	Endocardium	br
+http://id.who.int/icd/entity/860252691	"Endocardium, pericardium, myocardium"	http://id.who.int/icd/entity/1266200740	Pericardium	br
+http://id.who.int/icd/entity/860252691	"Endocardium, pericardium, myocardium"	http://id.who.int/icd/entity/2134193116	Myocardium	br
+http://id.who.int/icd/entity/860252691	"Endocardium, pericardium, myocardium"	http://id.who.int/icd/entity/1770830923	Cardiac muscle	br
+http://id.who.int/icd/entity/470772309	Muscle of trunk	http://id.who.int/icd/entity/1359586520	Muscle of the thorax	br
+http://id.who.int/icd/entity/470772309	Muscle of trunk	http://id.who.int/icd/entity/955996865	Muscle of the abdomen	br
+http://id.who.int/icd/entity/470772309	Muscle of trunk	http://id.who.int/icd/entity/507472176	Muscle of the back	br
+http://id.who.int/icd/entity/1577074073	Skull	http://id.who.int/icd/entity/703099594	Cranial Bones	br
+http://id.who.int/icd/entity/1577074073	Skull	http://id.who.int/icd/entity/618487030	Calvarium	br
+http://id.who.int/icd/entity/1577074073	Skull	http://id.who.int/icd/entity/1757281176	Facial bones	br
+http://id.who.int/icd/entity/1480717454	Muscle of upper arm	http://id.who.int/icd/entity/720361080	Muscles of the upper extremity	na
+http://id.who.int/icd/entity/144547149	Bone of upper arm	http://id.who.int/icd/entity/672187873	Bones of the upper extremity	eq
+http://id.who.int/icd/entity/144547149	Bone of upper arm	http://id.who.int/icd/entity/759525864	Humerus	eq
+http://id.who.int/icd/entity/2027130048	Ligament or fascia of forearm	http://id.who.int/icd/entity/1477228030	Forearm	na
+http://id.who.int/icd/entity/2027130048	Ligament or fascia of forearm	http://id.who.int/icd/entity/1919500700	Interosseous membrane of forearm	br
+http://id.who.int/icd/entity/2027130048	Ligament or fascia of forearm	http://id.who.int/icd/entity/874641444	Palmar aponeurosis	br
+http://id.who.int/icd/entity/2027130048	Ligament or fascia of forearm	http://id.who.int/icd/entity/2141720548	Ligament of the wrist and hand	br
+http://id.who.int/icd/entity/600261037	Tendon of upper arm	http://id.who.int/icd/entity/1477031686	Tendons of the upper extremity	na
+http://id.who.int/icd/entity/1917281666	Larynx and epiglottis	http://id.who.int/icd/entity/1422142995	Larynx	br
+http://id.who.int/icd/entity/1917281666	Larynx and epiglottis	http://id.who.int/icd/entity/32483589	Epiglottis	br
+http://id.who.int/icd/entity/1610098461	Set of thoracic viscera	http://id.who.int/icd/entity/657169140	Organs of the Thorax	eq
+http://id.who.int/icd/entity/1610098461	Set of thoracic viscera	http://id.who.int/icd/entity/2056578963	Thoracic trachea	br
+http://id.who.int/icd/entity/1610098461	Set of thoracic viscera	http://id.who.int/icd/entity/1535151273	Thoracic oesophagus	br
+http://id.who.int/icd/entity/1610098461	Set of thoracic viscera	http://id.who.int/icd/entity/335892208	Thoracic vertebra	NO
+http://id.who.int/icd/entity/1610098461	Set of thoracic viscera	http://id.who.int/icd/entity/650081113	Thorax	na
+http://id.who.int/icd/entity/1254117213	Pancreas and pancreatic duct	http://id.who.int/icd/entity/372485507	Pancreatic duct	br
+http://id.who.int/icd/entity/1254117213	Pancreas and pancreatic duct	http://id.who.int/icd/entity/532265365	Pancreas	br
+http://id.who.int/icd/entity/1124598374	Mouth or pharynx	http://id.who.int/icd/entity/1337584902	Mouth	br
+http://id.who.int/icd/entity/1124598374	Mouth or pharynx	http://id.who.int/icd/entity/899820155	Pharynx	br
+http://id.who.int/icd/entity/587734217	Prostate and seminal vesicle	http://id.who.int/icd/entity/1784009725	Prostate gland	br
+http://id.who.int/icd/entity/587734217	Prostate and seminal vesicle	http://id.who.int/icd/entity/254558521	Seminal vesicle	br
+http://id.who.int/icd/entity/2017734770	Abdominal vessels	http://id.who.int/icd/entity/553603158	Artery of abdomen	br
+http://id.who.int/icd/entity/2017734770	Abdominal vessels	http://id.who.int/icd/entity/389580608	Vein of abdomen	br
+http://id.who.int/icd/entity/1659303484	"Carotid artery, extracranial"	http://id.who.int/icd/entity/34787577	Carotid artery	na
+http://id.who.int/icd/entity/1659303484	"Carotid artery, extracranial"	http://id.who.int/icd/entity/420574304	Common carotid artery	na
+http://id.who.int/icd/entity/1659303484	"Carotid artery, extracranial"	http://id.who.int/icd/entity/980718560	Internal carotid artery	na
+http://id.who.int/icd/entity/1659303484	"Carotid artery, extracranial"	http://id.who.int/icd/entity/807921792	External carotid artery	na
+http://id.who.int/icd/entity/622376730	Skin and subcutaneous cell tissue of the upper limb	http://id.who.int/icd/entity/2046770427	Skin of upper limb	br
+http://id.who.int/icd/entity/622376730	Skin and subcutaneous cell tissue of the upper limb	http://id.who.int/icd/entity/979078546	Subcutaneous fat	overlap
+http://id.who.int/icd/entity/622376730	Skin and subcutaneous cell tissue of the upper limb	http://id.who.int/icd/entity/586230733	Hypodermis	overlap
+http://id.who.int/icd/entity/476340315	Bone of thigh	http://id.who.int/icd/entity/805764304	Bones of the lower extremity	na
+http://id.who.int/icd/entity/476340315	Bone of thigh	http://id.who.int/icd/entity/983135600	Femur	eq
+http://id.who.int/icd/entity/476340315	Bone of thigh	http://id.who.int/icd/entity/435983056	Patella	NO
+http://id.who.int/icd/entity/1523553917	Tonsil or adenoid	http://id.who.int/icd/entity/320372230	Palatine tonsil	br
+http://id.who.int/icd/entity/1523553917	Tonsil or adenoid	http://id.who.int/icd/entity/457837468	Adenoid	br
+http://id.who.int/icd/entity/270496624	Skin and subcutaneous cell tissue of the lower limb	http://id.who.int/icd/entity/975825478	Skin of lower limb and hip	br
+http://id.who.int/icd/entity/270496624	Skin and subcutaneous cell tissue of the lower limb	http://id.who.int/icd/entity/586230733	Hypodermis	br
+http://id.who.int/icd/entity/2141551567	Lymph node of abdomen or pelvic region	http://id.who.int/icd/entity/254553021	Intra-abdominal lymph nodes	br
+http://id.who.int/icd/entity/2141551567	Lymph node of abdomen or pelvic region	http://id.who.int/icd/entity/1684754131	Obturator lymph node	br
+http://id.who.int/icd/entity/2141551567	Lymph node of abdomen or pelvic region	http://id.who.int/icd/entity/970208182	Lymphatic system of the abdomen	overlap
+http://id.who.int/icd/entity/2141551567	Lymph node of abdomen or pelvic region	http://id.who.int/icd/entity/1627827466	Pelvic lymph nodes	br
+http://id.who.int/icd/entity/1651585906	Ocular muscles	http://id.who.int/icd/entity/1639496499	Extraocular muscle	eq
+http://id.who.int/icd/entity/504363578	Ear and mastoid targets	http://id.who.int/icd/entity/1951862703	Mastoid	br
+http://id.who.int/icd/entity/504363578	Ear and mastoid targets	http://id.who.int/icd/entity/1144556225	Ear	br
+http://id.who.int/icd/entity/504363578	Ear and mastoid targets	http://id.who.int/icd/entity/583069829	Auditory system	br
+http://id.who.int/icd/entity/45007873	Vessels of head and neck	http://id.who.int/icd/entity/1417479265	Blood vessel of the neck	br
+http://id.who.int/icd/entity/45007873	Vessels of head and neck	http://id.who.int/icd/entity/852143287	"Artery of head, face, and neck"	br
+http://id.who.int/icd/entity/45007873	Vessels of head and neck	http://id.who.int/icd/entity/821283472	"Vein of head, face, and neck"	br
+http://id.who.int/icd/entity/45007873	Vessels of head and neck	http://id.who.int/icd/entity/562908439	nan	br
+http://id.who.int/icd/entity/2106976032	Intracranial vein	http://id.who.int/icd/entity/1426765432	Cerebral vein	br
+http://id.who.int/icd/entity/2106976032	Intracranial vein	http://id.who.int/icd/entity/832846369	Veins	na
+http://id.who.int/icd/entity/2106976032	Intracranial vein	http://id.who.int/icd/entity/562908439	nan	??
+http://id.who.int/icd/entity/1958236855	Joint of head or neck	http://id.who.int/icd/entity/864772028	Joints and ligaments of the head and neck	na
+http://id.who.int/icd/entity/1958236855	Joint of head or neck	http://id.who.int/icd/entity/1363003152	Joints of the head	na
+http://id.who.int/icd/entity/1488798284	Abdominal or pelvic artery	http://id.who.int/icd/entity/553603158	Artery of abdomen	br
+http://id.who.int/icd/entity/1488798284	Abdominal or pelvic artery	http://id.who.int/icd/entity/1421585111	Artery of pelvis	br
+http://id.who.int/icd/entity/2002389138	Abdominal or pelvic vein	http://id.who.int/icd/entity/389580608	Vein of abdomen	br
+http://id.who.int/icd/entity/2002389138	Abdominal or pelvic vein	http://id.who.int/icd/entity/553603158	Artery of abdomen	br
+http://id.who.int/icd/entity/2002389138	Abdominal or pelvic vein	http://id.who.int/icd/entity/929449332	Vein of pelvis	br
+http://id.who.int/icd/entity/1043581074	Skin and subcutaneous cell tissue of trunk	http://id.who.int/icd/entity/265477888	Skin of trunk	br
+http://id.who.int/icd/entity/1043581074	Skin and subcutaneous cell tissue of trunk	http://id.who.int/icd/entity/338111831	Skin of thorax	br
+http://id.who.int/icd/entity/1043581074	Skin and subcutaneous cell tissue of trunk	http://id.who.int/icd/entity/979078546	Subcutaneous fat	br
+http://id.who.int/icd/entity/1043581074	Skin and subcutaneous cell tissue of trunk	http://id.who.int/icd/entity/586230733	Hypodermis	br
+http://id.who.int/icd/entity/1368455141	Lumbosacral vertebral column	http://id.who.int/icd/entity/929081680	Lumbar vertebra	br
+http://id.who.int/icd/entity/1368455141	Lumbosacral vertebral column	http://id.who.int/icd/entity/345356612	Lumbosacral intervertebral disc or space L5-S1	br
+http://id.who.int/icd/entity/1368455141	Lumbosacral vertebral column	http://id.who.int/icd/entity/501035478	Lumbosacral region	na OR overlap
+http://id.who.int/icd/entity/1368455141	Lumbosacral vertebral column	http://id.who.int/icd/entity/1849866651	First lumbar vertebra	br
+http://id.who.int/icd/entity/1368455141	Lumbosacral vertebral column	http://id.who.int/icd/entity/1361912339	Second lumbar vertebra	br
+http://id.who.int/icd/entity/1296525914	"Sympathetic nervous system, cervical"	http://id.who.int/icd/entity/225409574	Sympathetic nervous system	na
+http://id.who.int/icd/entity/1833316600	Ligament or fascia of upper arm	http://id.who.int/icd/entity/131834102	Ligaments of the upper extremity	br
+http://id.who.int/icd/entity/1833316600	Ligament or fascia of upper arm	http://id.who.int/icd/entity/443625892	Ligament of the elbow	br
+http://id.who.int/icd/entity/1737088886	Ligament or fascia of trunk	http://id.who.int/icd/entity/1050605669	Ligaments of the thorax	br
+http://id.who.int/icd/entity/1737088886	Ligament or fascia of trunk	http://id.who.int/icd/entity/461235915	Joints and ligaments	br
+http://id.who.int/icd/entity/1737088886	Ligament or fascia of trunk	http://id.who.int/icd/entity/947150833	Trunk	na
+http://id.who.int/icd/entity/1736379844	Knee tendon	http://id.who.int/icd/entity/810692620	Quadriceps femoris tendon	br
+http://id.who.int/icd/entity/1736379844	Knee tendon	http://id.who.int/icd/entity/1321950693	Tendons of the lower extremity	na
+http://id.who.int/icd/entity/1736379844	Knee tendon	http://id.who.int/icd/entity/1670056745	Knee	na
+http://id.who.int/icd/entity/1736379844	Knee tendon	http://id.who.int/icd/entity/1617949731	Tendons	na
+http://id.who.int/icd/entity/1736379844	Knee tendon	http://id.who.int/icd/entity/726766741	Anterior ligament of the lower extremity	NO
+http://id.who.int/icd/entity/1566349726	Joint of pelvic region	http://id.who.int/icd/entity/192726145	Joints of the pelvis	eq- 
+http://id.who.int/icd/entity/1566349726	Joint of pelvic region	http://id.who.int/icd/entity/625587547	Joints and ligaments of the pelvis and perineum	na 
+http://id.who.int/icd/entity/1667015774	Female genital system	http://id.who.int/icd/entity/344632447	Female genital organs	eq
+http://id.who.int/icd/entity/1667015774	Female genital system	http://id.who.int/icd/entity/1803734370	Genitourinary system	eq
+http://id.who.int/icd/entity/932777163	Muscle of pelvic region	http://id.who.int/icd/entity/107652911	Muscles of the pelvis and perineum	eq
+http://id.who.int/icd/entity/932777163	Muscle of pelvic region	http://id.who.int/icd/entity/1448567552	Muscles	na
+http://id.who.int/icd/entity/126914441	Muscle of lower leg	nan	nan	na
+http://id.who.int/icd/entity/126914441	Muscle of lower leg	http://id.who.int/icd/entity/106050921	Lower leg	na
+http://id.who.int/icd/entity/126914441	Muscle of lower leg	http://id.who.int/icd/entity/864968000	Muscles of the lower extremity	eq
+http://id.who.int/icd/entity/215407045	Musculoskeletal structures of knee	http://id.who.int/icd/entity/1574110781	Knee joint	br
+http://id.who.int/icd/entity/215407045	Musculoskeletal structures of knee	http://id.who.int/icd/entity/391521938	Ligament of the knee	br
+http://id.who.int/icd/entity/215407045	Musculoskeletal structures of knee	http://id.who.int/icd/entity/1670056745	Knee	na
+http://id.who.int/icd/entity/215407045	Musculoskeletal structures of knee	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/131254121	Tendon of thigh	http://id.who.int/icd/entity/238202718	Thigh	na
+http://id.who.int/icd/entity/131254121	Tendon of thigh	http://id.who.int/icd/entity/1321950693	Tendons of the lower extremity	na
+http://id.who.int/icd/entity/131254121	Tendon of thigh	http://id.who.int/icd/entity/1617949731	Tendons	na
+http://id.who.int/icd/entity/1841873512	"Soft tissue of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/623958825	nan	nan
+http://id.who.int/icd/entity/1841873512	"Soft tissue of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/1149143049	Skin of upper limb and shoulder	nan
+http://id.who.int/icd/entity/1990325518	Ligament or fascia of pelvic region	http://id.who.int/icd/entity/32596973	Ligaments of the pelvis and perineum	br
+http://id.who.int/icd/entity/1990325518	Ligament or fascia of pelvic region	http://id.who.int/icd/entity/1258542550	Fascia	overlap
+http://id.who.int/icd/entity/1990325518	Ligament or fascia of pelvic region	http://id.who.int/icd/entity/625587547	Joints and ligaments of the pelvis and perineum	na
+http://id.who.int/icd/entity/1990325518	Ligament or fascia of pelvic region	http://id.who.int/icd/entity/461235915	Joints and ligaments	overlap
+http://id.who.int/icd/entity/948656764	Tendon of pelvic region	http://id.who.int/icd/entity/1089203821	Tendons of the pelvis and perineum	na
+http://id.who.int/icd/entity/948656764	Tendon of pelvic region	http://id.who.int/icd/entity/1617949731	Tendons	na
+http://id.who.int/icd/entity/948656764	Tendon of pelvic region	http://id.who.int/icd/entity/107652911	Muscles of the pelvis and perineum	NO
+http://id.who.int/icd/entity/1747156418	Musculoskeletal structures of thigh	http://id.who.int/icd/entity/238202718	Thigh	na
+http://id.who.int/icd/entity/1747156418	Musculoskeletal structures of thigh	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/1093092436	Hip cartilage	http://id.who.int/icd/entity/421186462	Trochanteric region	na
+http://id.who.int/icd/entity/1093092436	Hip cartilage	http://id.who.int/icd/entity/711315902	Cartilage	na
+http://id.who.int/icd/entity/141664053	Coronary arteries or great vessels	http://id.who.int/icd/entity/1612889623	Coronary arteries	br
+http://id.who.int/icd/entity/141664053	Coronary arteries or great vessels	http://id.who.int/icd/entity/1072551383	Great cerebral vein	br
+http://id.who.int/icd/entity/877353552	Bone of thoracic cage	http://id.who.int/icd/entity/128614976	Bones of the thorax	eq
+http://id.who.int/icd/entity/408878611	Ventricular septum	http://id.who.int/icd/entity/1082307091	Interventricular septum	eq
+http://id.who.int/icd/entity/408878611	Ventricular septum	http://id.who.int/icd/entity/1470813907	Atrioventricular septum	eq
+http://id.who.int/icd/entity/1392271198	"Vessels, not elsewhere classified"	http://id.who.int/icd/entity/1206540937	Blood Vessels	nan
+http://id.who.int/icd/entity/1392271198	"Vessels, not elsewhere classified"	http://id.who.int/icd/entity/562908439	nan	nan
+http://id.who.int/icd/entity/1392271198	"Vessels, not elsewhere classified"	http://id.who.int/icd/entity/721480315	nan	nan
+http://id.who.int/icd/entity/842070925	Musculoskeletal structures of lower leg	http://id.who.int/icd/entity/106050921	Lower leg	na
+http://id.who.int/icd/entity/842070925	Musculoskeletal structures of lower leg	http://id.who.int/icd/entity/864968000	Muscles of the lower extremity	na
+http://id.who.int/icd/entity/842070925	Musculoskeletal structures of lower leg	http://id.who.int/icd/entity/1321950693	Tendons of the lower extremity	na
+http://id.who.int/icd/entity/842070925	Musculoskeletal structures of lower leg	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/446377708	Tonsil	http://id.who.int/icd/entity/320372230	Palatine tonsil	br
+http://id.who.int/icd/entity/446377708	Tonsil	http://id.who.int/icd/entity/1690782134	Lingual tonsil	br
+http://id.who.int/icd/entity/327977487	"Musculoskeletal structures of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/805764304	Bones of the lower extremity	NO
+http://id.who.int/icd/entity/327977487	"Musculoskeletal structures of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/864968000	Muscles of the lower extremity	NO
+http://id.who.int/icd/entity/327977487	"Musculoskeletal structures of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/1321950693	Tendons of the lower extremity	NO
+http://id.who.int/icd/entity/327977487	"Musculoskeletal structures of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/8274514	Joints and ligaments of the lower extremity	NO
+http://id.who.int/icd/entity/66154229	Male genital system	http://id.who.int/icd/entity/1678247922	Male genital organs	eq
+http://id.who.int/icd/entity/66154229	Male genital system	http://id.who.int/icd/entity/1803734370	Genitourinary system	na
+http://id.who.int/icd/entity/1124202638	"Eye, posterior segment structures"	http://id.who.int/icd/entity/345073538	Posterior chamber of the eye	br
+http://id.who.int/icd/entity/1124202638	"Eye, posterior segment structures"	http://id.who.int/icd/entity/2055915829	Eye	na
+http://id.who.int/icd/entity/412862209	"Eye, anterior segment structures"	http://id.who.int/icd/entity/2055915829	Eye	br
+http://id.who.int/icd/entity/412862209	"Eye, anterior segment structures"	http://id.who.int/icd/entity/770296514	Anterior chamber of the eye	br
+http://id.who.int/icd/entity/1845252230	Ventricular system of brain	nan	nan	eq
+http://id.who.int/icd/entity/1845252230	Ventricular system of brain	http://id.who.int/icd/entity/1651949308	Cerebral ventricle	eq
+http://id.who.int/icd/entity/957281389	Vitreous body	http://id.who.int/icd/entity/2088597502	Vitreous humor	eq
+http://id.who.int/icd/entity/1746474250	Tendon of forearm	http://id.who.int/icd/entity/1477228030	Forearm	na
+http://id.who.int/icd/entity/1746474250	Tendon of forearm	http://id.who.int/icd/entity/1617949731	Tendons	na
+http://id.who.int/icd/entity/1746474250	Tendon of forearm	http://id.who.int/icd/entity/1477031686	Tendons of the upper extremity	na
+http://id.who.int/icd/entity/1757840722	Knee ligament	http://id.who.int/icd/entity/391521938	Ligament of the knee	eq
+http://id.who.int/icd/entity/801024522	"Blood vessel, not elsewhere classified"	http://id.who.int/icd/entity/1206540937	Blood Vessels	nan
+http://id.who.int/icd/entity/801024522	"Blood vessel, not elsewhere classified"	http://id.who.int/icd/entity/562908439	nan	nan
+http://id.who.int/icd/entity/801024522	"Blood vessel, not elsewhere classified"	http://id.who.int/icd/entity/721480315	nan	nan
+http://id.who.int/icd/entity/1309023825	Ligament or fascia of head or neck	http://id.who.int/icd/entity/439298507	Ligaments of the head and neck	br
+http://id.who.int/icd/entity/1309023825	Ligament or fascia of head or neck	http://id.who.int/icd/entity/864772028	Joints and ligaments of the head and neck	na
+http://id.who.int/icd/entity/142108125	Bone of shoulder region	http://id.who.int/icd/entity/1091984320	Bones of the shoulder girdle	br
+http://id.who.int/icd/entity/1798224643	Lumbar vertebral column	http://id.who.int/icd/entity/929081680	Lumbar vertebra	eq
+http://id.who.int/icd/entity/1798224643	Lumbar vertebral column	http://id.who.int/icd/entity/1403484535	Lumbar spinal cord	eq
+http://id.who.int/icd/entity/1735141350	Joint of the shoulder region	http://id.who.int/icd/entity/719727487	Shoulder joint	eq
+http://id.who.int/icd/entity/1046564174	Thoracic vertebral column	http://id.who.int/icd/entity/335892208	Thoracic vertebra	eq
+http://id.who.int/icd/entity/1046564174	Thoracic vertebral column	http://id.who.int/icd/entity/405704375	Vertebral column	eq
+http://id.who.int/icd/entity/1046564174	Thoracic vertebral column	http://id.who.int/icd/entity/914245431	Thoracic spinal cord	eq
+http://id.who.int/icd/entity/606499736	Cervicothoracic vertebral column	http://id.who.int/icd/entity/335892208	Thoracic vertebra	br
+http://id.who.int/icd/entity/606499736	Cervicothoracic vertebral column	http://id.who.int/icd/entity/53291568	Cervical vertebra	br
+http://id.who.int/icd/entity/606499736	Cervicothoracic vertebral column	http://id.who.int/icd/entity/405704375	Vertebral column	br
+http://id.who.int/icd/entity/606499736	Cervicothoracic vertebral column	http://id.who.int/icd/entity/229382520	Cervicothoracic disc or space C7-T1	br
+http://id.who.int/icd/entity/1818769736	Ligament or fascia of shoulder region	http://id.who.int/icd/entity/1020159779	Ligament of the shoulder	br
+http://id.who.int/icd/entity/569877754	Cervical vertebral column	http://id.who.int/icd/entity/53291568	Cervical vertebra	eq
+http://id.who.int/icd/entity/569877754	Cervical vertebral column	http://id.who.int/icd/entity/405704375	Vertebral column	eq
+http://id.who.int/icd/entity/569877754	Cervical vertebral column	http://id.who.int/icd/entity/559293431	Cervical spinal cord	eq
+http://id.who.int/icd/entity/457828382	Tendon of head or neck	http://id.who.int/icd/entity/1126217939	Tendons of the head and neck	na
+http://id.who.int/icd/entity/2063718949	Muscle of head or neck	http://id.who.int/icd/entity/1922573088	Muscles of the head and neck	na
+http://id.who.int/icd/entity/1632036095	Mastoid bone	http://id.who.int/icd/entity/1951862703	Mastoid	eq
+http://id.who.int/icd/entity/852820765	Knee cartilage	http://id.who.int/icd/entity/711315902	Cartilage	na
+http://id.who.int/icd/entity/852820765	Knee cartilage	http://id.who.int/icd/entity/1670056745	Knee	na
+http://id.who.int/icd/entity/199785384	Ethmoid	http://id.who.int/icd/entity/1445725814	Ethmoid bone	eq
+http://id.who.int/icd/entity/1953818825	"Facial bone, unspecified"	http://id.who.int/icd/entity/1757281176	Facial bones	eq
+http://id.who.int/icd/entity/2003436590	Wrist cartilage	http://id.who.int/icd/entity/1679928503	Wrist	na
+http://id.who.int/icd/entity/2003436590	Wrist cartilage	http://id.who.int/icd/entity/711315902	Cartilage	na
+http://id.who.int/icd/entity/55916959	Muscle of forearm	http://id.who.int/icd/entity/1477228030	Forearm	na
+http://id.who.int/icd/entity/55916959	Muscle of forearm	http://id.who.int/icd/entity/1448567552	Muscles	na
+http://id.who.int/icd/entity/55916959	Muscle of forearm	http://id.who.int/icd/entity/720361080	Muscles of the upper extremity	na
+http://id.who.int/icd/entity/1834293982	Musculoskeletal structures of foot or toes	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/1834293982	Musculoskeletal structures of foot or toes	http://id.who.int/icd/entity/1896004518	Foot	na
+http://id.who.int/icd/entity/848776189	Ligament or fascia of lower leg	http://id.who.int/icd/entity/726766741	Anterior ligament of the lower extremity	overlap
+http://id.who.int/icd/entity/848776189	Ligament or fascia of lower leg	http://id.who.int/icd/entity/106050921	Lower leg	na
+http://id.who.int/icd/entity/848776189	Ligament or fascia of lower leg	http://id.who.int/icd/entity/1281516466	Ligaments of the lower extremity	na
+http://id.who.int/icd/entity/493879587	Ankle cartilage	http://id.who.int/icd/entity/711315902	Cartilage	na
+http://id.who.int/icd/entity/493879587	Ankle cartilage	http://id.who.int/icd/entity/1106248434	Ankle	na
+http://id.who.int/icd/entity/826735230	Peritoneum and peritoneal cavity	http://id.who.int/icd/entity/1924631190	Peritoneum	br
+http://id.who.int/icd/entity/1148076461	Sacral vertebral column	http://id.who.int/icd/entity/563794423	Sacrum	eq
+http://id.who.int/icd/entity/1148076461	Sacral vertebral column	http://id.who.int/icd/entity/1495611560	Sacral spinal cord	eq
+http://id.who.int/icd/entity/842924453	Intracranial meninges	http://id.who.int/icd/entity/1979147242	Cerebral meninges	eq
+http://id.who.int/icd/entity/842924453	Intracranial meninges	nan	nan	eq
+http://id.who.int/icd/entity/1930603264	Pleura or thoracic spaces	http://id.who.int/icd/entity/805568052	Pleura	br
+http://id.who.int/icd/entity/1930603264	Pleura or thoracic spaces	http://id.who.int/icd/entity/634685795	Pleural cavity	br
+http://id.who.int/icd/entity/1930603264	Pleura or thoracic spaces	http://id.who.int/icd/entity/808756694	Thoracic discs or space	NO
+http://id.who.int/icd/entity/675567479	"Aorta, thoracic descending"	http://id.who.int/icd/entity/1113176014	Descending aorta	eq
+http://id.who.int/icd/entity/760822375	Right cardiac ventricle	http://id.who.int/icd/entity/979819998	Right ventricle	eq
+http://id.who.int/icd/entity/1474376270	"Vein of head and neck, extracranial"	http://id.who.int/icd/entity/821283472	"Vein of head, face, and neck"	eq
+http://id.who.int/icd/entity/1729025794	"Right heart, not elsewhere classified"	http://id.who.int/icd/entity/541780232	Right atrium	nan
+http://id.who.int/icd/entity/1729025794	"Right heart, not elsewhere classified"	http://id.who.int/icd/entity/979819998	Right ventricle	nan
+http://id.who.int/icd/entity/1729025794	"Right heart, not elsewhere classified"	http://id.who.int/icd/entity/1196650747	Heart	nan
+http://id.who.int/icd/entity/1223269852	"Left heart, not elsewhere classified"	http://id.who.int/icd/entity/1967609767	Left ventricle	nan
+http://id.who.int/icd/entity/1223269852	"Left heart, not elsewhere classified"	http://id.who.int/icd/entity/236819908	Left atrium	nan
+http://id.who.int/icd/entity/1223269852	"Left heart, not elsewhere classified"	http://id.who.int/icd/entity/1196650747	Heart	nan
+http://id.who.int/icd/entity/1380670358	Aortic arch	http://id.who.int/icd/entity/1433522958	Arch of the aorta	eq
+http://id.who.int/icd/entity/318380945	"Aorta, abdominal"	http://id.who.int/icd/entity/1812561486	Abdominal aorta	eq
+http://id.who.int/icd/entity/125537585	Sympathetic nervous system	http://id.who.int/icd/entity/225409574	Sympathetic nervous system	
+http://id.who.int/icd/entity/1487795958	Vena cava inferior	http://id.who.int/icd/entity/995291135	Inferior vena cava	eq
+http://id.who.int/icd/entity/680062217	Coronary artery	http://id.who.int/icd/entity/1612889623	Coronary arteries	eq
+http://id.who.int/icd/entity/305570287	Conducting system of heart	http://id.who.int/icd/entity/1578371115	Cardiac electrical conducting system	eq
+http://id.who.int/icd/entity/585151221	"Heart ventricle, unspecified"	http://id.who.int/icd/entity/2092798548	Cardiac ventricle	eq
+http://id.who.int/icd/entity/786458354	Left cardiac ventricle	http://id.who.int/icd/entity/1967609767	Left ventricle	eq
+http://id.who.int/icd/entity/2024516758	Tendon of lower leg	http://id.who.int/icd/entity/106050921	Lower leg	na
+http://id.who.int/icd/entity/2024516758	Tendon of lower leg	http://id.who.int/icd/entity/1321950693	Tendons of the lower extremity	na
+http://id.who.int/icd/entity/236524752	"Heart, ventricle"	http://id.who.int/icd/entity/2092798548	Cardiac ventricle	eq
+http://id.who.int/icd/entity/341715478	"Atrium, unspecified"	http://id.who.int/icd/entity/1170554644	Cardiac atrium	na
+http://id.who.int/icd/entity/625199150	Atrial septum	http://id.who.int/icd/entity/2046435155	Interatrial septum	eq
+http://id.who.int/icd/entity/351902308	"Heart, atrium"	http://id.who.int/icd/entity/1170554644	Cardiac atrium	eq
+http://id.who.int/icd/entity/519753624	Peripheral endocrine structures	http://id.who.int/icd/entity/409827719	Endocrine system	na
+http://id.who.int/icd/entity/1881504911	Cerebral endocrine structures	http://id.who.int/icd/entity/409827719	Endocrine system	na
+http://id.who.int/icd/entity/1281857988	Muscle of thigh	http://id.who.int/icd/entity/238202718	Thigh	na
+http://id.who.int/icd/entity/1281857988	Muscle of thigh	http://id.who.int/icd/entity/864968000	Muscles of the lower extremity	na
+http://id.who.int/icd/entity/1281857988	Muscle of thigh	http://id.who.int/icd/entity/1448567552	Muscles	na
+http://id.who.int/icd/entity/1159411497	Lymph node of mediastinum	http://id.who.int/icd/entity/210461818	Mediastinal lymph node	eq
+http://id.who.int/icd/entity/1880945501	Lymph node of axilla	http://id.who.int/icd/entity/1545444952	Axillary lymph node	eq
+http://id.who.int/icd/entity/260071476	Lymph node of neck	http://id.who.int/icd/entity/280674825	"Lymph nodes of head, face and neck"	na
+http://id.who.int/icd/entity/136536941	Artery of upper limb	http://id.who.int/icd/entity/1316314647	Artery of upper extremity	eq
+http://id.who.int/icd/entity/1754180040	Vein of upper limb	http://id.who.int/icd/entity/1725328867	Vein of upper extremity	eq
+http://id.who.int/icd/entity/397773529	Vessels of thorax	http://id.who.int/icd/entity/1314934431	Blood vessel of the thorax	eq
+http://id.who.int/icd/entity/1113443560	Portal vein and branches	http://id.who.int/icd/entity/843433937	Portal Vein	br
+http://id.who.int/icd/entity/1948554629	"Vertebral column, not elsewhere classified"	http://id.who.int/icd/entity/405704375	Vertebral column	nan
+http://id.who.int/icd/entity/250943160	"Intervertebral disc, not elsewhere classified"	http://id.who.int/icd/entity/1185858858	Intervertebral disc	nan
+http://id.who.int/icd/entity/2085050478	Shoulder cartilage	http://id.who.int/icd/entity/711315902	Cartilage	na
+http://id.who.int/icd/entity/408356091	Tendon of shoulder region	http://id.who.int/icd/entity/1020159779	Ligament of the shoulder	NO
+http://id.who.int/icd/entity/408356091	Tendon of shoulder region	http://id.who.int/icd/entity/1477031686	Tendons of the upper extremity	na
+http://id.who.int/icd/entity/408356091	Tendon of shoulder region	http://id.who.int/icd/entity/1617949731	Tendons	na
+http://id.who.int/icd/entity/1884766549	Nail of toe	http://id.who.int/icd/entity/1152552203	Great toenail	eq
+http://id.who.int/icd/entity/1884766549	Nail of toe	http://id.who.int/icd/entity/1605446036	Toenail	eq
+http://id.who.int/icd/entity/980133438	Nail of finger	http://id.who.int/icd/entity/2110398539	Fingernails	eq
+http://id.who.int/icd/entity/1165608911	Bile duct	http://id.who.int/icd/entity/964528740	Common bile duct	eq
+http://id.who.int/icd/entity/669454123	Bone of unspecified site	nan	nan	
+http://id.who.int/icd/entity/669454123	Bone of unspecified site	http://id.who.int/icd/entity/657365008	Bones	eq
+http://id.who.int/icd/entity/1066611646	"Large intestine, not elsewhere classified"	http://id.who.int/icd/entity/1741413713	Large intestine	nan
+http://id.who.int/icd/entity/960841317	"Small intestine, not elsewhere classified"	http://id.who.int/icd/entity/1928625572	Small intestine	nan
+http://id.who.int/icd/entity/379718843	"Oral cavity, not elsewhere classified"	http://id.who.int/icd/entity/2124171981	Oral cavity	nan
+http://id.who.int/icd/entity/936560455	Oral pharynx	http://id.who.int/icd/entity/2116804027	Oropharynx	eq
+http://id.who.int/icd/entity/2035529234	Salivary gland	http://id.who.int/icd/entity/1515005003	Salivary gland apparatus	na
+http://id.who.int/icd/entity/1233495306	Gums	http://id.who.int/icd/entity/1682501833	Gingivae	eq
+http://id.who.int/icd/entity/1653053508	Joint of foot or toe	http://id.who.int/icd/entity/355147270	Joint of the foot	eq
+http://id.who.int/icd/entity/1126252684	Mediastinal space	http://id.who.int/icd/entity/393131222	Mediastinum	eq
+http://id.who.int/icd/entity/1195418104	Nasal pharynx	http://id.who.int/icd/entity/1761851771	Nasopharynx	eq
+http://id.who.int/icd/entity/40009343	"Paranasal sinus, not elsewhere classified"	http://id.who.int/icd/entity/2037717603	Accessory sinuses	nan
+http://id.who.int/icd/entity/47164025	Ligament or fascia of foot or toe	http://id.who.int/icd/entity/1705475090	Ligament of the ankle or foot	br
+http://id.who.int/icd/entity/1483864114	Vein of lower limb	http://id.who.int/icd/entity/1381503063	Vein of lower extremity	eq
+http://id.who.int/icd/entity/970684871	Artery of lower limb	http://id.who.int/icd/entity/1508677205	Artery of lower extremity	eq
+http://id.who.int/icd/entity/474831665	Visual system targets	http://id.who.int/icd/entity/358111161	Visual system	eq
+http://id.who.int/icd/entity/664196587	Vena cava superior	http://id.who.int/icd/entity/1610376104	Superior vena cava	eq
+http://id.who.int/icd/entity/1893743641	Thoracolumbar vertebral column	http://id.who.int/icd/entity/929081680	Lumbar vertebra	br
+http://id.who.int/icd/entity/1893743641	Thoracolumbar vertebral column	http://id.who.int/icd/entity/335892208	Thoracic vertebra	br
+http://id.who.int/icd/entity/1893743641	Thoracolumbar vertebral column	http://id.who.int/icd/entity/521115724	Thoracolumbar intervertebral disc or space T12-L1	br
+http://id.who.int/icd/entity/1041789678	"Male genital system, not elsewhere classified"	http://id.who.int/icd/entity/1678247922	Male genital organs	nan
+http://id.who.int/icd/entity/2048894639	Internal ear	http://id.who.int/icd/entity/1393618433	Inner Ear	eq
+http://id.who.int/icd/entity/1582424117	Nervous system and mental function targets	nan	nan	br
+http://id.who.int/icd/entity/1582424117	Nervous system and mental function targets	http://id.who.int/icd/entity/340179422	Nervous system	br
+http://id.who.int/icd/entity/280143722	Thorax	http://id.who.int/icd/entity/650081113	Thorax	eq
+http://id.who.int/icd/entity/280143722	Thorax	nan	nan	eq
+http://id.who.int/icd/entity/1234157950	Fetal or embryonic structure	http://id.who.int/icd/entity/14011850	fetus	eq
+http://id.who.int/icd/entity/1234157950	Fetal or embryonic structure	http://id.who.int/icd/entity/594549745	Embryological structures	eq
+http://id.who.int/icd/entity/186627740	"Female genital system, not elsewhere classified"	http://id.who.int/icd/entity/344632447	Female genital organs	nan
+http://id.who.int/icd/entity/186627740	"Female genital system, not elsewhere classified"	http://id.who.int/icd/entity/1803734370	Genitourinary system	nan
+http://id.who.int/icd/entity/2048669745	"Trunk, not otherwise specified"	http://id.who.int/icd/entity/947150833	Trunk	nan
+http://id.who.int/icd/entity/1084388567	"Head or neck, not otherwise specified"	http://id.who.int/icd/entity/223243926	Head and neck	nan
+http://id.who.int/icd/entity/632644380	"Chest wall, not otherwise specified"	http://id.who.int/icd/entity/1656376572	Chest wall	nan
+http://id.who.int/icd/entity/1252073765	"Lower limb, not otherwise specified"	http://id.who.int/icd/entity/2093217246	Lower Extremity	nan
+http://id.who.int/icd/entity/1517009043	Finger	http://id.who.int/icd/entity/822750113	Fingers and thumb	eq
+http://id.who.int/icd/entity/764367063	"Soft tissue of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/623958825	nan	nan
+http://id.who.int/icd/entity/764367063	"Soft tissue of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/2093217246	Lower Extremity	nan
+http://id.who.int/icd/entity/1332803147	"Abdominal wall, not otherwise specified"	http://id.who.int/icd/entity/119571850	Abdominal wall	nan
+http://id.who.int/icd/entity/1694769947	"Upper limb, not otherwise specified"	http://id.who.int/icd/entity/986233688	Upper Extremity	nan
+http://id.who.int/icd/entity/888554348	"Abdominal wall, inguinal"	http://id.who.int/icd/entity/2105593940	Lower abdomen	na
+http://id.who.int/icd/entity/888554348	"Abdominal wall, inguinal"	http://id.who.int/icd/entity/119571850	Abdominal wall	na
+http://id.who.int/icd/entity/1439838209	Upper arm	http://id.who.int/icd/entity/312192089	Upper arm	eq
+http://id.who.int/icd/entity/1174229287	"Topographical regions: Upper limb, not otherwise specified"	http://id.who.int/icd/entity/986233688	Upper Extremity	nan
+http://id.who.int/icd/entity/1606053885	"Abdominal wall, femoral"	http://id.who.int/icd/entity/119571850	Abdominal wall	na
+http://id.who.int/icd/entity/2013456078	Intracranial space	http://id.who.int/icd/entity/1074640675	Cranial Cavity	na
+http://id.who.int/icd/entity/2013456078	Intracranial space	http://id.who.int/icd/entity/277341308	Subdural space	br
+http://id.who.int/icd/entity/1790815113	"Abdominal wall, umbilical"	http://id.who.int/icd/entity/1660533706	Anterior abdominal wall	na
+http://id.who.int/icd/entity/1790815113	"Abdominal wall, umbilical"	http://id.who.int/icd/entity/119571850	Abdominal wall	na
+http://id.who.int/icd/entity/2132839209	"Urinary system, not elsewhere classified"	http://id.who.int/icd/entity/1223109342	Urinary system	nan
+http://id.who.int/icd/entity/2132839209	"Urinary system, not elsewhere classified"	http://id.who.int/icd/entity/1803734370	Genitourinary system	nan
+http://id.who.int/icd/entity/1124000456	"Sympathetic nervous system, not elsewhere classified"	http://id.who.int/icd/entity/225409574	Sympathetic nervous system	nan
+http://id.who.int/icd/entity/1943530390	Anterior chamber of eye	http://id.who.int/icd/entity/770296514	Anterior chamber of the eye	eq
+http://id.who.int/icd/entity/1713987038	Lens	http://id.who.int/icd/entity/142316469	Crystalline lens	eq
+http://id.who.int/icd/entity/112085765	Urinary system	http://id.who.int/icd/entity/1223109342	Urinary system	eq
+http://id.who.int/icd/entity/474924463	Genitourinary system targets	http://id.who.int/icd/entity/1803734370	Genitourinary system	eq
+http://id.who.int/icd/entity/1819008596	Renal pelvis and pyeloureteral junction	http://id.who.int/icd/entity/1478200844	Renal pelvis	br
+http://id.who.int/icd/entity/109352821	Posterior segment structures of eyeball	http://id.who.int/icd/entity/345073538	Posterior chamber of the eye	eq
+http://id.who.int/icd/entity/919991709	Pulmonary vein	http://id.who.int/icd/entity/1210083104	Pulmonary vein	eq
+http://id.who.int/icd/entity/1297301694	Pulmonary artery	http://id.who.int/icd/entity/2034447649	Pulmonary artery	eq
+http://id.who.int/icd/entity/1040432554	Thyroid gland	http://id.who.int/icd/entity/485621173	Thyroid gland	eq
+http://id.who.int/icd/entity/2130793761	"Topographical regions: Set of viscera, not otherwise specified"	http://id.who.int/icd/entity/1910628372	Body Organ	
+http://id.who.int/icd/entity/2130793761	"Topographical regions: Set of viscera, not otherwise specified"	http://id.who.int/icd/entity/657169140	Organs of the Thorax	
+http://id.who.int/icd/entity/1784173337	"Topographical regions: Lower limb, not otherwise specified"	http://id.who.int/icd/entity/2093217246	Lower Extremity	nan
+http://id.who.int/icd/entity/59799817	Tricuspid valve	http://id.who.int/icd/entity/782339812	Tricuspid valve	eq
+http://id.who.int/icd/entity/365215862	Set of female pelvic viscera	http://id.who.int/icd/entity/344632447	Female genital organs	eq
+http://id.who.int/icd/entity/490967811	Ascending aorta	http://id.who.int/icd/entity/662735246	Ascending aorta	eq
+http://id.who.int/icd/entity/406189085	Intracranial artery	http://id.who.int/icd/entity/1997200087	Intracranial artery	eq
+http://id.who.int/icd/entity/1764643560	Turbinate	http://id.who.int/icd/entity/2101356417	Nasal turbinate	eq
+http://id.who.int/icd/entity/1378936096	Artery of thorax	http://id.who.int/icd/entity/1885434231	Artery of thorax	eq
+http://id.who.int/icd/entity/2065785379	Pituitary gland	http://id.who.int/icd/entity/294069435	Pituitary gland	eq
+http://id.who.int/icd/entity/1459931870	Vein of thorax	http://id.who.int/icd/entity/1832356831	Vein of thorax	eq
+http://id.who.int/icd/entity/2110992800	Cranial nerve	http://id.who.int/icd/entity/2108063439	Cranial Nerve	eq
+http://id.who.int/icd/entity/785599416	Brain	http://id.who.int/icd/entity/1048482858	Brain	eq
+http://id.who.int/icd/entity/563530370	Set of male pelvic viscera	http://id.who.int/icd/entity/1678247922	Male genital organs	eq
+http://id.who.int/icd/entity/835796792	Endocrine pancreas	http://id.who.int/icd/entity/828784486	Pancreatic islets	eq
+http://id.who.int/icd/entity/678237593	Pulmonary valve	http://id.who.int/icd/entity/965339684	Pulmonary valve	
+http://id.who.int/icd/entity/1595818259	Haematopoietic and lymphatic system targets	http://id.who.int/icd/entity/194670149	Lymphatic system	overlap OR br
+http://id.who.int/icd/entity/1595818259	Haematopoietic and lymphatic system targets	http://id.who.int/icd/entity/256187719	Haematopoietic system	overlap OR br
+http://id.who.int/icd/entity/331290671	Endocardium	http://id.who.int/icd/entity/1350243387	Endocardium	eq
+http://id.who.int/icd/entity/1236049508	Mitral valve	http://id.who.int/icd/entity/15812452	Mitral valve	eq
+http://id.who.int/icd/entity/2038074744	Atrioventricular septum	http://id.who.int/icd/entity/1470813907	Atrioventricular septum	eq
+http://id.who.int/icd/entity/401045121	Aortic valve	http://id.who.int/icd/entity/400106404	Aortic valve	eq
+http://id.who.int/icd/entity/657548699	Myocardium	http://id.who.int/icd/entity/2134193116	Myocardium	eq
+http://id.who.int/icd/entity/924714173	Heart valves	http://id.who.int/icd/entity/1912610276	Heart valve	eq
+http://id.who.int/icd/entity/1590000911	Right atrium	http://id.who.int/icd/entity/541780232	Right atrium	eq
+http://id.who.int/icd/entity/255270272	Left atrium	http://id.who.int/icd/entity/236819908	Left atrium	eq
+http://id.who.int/icd/entity/495921533	Pericardium	http://id.who.int/icd/entity/1266200740	Pericardium	eq
+http://id.who.int/icd/entity/802058050	Circulatory system targets	http://id.who.int/icd/entity/2079332103	Circulatory system	eq
+http://id.who.int/icd/entity/81197890	Paraganglion	http://id.who.int/icd/entity/312688159	Paraganglion	eq
+http://id.who.int/icd/entity/191853520	Adrenal gland	http://id.who.int/icd/entity/72373228	Adrenal gland	eq
+http://id.who.int/icd/entity/1047050150	Parathyroid gland	http://id.who.int/icd/entity/1963131822	Parathyroid gland	eq
+http://id.who.int/icd/entity/668821475	Elbow cartilage	http://id.who.int/icd/entity/711315902	Cartilage	na
+http://id.who.int/icd/entity/1838825024	Parasympathetic nervous system	http://id.who.int/icd/entity/440868582	Parasympathetic nervous system	eq
+http://id.who.int/icd/entity/1540886559	Endocrine system targets	http://id.who.int/icd/entity/409827719	Endocrine system	eq
+http://id.who.int/icd/entity/1830397974	Peripheral nervous system	http://id.who.int/icd/entity/759043230	Peripheral nervous system	eq
+http://id.who.int/icd/entity/1038622055	Upper respiratory tract	http://id.who.int/icd/entity/2033392163	Upper respiratory tract	eq
+http://id.who.int/icd/entity/1116225868	Extraocular muscle	http://id.who.int/icd/entity/1639496499	Extraocular muscle	eq
+http://id.who.int/icd/entity/482585007	Retina	http://id.who.int/icd/entity/1900566978	Retina	eq
+http://id.who.int/icd/entity/700739035	Sclera	http://id.who.int/icd/entity/1211167874	Sclera	eq
+http://id.who.int/icd/entity/216844425	Ciliary body	http://id.who.int/icd/entity/921333339	Ciliary body	eq
+http://id.who.int/icd/entity/420642497	Iris	http://id.who.int/icd/entity/566364827	Iris	eq
+http://id.who.int/icd/entity/1918784088	Cornea	http://id.who.int/icd/entity/985771522	Cornea	eq
+http://id.who.int/icd/entity/1478388836	Spinal nerve	http://id.who.int/icd/entity/376233663	Spinal nerve	eq
+http://id.who.int/icd/entity/478314449	Neck of urinary bladder	http://id.who.int/icd/entity/508369172	Trigone of bladder	????
+http://id.who.int/icd/entity/478314449	Neck of urinary bladder	http://id.who.int/icd/entity/1819091795	Bladder neck	eq
+http://id.who.int/icd/entity/1385417488	Spinal cord	http://id.who.int/icd/entity/1150229943	Spinal cord	eq
+http://id.who.int/icd/entity/647503321	Conjunctiva	http://id.who.int/icd/entity/470130163	Conjunctiva	eq
+http://id.who.int/icd/entity/329243053	Orbit	http://id.who.int/icd/entity/822296309	Orbit	eq
+http://id.who.int/icd/entity/409824307	Tendon of unspecified site	http://id.who.int/icd/entity/1617949731	Tendons	eq
+http://id.who.int/icd/entity/653465559	Lacrimal apparatus	http://id.who.int/icd/entity/28784496	Lacrimal apparatus	eq
+http://id.who.int/icd/entity/1018439949	Eyelid	http://id.who.int/icd/entity/1142633691	Eyelids	eq
+http://id.who.int/icd/entity/701972089	Soft tissue of unspecified site	http://id.who.int/icd/entity/751853343	nan	
+http://id.who.int/icd/entity/1381075800	Muscle of unspecified site	http://id.who.int/icd/entity/1448567552	Muscles	eq
+http://id.who.int/icd/entity/1733709614	Joint of unspecified site	http://id.who.int/icd/entity/1041587014	Ligaments and joints of multiple sites	na
+http://id.who.int/icd/entity/1733709614	Joint of unspecified site	http://id.who.int/icd/entity/461235915	Joints and ligaments	na
+http://id.who.int/icd/entity/304253705	Spinal meninges	http://id.who.int/icd/entity/1284492970	Spinal meninges	eq
+http://id.who.int/icd/entity/447900678	Eyeball	http://id.who.int/icd/entity/662741980	Eyeball	eq
+http://id.who.int/icd/entity/549150126	Spleen	http://id.who.int/icd/entity/143777109	Spleen	eq
+http://id.who.int/icd/entity/1525077139	Inner ear	http://id.who.int/icd/entity/1393618433	Inner Ear	eq
+http://id.who.int/icd/entity/1249822969	Blood	http://id.who.int/icd/entity/2062516965	Blood	eq
+http://id.who.int/icd/entity/181373184	Bone marrow	http://id.who.int/icd/entity/1086407971	Bone marrow	eq
+http://id.who.int/icd/entity/1146026411	Thoracic duct	http://id.who.int/icd/entity/958419954	Thoracic duct	eq
+http://id.who.int/icd/entity/1699083621	Lymphatic system	http://id.who.int/icd/entity/194670149	Lymphatic system	eq
+http://id.who.int/icd/entity/84789088	Thymus	http://id.who.int/icd/entity/198809973	Thymus	eq
+http://id.who.int/icd/entity/805962538	Adenoid	http://id.who.int/icd/entity/457837468	Adenoid	eq
+http://id.who.int/icd/entity/1580455485	"Abdomen, not otherwise specified"	http://id.who.int/icd/entity/1983193090	Abdomen	nan
+http://id.who.int/icd/entity/1258439829	Cochlea	http://id.who.int/icd/entity/1597714010	Cochlea	eq
+http://id.who.int/icd/entity/1662847908	Musculoskeletal structures of hand or fingers	http://id.who.int/icd/entity/430791912	Hand	na
+http://id.who.int/icd/entity/1662847908	Musculoskeletal structures of hand or fingers	http://id.who.int/icd/entity/40907641	Musculoskeletal system	na
+http://id.who.int/icd/entity/624430876	External ear	http://id.who.int/icd/entity/768242906	External Ear	eq
+http://id.who.int/icd/entity/1877020903	Eustachian tube	http://id.who.int/icd/entity/987893786	Eustachian tube	eq
+http://id.who.int/icd/entity/1084353097	Stapes	http://id.who.int/icd/entity/1272454184	Stapes	eq
+http://id.who.int/icd/entity/1651591926	Ligament or fascia of hand or fingers	http://id.who.int/icd/entity/2141720548	Ligament of the wrist and hand	overlap
+http://id.who.int/icd/entity/1349219327	Tympanic membrane	http://id.who.int/icd/entity/347265434	Tympanic membrane	eq
+http://id.who.int/icd/entity/1489962514	Tendon of hand or fingers	http://id.who.int/icd/entity/1477031686	Tendons of the upper extremity	na
+http://id.who.int/icd/entity/1489962514	Tendon of hand or fingers	http://id.who.int/icd/entity/1617949731	Tendons	na
+http://id.who.int/icd/entity/178164668	"Topographical regions: Trunk, head or neck, not otherwise specified"	http://id.who.int/icd/entity/223243926	Head and neck	
+http://id.who.int/icd/entity/178164668	"Topographical regions: Trunk, head or neck, not otherwise specified"	http://id.who.int/icd/entity/947150833	Trunk	
+http://id.who.int/icd/entity/78462064	Middle ear	http://id.who.int/icd/entity/1902897114	Middle Ear	eq
+http://id.who.int/icd/entity/1792360217	External auditory canal	http://id.who.int/icd/entity/1296498321	External auditory canal	eq
+http://id.who.int/icd/entity/1274507577	Inguinal lymph node	http://id.who.int/icd/entity/1542770426	Inguinal lymph node	eq
+http://id.who.int/icd/entity/1572946212	Knee joint	http://id.who.int/icd/entity/1574110781	Knee joint	eq
+http://id.who.int/icd/entity/859690149	Nose	http://id.who.int/icd/entity/1082634473	Nose	eq
+http://id.who.int/icd/entity/131874113	Spinal cavity	http://id.who.int/icd/entity/405704375	Vertebral column	na
+http://id.who.int/icd/entity/131874113	Spinal cavity	http://id.who.int/icd/entity/1462096867	Vertebral cavity	eq
+http://id.who.int/icd/entity/1462006488	"Sympathetic nervous system, lumbar"	http://id.who.int/icd/entity/225409574	Sympathetic nervous system	na
+http://id.who.int/icd/entity/748865529	"Sympathetic nervous system, sacral"	http://id.who.int/icd/entity/225409574	Sympathetic nervous system	na
+http://id.who.int/icd/entity/1005769410	Coccyx	http://id.who.int/icd/entity/541642128	Coccyx	eq
+http://id.who.int/icd/entity/17749700	Vertebral column	http://id.who.int/icd/entity/405704375	Vertebral column	eq
+http://id.who.int/icd/entity/1255178849	Hyoid bone	http://id.who.int/icd/entity/1371887320	Hyoid bone	eq
+http://id.who.int/icd/entity/827733824	Mandible	http://id.who.int/icd/entity/375873857	Mandible	eq
+http://id.who.int/icd/entity/537665762	"External ear, unspecified"	http://id.who.int/icd/entity/768242906	External Ear	eq
+http://id.who.int/icd/entity/1065300422	Auricle	http://id.who.int/icd/entity/1081331887	Earlobe	eq
+http://id.who.int/icd/entity/1065300422	Auricle	http://id.who.int/icd/entity/2030796271	Pinna	eq
+http://id.who.int/icd/entity/984540840	"Middle ear, unspecified"	http://id.who.int/icd/entity/1902897114	Middle Ear	eq
+http://id.who.int/icd/entity/72479542	Maxilla	http://id.who.int/icd/entity/573235775	Maxilla	
+http://id.who.int/icd/entity/1055899602	Nasal bone	http://id.who.int/icd/entity/224708056	Nasal bone	
+http://id.who.int/icd/entity/1169983321	Lymph node other and unspecified	http://id.who.int/icd/entity/1525493612	Lymph nodes	eq
+http://id.who.int/icd/entity/267541994	Zygomatic bone	http://id.who.int/icd/entity/441229592	Zygomatic bone	
+http://id.who.int/icd/entity/2130268069	Musculoskeletal system targets	http://id.who.int/icd/entity/40907641	Musculoskeletal system	
+http://id.who.int/icd/entity/1900625375	"Lymphatic structure, unspecified"	http://id.who.int/icd/entity/194670149	Lymphatic system	eq
+http://id.who.int/icd/entity/1900625375	"Lymphatic structure, unspecified"	http://id.who.int/icd/entity/1546367254	Lymphocytic tissue	eq
+http://id.who.int/icd/entity/2134590573	Pineal body	http://id.who.int/icd/entity/112148603	Pineal gland	eq
+http://id.who.int/icd/entity/559541856	"Complex congenital heart malformation, atrium"	http://id.who.int/icd/entity/1170554644	Cardiac atrium	na
+http://id.who.int/icd/entity/439706738	Breast and related structures	http://id.who.int/icd/entity/831985561	Breast	eq
+http://id.who.int/icd/entity/1675119410	"Complex congenital heart malformation, ventricle"	http://id.who.int/icd/entity/2092798548	Cardiac ventricle	na
+http://id.who.int/icd/entity/1850829920	Truncal valve	http://id.who.int/icd/entity/1912610276	Heart valve	na
+http://id.who.int/icd/entity/1748610320	"Complex congenital heart malformation, valve"	http://id.who.int/icd/entity/1912610276	Heart valve	na
+http://id.who.int/icd/entity/1605372811	Breast	http://id.who.int/icd/entity/831985561	Breast	eq
+http://id.who.int/icd/entity/313059273	Nasal septum	http://id.who.int/icd/entity/185288147	Nasal septum	eq
+http://id.who.int/icd/entity/1646507694	"Sympathetic nervous system, thoracic"	http://id.who.int/icd/entity/225409574	Sympathetic nervous system	na
+http://id.who.int/icd/entity/1031774633	Diaphragm	http://id.who.int/icd/entity/152505840	Diaphragm	eq
+http://id.who.int/icd/entity/1576194820	"Complex congenital heart malformation, great vessel"	http://id.who.int/icd/entity/1314934431	Blood vessel of the thorax	na
+http://id.who.int/icd/entity/1576194820	"Complex congenital heart malformation, great vessel"	http://id.who.int/icd/entity/1293717335	Great cardiac vein	na
+http://id.who.int/icd/entity/237648262	Targets for body systems and functions	nan	nan	eq
+http://id.who.int/icd/entity/678937943	Ankle joint	http://id.who.int/icd/entity/2000483733	Ankle joint	eq
+http://id.who.int/icd/entity/1506519640	Kidney	http://id.who.int/icd/entity/720032908	Kidney	eq
+http://id.who.int/icd/entity/1500256806	Ureter	http://id.who.int/icd/entity/1267519716	Ureter	eq
+http://id.who.int/icd/entity/159173017	Urinary bladder	http://id.who.int/icd/entity/157646292	Urinary bladder	eq
+http://id.who.int/icd/entity/1673092302	Urethra	http://id.who.int/icd/entity/921977085	Urethra	eq
+http://id.who.int/icd/entity/1765079970	Spermatic cord	http://id.who.int/icd/entity/753469955	Spermatic cord	eq
+http://id.who.int/icd/entity/122484939	Scrotum	http://id.who.int/icd/entity/344934694	Scrotum	eq
+http://id.who.int/icd/entity/161034505	Penis	http://id.who.int/icd/entity/435785772	Penis	eq
+http://id.who.int/icd/entity/1134941796	Ovary	http://id.who.int/icd/entity/61287910	Ovary	eq
+http://id.who.int/icd/entity/51680869	Fallopian tube	http://id.who.int/icd/entity/987725990	Fallopian Tube	eq
+http://id.who.int/icd/entity/967498371	Uterus	http://id.who.int/icd/entity/648738923	Uterus	eq
+http://id.who.int/icd/entity/212672247	Cervix uteri	http://id.who.int/icd/entity/1399753101	Cervix uteri	eq
+http://id.who.int/icd/entity/1999350744	Vagina	http://id.who.int/icd/entity/1145498957	Vagina	eq
+http://id.who.int/icd/entity/592073769	Vulva	http://id.who.int/icd/entity/475546725	Vulva	eq
+http://id.who.int/icd/entity/1342433135	Perineum	http://id.who.int/icd/entity/402925049	Perineum	eq
+http://id.who.int/icd/entity/777291042	Forearm	http://id.who.int/icd/entity/1477228030	Forearm	eq
+http://id.who.int/icd/entity/1869380839	Hand	http://id.who.int/icd/entity/430791912	Hand	eq
+http://id.who.int/icd/entity/543470706	Thigh	http://id.who.int/icd/entity/238202718	Thigh	eq
+http://id.who.int/icd/entity/358838280	Lower leg	http://id.who.int/icd/entity/106050921	Lower leg	eq
+http://id.who.int/icd/entity/1860551975	Foot	http://id.who.int/icd/entity/1896004518	Foot	eq
+http://id.who.int/icd/entity/1795154793	Toe	http://id.who.int/icd/entity/1735902769	Toes	eq
+http://id.who.int/icd/entity/1305757898	Wrist joint	http://id.who.int/icd/entity/1768750843	Wrist joint	eq
+http://id.who.int/icd/entity/316318615	Elbow joint	http://id.who.int/icd/entity/1364152594	Elbow joint	eq
+http://id.who.int/icd/entity/483011267	"Complex congenital heart malformation, coronary artery"	http://id.who.int/icd/entity/1612889623	Coronary arteries	na
+http://id.who.int/icd/entity/1425432007	Skin	http://id.who.int/icd/entity/123461884	Skin	eq
+http://id.who.int/icd/entity/225243685	"Heart, not elsewhere classified"	http://id.who.int/icd/entity/1196650747	Heart	nan
+http://id.who.int/icd/entity/971175445	Gastrointestinal tract	http://id.who.int/icd/entity/1651798887	Gastrointestinal tract	eq
+http://id.who.int/icd/entity/647096113	Soft palate	http://id.who.int/icd/entity/1012292065	Soft palate	eq
+http://id.who.int/icd/entity/373814315	Teeth	http://id.who.int/icd/entity/1492238572	Teeth	eq
+http://id.who.int/icd/entity/591409247	Tongue	http://id.who.int/icd/entity/1769856759	Tongue	eq
+http://id.who.int/icd/entity/1864650865	Skin appendages	http://id.who.int/icd/entity/1001188833	Epidermal appendages	eq
+http://id.who.int/icd/entity/1383647670	Patella	http://id.who.int/icd/entity/435983056	Patella	eq
+http://id.who.int/icd/entity/798298230	Skin appendage of trunk	http://id.who.int/icd/entity/265477888	Skin of trunk	na
+http://id.who.int/icd/entity/798298230	Skin appendage of trunk	http://id.who.int/icd/entity/1001188833	Epidermal appendages	na
+http://id.who.int/icd/entity/14019290	"Skin appendage of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/2046770427	Skin of upper limb	nan
+http://id.who.int/icd/entity/14019290	"Skin appendage of upper limb, not elsewhere classified"	http://id.who.int/icd/entity/1001188833	Epidermal appendages	nan
+http://id.who.int/icd/entity/265015866	"Skin appendage of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/975825478	Skin of lower limb and hip	nan
+http://id.who.int/icd/entity/265015866	"Skin appendage of lower limb, not elsewhere classified"	http://id.who.int/icd/entity/1001188833	Epidermal appendages	nan
+http://id.who.int/icd/entity/1009983867	Lip	http://id.who.int/icd/entity/396837934	Lip	eq
+http://id.who.int/icd/entity/483021639	Digestive system targets	http://id.who.int/icd/entity/2108966855	Digestive system	eq
+http://id.who.int/icd/entity/950531499	Thoracic cavity	http://id.who.int/icd/entity/685877085	Thoracic cavity	eq
+http://id.who.int/icd/entity/1982235902	Pleural cavity	http://id.who.int/icd/entity/634685795	Pleural cavity	eq
+http://id.who.int/icd/entity/915916025	Pleura	http://id.who.int/icd/entity/805568052	Pleura	eq
+http://id.who.int/icd/entity/204048415	Lung parenchyma	http://id.who.int/icd/entity/2081481761	Lung parenchyma	eq
+http://id.who.int/icd/entity/433536599	Bronchus	http://id.who.int/icd/entity/1492119116	Bronchus	eq
+http://id.who.int/icd/entity/226248349	Trachea	http://id.who.int/icd/entity/1841070931	Trachea	eq
+http://id.who.int/icd/entity/763704481	Lower respiratory tract	http://id.who.int/icd/entity/909890232	Lower respiratory tract	eq
+http://id.who.int/icd/entity/1130006458	Sphenoid sinus	http://id.who.int/icd/entity/1851621027	Sphenoid sinus	eq
+http://id.who.int/icd/entity/953954969	Ethmoid sinus	http://id.who.int/icd/entity/1091787076	Ethmoid sinus	eq
+http://id.who.int/icd/entity/232519405	Frontal sinus	http://id.who.int/icd/entity/1446722948	Frontal sinus	eq
+http://id.who.int/icd/entity/929413643	Maxillary sinus	http://id.who.int/icd/entity/1969150524	Maxillary sinus	eq
+http://id.who.int/icd/entity/2112757806	Hard palate	http://id.who.int/icd/entity/523484767	Hard palate	eq
+http://id.who.int/icd/entity/436108473	Parotid gland	http://id.who.int/icd/entity/1079013045	Parotid gland	eq
+http://id.who.int/icd/entity/2132964281	Rectum	http://id.who.int/icd/entity/771220582	Rectum	eq
+http://id.who.int/icd/entity/314059509	Appendix	http://id.who.int/icd/entity/704682604	Appendix	eq
+http://id.who.int/icd/entity/1376326520	"Complex congenital heart malformation, unspecified"	http://id.who.int/icd/entity/1196650747	Heart	na
+http://id.who.int/icd/entity/697280087	"Entire heart or great vessel, unspecified"	http://id.who.int/icd/entity/1196650747	Heart	na
+http://id.who.int/icd/entity/697280087	"Entire heart or great vessel, unspecified"	http://id.who.int/icd/entity/1314934431	Blood vessel of the thorax	na
+http://id.who.int/icd/entity/2131439959	Integumentary system targets	http://id.who.int/icd/entity/555078855	Integumentary system	eq
+http://id.who.int/icd/entity/297764928	Peritoneum	http://id.who.int/icd/entity/1924631190	Peritoneum	eq
+http://id.who.int/icd/entity/101929535	"Artery of head and neck, extracranial"	http://id.who.int/icd/entity/852143287	"Artery of head, face, and neck"	na
+http://id.who.int/icd/entity/1887306683	Gall bladder	http://id.who.int/icd/entity/1351578749	Gallbladder	eq
+http://id.who.int/icd/entity/1084756129	Liver	http://id.who.int/icd/entity/328366540	Liver	eq
+http://id.who.int/icd/entity/1644367532	"Complex congenital malformation, thoracic artery"	http://id.who.int/icd/entity/1885434231	Artery of thorax	na
+http://id.who.int/icd/entity/711820790	Anus and anal canal	http://id.who.int/icd/entity/960740196	Anus and anal canal	eq
+http://id.who.int/icd/entity/1615946397	Hepatic or biliary structures	http://id.who.int/icd/entity/616736219	nan	eq
+http://id.who.int/icd/entity/1243985869	Sigmoid colon	http://id.who.int/icd/entity/894847549	Sigmoid colon	eq
+http://id.who.int/icd/entity/551559834	Colon	http://id.who.int/icd/entity/578694909	Colon	eq
+http://id.who.int/icd/entity/715210632	Skin appendage of head or neck	http://id.who.int/icd/entity/223243926	Head and neck	na
+http://id.who.int/icd/entity/715210632	Skin appendage of head or neck	http://id.who.int/icd/entity/1001188833	Epidermal appendages	na
+http://id.who.int/icd/entity/393818279	"Artery, not elsewhere classified"	http://id.who.int/icd/entity/1933239759	Arteries	nan
+http://id.who.int/icd/entity/1838400728	Respiratory system and voice and speech targets	http://id.who.int/icd/entity/57597214	Respiratory system	br
+http://id.who.int/icd/entity/1469773180	Gastroesophageal junction	http://id.who.int/icd/entity/1443934016	Cardioesophageal junction	eq
+http://id.who.int/icd/entity/1029660715	Oesophagus	http://id.who.int/icd/entity/72252748	Oesophagus	eq
+http://id.who.int/icd/entity/1400951602	Stomach	http://id.who.int/icd/entity/1493524587	Stomach	eq
+http://id.who.int/icd/entity/2021506978	Duodenum	http://id.who.int/icd/entity/337700	Duodenum	eq
+http://id.who.int/icd/entity/2109515250	"Vein, not elsewhere classified"	http://id.who.int/icd/entity/832846369	Veins	nan
+http://id.who.int/icd/entity/48687255	Hip joint	http://id.who.int/icd/entity/1188078244	Hip joint	eq
+http://id.who.int/icd/entity/1524976141	Other and unspecified body system and function targets	http://id.who.int/icd/entity/1644747126	Functional anatomy	????
+http://id.who.int/icd/entity/1563923346	Soft tissue of trunk	http://id.who.int/icd/entity/751853343	nan	
+http://id.who.int/icd/entity/476546881	Testis	http://id.who.int/icd/entity/1002532547	Testis	eq
+http://id.who.int/icd/entity/1650614484	"Musculoskeletal structures, not elsewhere classified"	http://id.who.int/icd/entity/40907641	Musculoskeletal system	nan
+http://id.who.int/icd/entity/8875782	Soft tissue of head or neck	http://id.who.int/icd/entity/751853343	nan	
+http://id.who.int/icd/entity/1919596850	Spinal cord structures	http://id.who.int/icd/entity/1150229943	Spinal cord	br
+http://id.who.int/icd/entity/1107741272	Musculoskeletal structures of forearm	http://id.who.int/icd/entity/1477228030	Forearm	na
+http://id.who.int/icd/entity/1652076574	Ductus arteriosus	http://id.who.int/icd/entity/1885434231	Artery of thorax	na
+http://id.who.int/icd/entity/171621714	Mastoid sinus	http://id.who.int/icd/entity/595221519	Mastoid antrum	eq
+http://id.who.int/icd/entity/952927777	Cerebral vessels	http://id.who.int/icd/entity/646733537	Cerebral vasculature	????
+http://id.who.int/icd/entity/238274750	Whole body	nan	nan	
+				
+	Andrea and Ann-Helene have reviewed their maps - shown as red letter and yellow cells in column andrea 2 and ann			
+	in column ann - Ann-Helene has added maps when only one maps earlier from Andrea - red letter no coloured cells			
+				
+	AHA suggested as grey cells - all reviewers agree			
+	AHA suggested as yellow cells - two or more  reviewers agree			
+	AHA suggested as blue cells - AHA decided 			
+	AHA suggested as orange cells - issue to be solved			
+	AM column F - changes during the last review			

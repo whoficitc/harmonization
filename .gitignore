@@ -1,2 +1,26 @@
 src/cellfie.log
 bin/JupyterNotebooks/.ipynb_checkpoints/Harmonization-checkpoint.ipynb
+maps/anatomy/old/ICF-ICD-anatomy-v1 copy.tsv
+maps/anatomy/old/ICF-ICD-anatomy-v1.tsv
+maps/anatomy/old/ICF-ICD-anatomy-v1.xlsx
+maps/anatomy/old/ICHI-ICD-anatomy-v1.xlsx
+maps/anatomy/old/ICHI-ICD-anatomy-v2.xlsx
+maps/anatomy/old/ICHI-ICD-anatomy-v3.xlsx
+maps/anatomy/old/ICHISourceLeafNode.xlsx
+maps/anatomy/old/ICHISourceNotLeafNode.xlsx
+maps/anatomy/old/ICHITargetNotSurfaceTopography.xlsx
+maps/anatomy/old/ICHITargetNotSurfaceTopographyOrSourceLeafNode.xlsx
+maps/anatomy/old/ICHITargetSurfaceTopography.xlsx
+maps/anatomy/old/ICHITargetSurfaceTopographySourceNotLeafNode.xlsx
+maps/anatomy/old/Kopia av ichinew_AHA3 2024-05-03.xlsx
+maps/anatomy/old/SourceLeafNode.xlsx
+maps/anatomy/old/SourceNotLeafNode.xlsx
+maps/anatomy/old/TargetNotSurfaceTopography.xlsx
+maps/anatomy/old/TargetNotSurfaceTopographyOrSourceLeafNode.xlsx
+maps/anatomy/old/TargetSurfaceTopography.xlsx
+maps/anatomy/old/TargetSurfaceTopographySourceNotLeafNode.xlsx
+maps/anatomy/old/~$ICF-ICD-anatomy-v1.xlsx
+ontology/whofic-2025-05-24.owl
+ontology/whofic-2025-05-24.properties
+ontology/whofic-2025-05-24.ttl
+ontology/whofic-2025-05-24-renamed.properties
