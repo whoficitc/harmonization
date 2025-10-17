@@ -4288,6 +4288,16 @@
     
 
 
+    <!-- http://id.who.int/icd/entity/1200701439 -->
+
+    <owl:Class rdf:about="http://id.who.int/icd/entity/1200701439">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1200701439"/>
+        <skos:prefLabel xml:lang="en">Interlobar artery</skos:prefLabel>
+    </owl:Class>
+    
+
+
     <!-- http://id.who.int/icd/entity/1201803847 -->
 
     <owl:Class rdf:about="http://id.who.int/icd/entity/1201803847">
@@ -14055,6 +14065,17 @@
     
 
 
+    <!-- http://id.who.int/icd/entity/1693767745 -->
+
+    <owl:Class rdf:about="http://id.who.int/icd/entity/1693767745">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1933239759"/>
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1693767745"/>
+        <skos:prefLabel xml:lang="en">Afferent arteriole of the interlobular artery</skos:prefLabel>
+    </owl:Class>
+    
+
+
     <!-- http://id.who.int/icd/entity/1695313768 -->
 
     <owl:Class rdf:about="http://id.who.int/icd/entity/1695313768">
@@ -16955,6 +16976,16 @@
     
 
 
+    <!-- http://id.who.int/icd/entity/1837026391 -->
+
+    <owl:Class rdf:about="http://id.who.int/icd/entity/1837026391">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1837026391"/>
+        <skos:prefLabel xml:lang="en">Efferent arteriole of the interlobular artery</skos:prefLabel>
+    </owl:Class>
+    
+
+
     <!-- http://id.who.int/icd/entity/1837215775 -->
 
     <owl:Class rdf:about="http://id.who.int/icd/entity/1837215775">
@@ -17349,6 +17380,16 @@
         <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2037717603"/>
         <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1851621027"/>
         <skos:prefLabel xml:lang="en">Sphenoid sinus</skos:prefLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1852527073 -->
+
+    <owl:Class rdf:about="http://id.who.int/icd/entity/1852527073">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1852527073"/>
+        <skos:prefLabel xml:lang="en">Pulmonary trunk</skos:prefLabel>
     </owl:Class>
     
 
@@ -19288,6 +19329,16 @@
         <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/344632447"/>
         <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1943589879"/>
         <skos:prefLabel xml:lang="en">Vesicovaginal septum</skos:prefLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://id.who.int/icd/entity/1943846017 -->
+
+    <owl:Class rdf:about="http://id.who.int/icd/entity/1943846017">
+        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
+        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1943846017"/>
+        <skos:prefLabel xml:lang="en">Interlobular artery</skos:prefLabel>
     </owl:Class>
     
 
@@ -38919,57 +38970,6 @@ There are termed &quot;diagonal&quot; due to them branching from their parent ve
         <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1896004518"/>
         <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F999662081"/>
         <skos:prefLabel xml:lang="en">Forefoot</skos:prefLabel>
-    </owl:Class>
-    
-
-
-    <!-- http://id.who.int/icd/entity/1200701439 -->
-
-    <owl:Class rdf:about="http://id.who.int/icd/entity/1200701439">
-        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
-        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1200701439"/>
-        <skos:prefLabel xml:lang="en">Interlobar artery</skos:prefLabel>
-    </owl:Class>
-    
-
-
-    <!-- http://id.who.int/icd/entity/1693767745 -->
-
-    <owl:Class rdf:about="http://id.who.int/icd/entity/1693767745">
-        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/1933239759"/>
-        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
-        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1693767745"/>
-        <skos:prefLabel xml:lang="en">Afferent arteriole of the interlobular artery</skos:prefLabel>
-    </owl:Class>
-    
-
-
-    <!-- http://id.who.int/icd/entity/1837026391 -->
-
-    <owl:Class rdf:about="http://id.who.int/icd/entity/1837026391">
-        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
-        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1837026391"/>
-        <skos:prefLabel xml:lang="en">Efferent arteriole of the interlobular artery</skos:prefLabel>
-    </owl:Class>
-    
-
-
-    <!-- http://id.who.int/icd/entity/1852527073 -->
-
-    <owl:Class rdf:about="http://id.who.int/icd/entity/1852527073">
-        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
-        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1852527073"/>
-        <skos:prefLabel xml:lang="en">Pulmonary trunk</skos:prefLabel>
-    </owl:Class>
-    
-
-
-    <!-- http://id.who.int/icd/entity/1943846017 -->
-
-    <owl:Class rdf:about="http://id.who.int/icd/entity/1943846017">
-        <rdfs:subClassOf rdf:resource="http://id.who.int/icd/entity/2036696624"/>
-        <schema:browserUrl rdf:resource="https://icd.who.int/dev11/f/en#/http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1943846017"/>
-        <skos:prefLabel xml:lang="en">Interlobular artery</skos:prefLabel>
     </owl:Class>
     
 
